@@ -1,5 +1,7 @@
-# The MobileCoin Network
-
+---
+title: "The MobileCoin Network"
+description: "The MobileCoin open-source software ecosystem introduces several innovations to the cryptocurrency community, including its Ledger, Consensus Protocol, Secure Enclaves, and Fog."
+---
 The MobileCoin open-source software ecosystem introduces several innovations to the cryptocurrency community, including:
 
 -   MobileCoin Ledger, a new privacy-preserving blockchain built on a technology foundation that includes CryptoNote and Ring Confidential Transactions (RingCT).

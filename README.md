@@ -23,5 +23,6 @@ All site markdown files should include a YAML-style header with the following da
 ---
 title: "not required. Recommended in quotes to avoid formatting faux-pas. A missing title will use the filename starting after the first _ character"
 author: "not required. The original author of the page."
+description: "text to be used as the description in meta tags."
 ---
 ```
