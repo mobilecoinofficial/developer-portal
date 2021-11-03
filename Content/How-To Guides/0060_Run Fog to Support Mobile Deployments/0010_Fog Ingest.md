@@ -394,13 +394,13 @@ The arguments to the Fog Ingest server include the following:
 | recovery-db | Path to recovery-db /account | Recovery-db location |
 | ledger-db | Path to ledger db | Ledger-db location |
 | watcher-db | Path to watcher db | Watcher-db location |
-| client-listen-uri | URI, for example: <br/> insecure-fog-ingest://0.0.0.0:3226/ | URI on which to listen for requests. Note: Ingest is not exposed to Fog users, so this is in fact an admin port. There is an admin client which registers users with the ingest service, and it talks to this port.  |
-| peer-listen-uri | URI, for example:  insecure-igp://0.0.0.0:8090/ | URI on which to listen for ingest backup peers. When a node is configured with the --primary-node-uri parameter, it acts as a backup and forms an attested connection with the primary ingest node. |
+| client-listen-uri | URI, for example: <br /> insecure-fog-ingest://0.0.0.0:3226/ | URI on which to listen for requests. Note: Ingest is not exposed to Fog users, so this is in fact an admin port. There is an admin client which registers users with the ingest service, and it talks to this port.  |
+| peer-listen-uri | URI, for example: \n insecure-igp://0.0.0.0:8090/ | URI on which to listen for ingest backup peers. When a node is configured with the --primary-node-uri parameter, it acts as a backup and forms an attested connection with the primary ingest node. |
 | ias-api-key | IAS credential | Your API key for attesting with the Intel Attestation Service. See [Getting Intel Attestation Service Credentials](https://docs.google.com/document/d/1iSHIi18Y7UTqzi0V4zy3NbP49ObxeHExsdmqoGHTRa0/edit#heading=h.6udbg7jtjqpq). |
 | ias-spid | IAS credential | Your Service Provider ID for attesting with the Intel Attestation Service. See [Getting Intel Attestation Service Credentials](https://docs.google.com/document/d/1iSHIi18Y7UTqzi0V4zy3NbP49ObxeHExsdmqoGHTRa0/edit#heading=h.6udbg7jtjqpq). |
 | local-node-id | address:port | The "Responder ID" used in ingest peer attestation for private key backup. |
 | sealed-key | Path to local sealed key | Local location to store the sealed enclave key. If the ingest server restarts on the same machine, it can restore its private key from the sealed-key. |
-| admin-listen-uri | URI, for example:&nbsp;insecure-mca://127.0.0.1:9091/ | URI on which the in-container admin service connects to gather info from the running ingest service. |
+| admin-listen-uri | URI, for example: &nbsp; insecure-mca://127.0.0.1:9091/ | URI on which the in-container admin service connects to gather info from the running ingest service. |
 
 The arguments to the `mobilecoind` include the following:
 
@@ -483,8 +483,8 @@ The arguments to the `fog_lmdb_recovery_distribution_upload` include the followi
 
 # Glossary
 
-| Glossary of Terms |
-| ----------- |
+| Term | Definition |
+| ----------- | ----------- |
 | **Consensus Server** | The MobileCoin Consensus Service facilitates transactions between MobileCoin users. The MobileCoin Consensus Protocol solves the Byzantine Agreement Problem by requiring each user to specify a set of peers that they trust, called a quorum.  |
 | **Consensus Validator Node** | Runs Intel's Software Guard eXtensions (SGX), which provides defense-in-depth improvements to privacy and trust. |
 | **Fog Service** | Composed of three services and a ledger sync process: Ledger, Ingest, View, and Report. |
