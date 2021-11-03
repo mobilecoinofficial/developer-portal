@@ -406,48 +406,21 @@ The arguments to the `mobilecoind` include the following:
 
 | Argument | Value | Function |
 | ----------- | ----------- | ----------- |
-|
-peer 
-|
-Consensus node peer URI. Can provide multiple.
-<br />
-Example:
-<br />
-mc://node1.demo.mobilecoin.com/\
-|
-Consensus "peers" from which to query the block height, in order to sync the ledger to the appropriate height.
-|
-|
-tx-src-url
-|
-S3 Path to ledger archive blocks. Can provide multiple.
-<br />
-Example:
-<br />
-https://s3-us-west-1.amazonaws.com/mobilecoin.chain/node1.alpha.mobilecoin.com/\
-|
-S3 source URLs from which to sync archive blocks. 
-|
-|
-ledger-db
-|
-Path to ledger db
-|
-Ledger-db location
-|
-|
-watcher-db
-|
-Path to watcher db
-|
-Watcher-db location
-|
-|
-poll-interval 
-|
-2
-|\
-|
+| peer 
+| Consensus node peer URI. Can provide multiple.<br />Example:<br />mc://node1.demo.mobilecoin.com/ 
+| Consensus "peers" from which to query the block height, in order to sync the ledger to the appropriate height. |
+| tx-src-url
+| S3 Path to ledger archive blocks. Can provide multiple.<br />Example:<br />https://s3-us-west-1.amazonaws.com/mobilecoin.chain/node1.alpha.mobilecoin.com/
+| S3 source URLs from which to sync archive blocks. |
+| ledger-db
+| Path to ledger db
+| Ledger-db location |
+| watcher-db
+| Path to watcher db
+| Watcher-db location |
+| poll-interval
+| 2
+| \ |
 
 The arguments to the `fog_lmdb_recovery_distribution_upload` include the following:
 
