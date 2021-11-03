@@ -85,13 +85,12 @@ In order to perform a read, the Client must reconstruct the tokens for which it 
 The Client maintains the following information:
 
 | Persistent Storage | Cached on Phone | Queryable |
-|
-
+| ----------- | ----------- | -----------  |
+| 
 -   Root Entropy (From which to derive Cryptonote KeyPairs)
 
 -   Fog Server PubKey/FQDN (or implicit, e.g. this app always uses this fog server)
  | 
-
 -   Seeds (Reconstructable from Public Keys via Fog's mapping of public keys to seeds)
 
 -   PRNGs cursor (Note: can be reconstructed from seed, and sending queries to View Node.)
@@ -99,15 +98,12 @@ The Client maintains the following information:
 -   Previous Transactions
 
 -   Seeds Cursor (number of seeds received so far)
-
  | 
-
 -   Seeds (from View)
 
 -   TxOuts (from View)
 
 -   Ingest PubKey (from Report service)
-
  |
 
 # Running the Node
@@ -147,7 +143,8 @@ Familiarize yourself with the [entrypoint for the fog-ingest docker container](h
 These multiple processes include the following:
 
 | Process | Function  |
-| mobilecoind |Syncs the ledger from archive blocks on S3. |
+| ----------- | ----------- |
+| mobilecoind | Syncs the ledger from archive blocks on S3. |
 | fog_lmdb_recovery_distribution_upload | Uploads the recovery database (db) to S3. |
 | report_server | Runs the MobileCoin Report service. |
 | fog_ingest_server | Runs the MobileCoin Fog Ingest service. |
@@ -157,6 +154,7 @@ These multiple processes include the following:
 The following environment variables should be provided when configuring your node:
 
 | Variable | Service(s) | Value | Function |
+| ----------- | ----------- | ----------- | ----------- |
 |  
 ACCT_INGEST_CLIENT_LISTEN_URI | fog_ingest_server
  |
@@ -393,504 +391,117 @@ The arguments to the Fog Ingest server include the following:
 
 | Argument | Value | Function |
 | ----------- | ----------- | ----------- |
-|
-
-recovery-db
-
- |
-
-Path to recovery-db /account
-
- |
-
-Recovery-db location
-
- |
-|
-
-ledger-db
-
- |
-
-Path to ledger db
-
- |
-
-Ledger-db location
-
- |
-|
-
-watcher-db
-
- |
-
-Path to watcher db
-
- |
-
-Watcher-db location
-
- |
-|
-
-client-listen-uri
-
- |
-
-URI, for example:
-
-insecure-fog-ingest://0.0.0.0:3226/
-
- |
-
-URI on which to listen for requests. Note: Ingest is not exposed to Fog users, so this is in fact an admin port. There is an admin client which registers users with the ingest service, and it talks to this port. 
-
- |
-|
-
-peer-listen-uri
-
- |
-
-URI, for example:
-
-insecure-igp://0.0.0.0:8090/
-
- |
-
-URI on which to listen for ingest backup peers. When a node is configured with the --primary-node-uri parameter, it acts as a backup and forms an attested connection with the primary ingest node.
-
- |
-|
-
-ias-api-key
-
- |
-
-IAS credential
-
- |
-
-Your API key for attesting with the Intel Attestation Service. See [Getting Intel Attestation Service Credentials](https://docs.google.com/document/d/1iSHIi18Y7UTqzi0V4zy3NbP49ObxeHExsdmqoGHTRa0/edit#heading=h.6udbg7jtjqpq).
-
- |
-|
-
-ias-spid
-
- |
-
-IAS credential
-
- |
-
-Your Service Provider ID for attesting with the Intel Attestation Service. See [Getting Intel Attestation Service Credentials](https://docs.google.com/document/d/1iSHIi18Y7UTqzi0V4zy3NbP49ObxeHExsdmqoGHTRa0/edit#heading=h.6udbg7jtjqpq).
-
- |
-|
-
-local-node-id
-
- |
-
-address:port
-
- |
-
-The "Responder ID" used in ingest peer attestation for private key backup.
-
- |
-|
-
-sealed-key
-
- |
-
-Path to local sealed key
-
- |
-
-Local location to store the sealed enclave key. If the ingest server restarts on the same machine, it can restore its private key from the sealed-key.
-
- |
-|
-
-admin-listen-uri
-
- |
-
-URI, for example:
-
-insecure-mca://127.0.0.1:9091/
-
- |
-
-URI on which the in-container admin service connects to gather info from the running ingest service.
-
- |
+| recovery-db | Path to recovery-db /account | Recovery-db location |
+| ledger-db | Path to ledger db | Ledger-db location |
+| watcher-db | Path to watcher db | Watcher-db location |
+| client-listen-uri | URI, for example:<br/>insecure-fog-ingest://0.0.0.0:3226/ | URI on which to listen for requests. Note: Ingest is not exposed to Fog users, so this is in fact an admin port. There is an admin client which registers users with the ingest service, and it talks to this port.  |
+| peer-listen-uri | URI, for example:<br/>insecure-igp://0.0.0.0:8090/ | URI on which to listen for ingest backup peers. When a node is configured with the --primary-node-uri parameter, it acts as a backup and forms an attested connection with the primary ingest node. |
+| ias-api-key | IAS credential | Your API key for attesting with the Intel Attestation Service. See [Getting Intel Attestation Service Credentials](https://docs.google.com/document/d/1iSHIi18Y7UTqzi0V4zy3NbP49ObxeHExsdmqoGHTRa0/edit#heading=h.6udbg7jtjqpq). |
+| ias-spid | IAS credential | Your Service Provider ID for attesting with the Intel Attestation Service. See [Getting Intel Attestation Service Credentials](https://docs.google.com/document/d/1iSHIi18Y7UTqzi0V4zy3NbP49ObxeHExsdmqoGHTRa0/edit#heading=h.6udbg7jtjqpq). |
+| local-node-id | address:port | The "Responder ID" used in ingest peer attestation for private key backup. |
+| sealed-key | Path to local sealed key | Local location to store the sealed enclave key. If the ingest server restarts on the same machine, it can restore its private key from the sealed-key. |
+| admin-listen-uri | URI, for example:<br/>insecure-mca://127.0.0.1:9091/ | URI on which the in-container admin service connects to gather info from the running ingest service. |
 
 The arguments to the `mobilecoind` include the following:
 
+| Argument | Value | Function |
+| ----------- | ----------- | ----------- |
 |
-
-Argument
-
- |
-
-Value
-
- |
-
-Function
-
- |
+peer 
 |
-
-peer
-
- |
-
 Consensus node peer URI. Can provide multiple.
 
 Example:
 
 mc://node1.demo.mobilecoin.com/\
- |
-
-Consensus "peers" from which to query the block height, in order to sync the ledger to the appropriate height. 
-
- |
 |
-
+Consensus "peers" from which to query the block height, in order to sync the ledger to the appropriate height.
+|
+|
 tx-src-url
-
- |
-
+|
 S3 Path to ledger archive blocks. Can provide multiple.
 
 Example:
 
 https://s3-us-west-1.amazonaws.com/mobilecoin.chain/node1.alpha.mobilecoin.com/\
- |
-
+|
 S3 source URLs from which to sync archive blocks. 
-
- |
 |
-
+|
 ledger-db
-
- |
-
+|
 Path to ledger db
-
- |
-
+|
 Ledger-db location
-
- |
 |
-
+|
 watcher-db
-
- |
-
-Path to watcher db
-
- |
-
-Watcher-db location
-
- |
 |
-
+Path to watcher db
+|
+Watcher-db location
+|
+|
 poll-interval 
-
- |
-
+|
 2
-
- |\
- |
+|\
+|
 
 The arguments to the `fog_lmdb_recovery_distribution_upload` include the following:
 
 | Argument | Value | Function |
 | ----------- | ----------- | ----------- |
-|
-
-recovery-db
-
- |
-
-Path to recovery db
-
- |\
- |
-|
-
-dest
-
- |
-
-AWS url 
-
- |\
- |
-|
-
-state-file
-
- |
-
-Path to state file
-
- |\
- |
+| recovery-db | Path to recovery db | \ |
+| dest | AWS url  |\ |
+| state-file | Path to state file | \ |
 
 # Playbook: Common Errors & Alerts
 
 ## Common Errors
 
-|
-
-Common Error
-
- |
-
-Error Message
-
- |
-
-Solution
-
- |
-|\
- |\
- |\
- |
-|\
- |\
- |\
- |
-|\
- |\
- |\
- |
-|\
- |\
- |\
- |
-|\
- |\
- |\
- |
-|\
- |\
- |\
- |
-|\
- |\
- |\
- |
-|\
- |\
- |\
- |
-|\
- |\
- |\
- |
-|\
- |\
- |\
- |
+| Common Error | Error Message | Solution |
+| ----------- | ----------- | ----------- |
+|\ |\ |\ |
+|\ |\ |\ |
+|\ |\ |\ |
+|\ |\ |\ |
+|\ |\ |\ |
+|\ |\ |\ |
+|\ |\ |\ |
+|\ |\ |\ |
+|\ |\ |\ |
+|\ |\ |\ |
 
 ## Alerts
 
-|
-
-Common Alert
-
- |
-
-Alert Message
-
- |
-
-Solution
-
- |
-|\
- |\
- |\
- |
-|\
- |\
- |\
- |
+| Common Alert | Alert Message | Solution |
+| ----------- | ----------- | ----------- |
+|\ |\ |\ |
+|\ |\ |\ |
 
 # Glossary
 
-|
-
-Glossary of Terms
-
- |
-|
-
-**Consensus Server**
-
- |
-
-The MobileCoin Consensus Service facilitates transactions between MobileCoin users. The MobileCoin Consensus Protocol solves the Byzantine Agreement Problem by requiring each user to specify a set of peers that they trust, called a quorum. 
-
- |
-|
-
-**Consensus Validator Node**
-
- |
-
-Runs Intel's Software Guard eXtensions (SGX), which provides defense-in-depth improvements to privacy and trust.
-
- |
-|
-
-**Fog Service**
-
- |
-
-Composed of three services and a ledger sync process: Ledger, Ingest, View, and Report. 
-
- |
-|
-
-**IAS Account**
-
- |
-
-An account after you have obtained your Intel Attestation Service credentials.
-
- |
-|
-
-**Ingest Server**
-
- |
-
-Part of the Fog Service, the Ingest Server processes each transaction in the ledger according to registered users. 
-
- |
-|
-
-**Ledger Server**
-
- |
-
-Part of the Fog Service, the Ledger server serves the contents of the ledger obliviously.
-
- |
-|
-
-**MobileCoin LedgerDB**
-
- |
-
-Storage location for the LedgerDB containing downloaded blocks.
-
- |
-|
-
-**MobileCoin Tokens (MOB)**
-
- |
-
-MobileCoin tokens (MOB, pronounced moh-bee) are a new cryptocurrency that you can send over the internet.
-
- |
-|
-
-**Mobilecoind**
-
- |
-
-A payment system that lets you send money over the internet using a new currency called "mobilecoins" or MOB.
-
- |
-|
-
-**mobilecoindDB**
-
- |
-
-Storage location for the mobilecoindDB containing indexed transactions for registered accounts.
-
- |
-|
-
-**MRENCLAVE**
-
- |
-
-The measurement of the enclave. A stronger measurement of the key that includes all of the contents of the enclave, as well as MRSIGNER.
-
- |
-|
-
-**MRSIGNER**
-
- |
-
-A measurement of the key, which was used to sign the enclave, but does not contain any contents of the enclave itself.
-
- |
-|
-
-**Quorum Set: Trusted and Untrusted Peers** 
-
- |
-
-To run consensus, you must develop a quorum set that provides the basis of trust required to solve the Byzantine Agreement Problem. You must also link your identity to your node for both Intel's attestation verification, as well as to sign messages in consensus. Determine who you trust for your quorum. By figuring out who to include in your quorum set, you specify peers that you trust. MobileCoin uses Universal Resource Identifiers (URIs) to specify peers. These include the address of the peer, the peer's public key, and can optionally include connection information, such as the certificate authority bundle, and tls-hostname.
-
- |
-|
-
-**Report Server**
-
- |
-
-Part of the Fog Service, the Report Server serves the Ingest's pubkey and SGX report to construct transactions.
-
- |
-|
-
-**Secure Enclaves**
-
- |
-
-The MobileCoin Network implements secure enclaves using Intel's Software Guard eXtensions (SGX) to process new transactions according to the MobileCoin Consensus Protocol for integrity and confidentiality. Recent advances in trusted computing make it possible to run software on a remote host without exposing sensitive data to that server's operator, even when she has complete control of the remote computer's operating system (i.e. root access). 
-
- |
-|
-
-**Universal Resource Identifiers (URIs)**
-
- |
-
-Used by MobileCoin to specify peers. The information includes the address of the peer, the peer's public key, and can optionally include connection information, such as the certificate authority bundle, and the tls-hostname.
-
- |
-|
-
-**View Server**
-
- |
-
-Part of the Fog Service, the View Server obliviously provides TxOs belonging to registered users.
-
- |
+| Glossary of Terms |
+| ----------- | ----------- |
+| **Consensus Server** | The MobileCoin Consensus Service facilitates transactions between MobileCoin users. The MobileCoin Consensus Protocol solves the Byzantine Agreement Problem by requiring each user to specify a set of peers that they trust, called a quorum.  |
+| **Consensus Validator Node** | Runs Intel's Software Guard eXtensions (SGX), which provides defense-in-depth improvements to privacy and trust. |
+| **Fog Service** | Composed of three services and a ledger sync process: Ledger, Ingest, View, and Report. |
+| **IAS Account** | An account after you have obtained your Intel Attestation Service credentials. |
+| **Ingest Server** | Part of the Fog Service, the Ingest Server processes each transaction in the ledger according to registered users. |
+| **Ledger Server** | Part of the Fog Service, the Ledger server serves the contents of the ledger obliviously. |
+| **MobileCoin LedgerDB** | Storage location for the LedgerDB containing downloaded blocks. |
+| **MobileCoin Tokens (MOB)** | MobileCoin tokens (MOB, pronounced moh-bee) are a new cryptocurrency that you can send over the internet. |
+| **Mobilecoind** | A payment system that lets you send money over the internet using a new currency called "mobilecoins" or MOB. |
+| **mobilecoindDB** | Storage location for the mobilecoindDB containing indexed transactions for registered accounts. |
+| **MRENCLAVE** | The measurement of the enclave. A stronger measurement of the key that includes all of the contents of the enclave, as well as MRSIGNER. |
+| **MRSIGNER** | A measurement of the key, which was used to sign the enclave, but does not contain any contents of the enclave itself. |
+| **Quorum Set: Trusted and Untrusted Peers**  | To run consensus, you must develop a quorum set that provides the basis of trust required to solve the Byzantine Agreement Problem. You must also link your identity to your node for both Intel's attestation verification, as well as to sign messages in consensus. Determine who you trust for your quorum. By figuring out who to include in your quorum set, you specify peers that you trust. MobileCoin uses Universal Resource Identifiers (URIs) to specify peers. These include the address of the peer, the peer's public key, and can optionally include connection information, such as the certificate authority bundle, and tls-hostname. |
+| **Report Server** | Part of the Fog Service, the Report Server serves the Ingest's pubkey and SGX report to construct transactions. |
+| **Secure Enclaves** | The MobileCoin Network implements secure enclaves using Intel's Software Guard eXtensions (SGX) to process new transactions according to the MobileCoin Consensus Protocol for integrity and confidentiality. Recent advances in trusted computing make it possible to run software on a remote host without exposing sensitive data to that server's operator, even when she has complete control of the remote computer's operating system (i.e. root access). |
+| **Universal Resource Identifiers (URIs)** | Used by MobileCoin to specify peers. The information includes the address of the peer, the peer's public key, and can optionally include connection information, such as the certificate authority bundle, and the tls-hostname. |
+| **View Server** | Part of the Fog Service, the View Server obliviously provides TxOs belonging to registered users. |
 
 # Frequently Asked Questions
 
