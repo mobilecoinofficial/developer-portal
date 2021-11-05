@@ -1,3 +1,7 @@
+# This Section is in Development
+
+This is a reminder that this "Run Fog" section is still being edited and requires another pass.
+
 # About this Manual
 
 MobileCoin Fog is a scalable service infrastructure that enables a smartphone to manage a privacy-preserving cryptocurrency with locally-stored cryptographic keys. Unique from the public ledger, the Fog Service returns all or some portion of user transactions obliviously to enable operators to look up transactions. The MobileCoin Fog Service is composed of three services and a ledger sync process:
