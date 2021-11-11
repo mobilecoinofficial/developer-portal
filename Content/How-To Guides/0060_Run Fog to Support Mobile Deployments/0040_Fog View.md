@@ -31,7 +31,7 @@ The Fog Index data structure is an oblivious key-value store, which can be horiz
 
 Familiarize yourself with the [entrypoint for the fog-ingest docker container](https://github.com/mobilecoinofficial/internal/blob/master/ops/entrypoints/fogingest.sh).
 
-![](https://lh4.googleusercontent.com/zIh04JZnrx2s49oC0Evdx-1BqjJEZxFamPbzqVlfrSJCexy46EE7bjK2dJWpF2PQKMRXcXXyaLd-04b21IYi6aOd6o1sYsU8ZBQCXD-_cP5vs9DauMwWQzjS7rawIjBUjsFIxyDb)  Note:  It contains multiple processes working together to provide the full fog-ingest functionality.
+?> It contains multiple processes working together to provide the full fog-ingest functionality.
 
 These processes include the following:
 
@@ -59,7 +59,7 @@ The following environment variables should be provided:
 
 The code provides the actual docker run command that pulls it all together.
 
-![](https://lh3.googleusercontent.com/Sdyfjy37STZR0ihyB9Xtaanm0OwHYvYwL1foWgnKAxPVfWTh_SY56RlKHjDvdP6mQzQhw8yZMaBkC2Es7q0U5pLDTuIvNjX2PROzWvsTPHnMJ6ZV3hWxSXSOZh8knVI-cfMCGaj9) Warning: Remove the end white space for copy and paste, or the command will fail.
+!> Remove the end white space for copy and paste, or the command will fail.
 
 The following code includes:
 
@@ -101,9 +101,9 @@ docker run \\
 
 The entrypoint passes the arguments from the docker run command to the fog ingest service.
 
-See [Configuring Your Node](https://docs.google.com/document/d/1iSHIi18Y7UTqzi0V4zy3NbP49ObxeHExsdmqoGHTRa0/edit#heading=h.hxfz6iro492h), ? relink. below, for more details on how to set up the values for the parameters unique to your Fog Ingest Node.
+See [Configuring Your Node](/how-to-guides/run-a-mobilecoin-node/configuring-your-consensus-validator-node). below, for more details on how to set up the values for the parameters unique to your Fog Ingest Node.
 
-![](https://lh3.googleusercontent.com/GTmdxdvA5Y0QpGFDjqOIZuFwgDW-sKg5RikJe1MNsaLLPEOOXJnmx479e8lk3WQ51LHErxSd0ZGOaK1iw9jnoNqI2Z-M8i8IwmuvRFPveLPi0lbhg24zmZm4YyYpKkF6icgW2LmH)  Note: The following processes have been separated. They may be consolidated.
+?> The following processes have been separated. They may be consolidated.
 
 The arguments to the Fog View server include the following:
 

@@ -6,7 +6,7 @@ The Intel Attestation Service (IAS) credentials allow node operators to register
 
 **Step 1:** Apply for and obtain an Intel License Agreement to run MobileCoin. Please see: [Partner Intel License Agreement](https://docs.google.com/document/d/1ATv98iLMDlghbC0q8GmbpL6iSlcquy4sVTWAg4nxS6U/edit?usp=sharing). 
 
-![](https://lh3.googleusercontent.com/JYktqIKjI4tee6EqgsPWXan8bQqfRLCOFJ3YpWT9asb4S4mbyBsND5i93AVQbKSXSKXimPT0tiFYgO0YmgsjCkfGu50uDS9wwbYeATwhT76GAVoJl-tLVZeIr4Ci0hZ2do9bgbcV)  Note: Approval can take up to two weeks.
+?> Approval can take up to two weeks.
 
 **Step 2:** Once your request is approved and the license issued (confirmed via email), you can create your account at the [Intel Trusted Portal](https://api.portal.trustedservices.intel.com/) using the email associated with your Partner Intel License Agreement.
 
@@ -22,7 +22,7 @@ The Intel Attestation Service (IAS) credentials allow node operators to register
 
 ![](https://lh4.googleusercontent.com/eCAoPtnI8peRm4tSCyJUubr6HKVFGgdlPyxK0mJC2Z8XXc0hcOygCjc9AaH-AefnWcvbAQXaosc0CLmqh4p6lmqQS0ZxPv0959Nl0bpD4RjAbGq-mpD01aWs5uJNFHKuaDvfjlUn)
 
-![](https://lh3.googleusercontent.com/JYktqIKjI4tee6EqgsPWXan8bQqfRLCOFJ3YpWT9asb4S4mbyBsND5i93AVQbKSXSKXimPT0tiFYgO0YmgsjCkfGu50uDS9wwbYeATwhT76GAVoJl-tLVZeIr4Ci0hZ2do9bgbcV)  Note: On this page, you also can navigate to the Analytics Reports, as shown here, of your attestation requests by clicking on the Analytics reports button.
+?> On this page, you also can navigate to the Analytics Reports, as shown here, of your attestation requests by clicking on the Analytics reports button.
 
 ![](https://lh4.googleusercontent.com/21ruNRyWDjVaT9FdW21ZRrYP8j6pfkTrnWdqlDiUnMd-8jYYicoE1G27RP72zp07vX0OfMdfcBFqO9D3OPs9rtGbtV7dw_shO7Zm5ElNI1UKhm_3QtAeFj7tvQUY-xSm7hrcGG9c)
 
@@ -50,7 +50,7 @@ The following example log output contains measurement values:
 
 If your attestation fails, the consensus service will crash. 
 
-![](https://lh3.googleusercontent.com/JYktqIKjI4tee6EqgsPWXan8bQqfRLCOFJ3YpWT9asb4S4mbyBsND5i93AVQbKSXSKXimPT0tiFYgO0YmgsjCkfGu50uDS9wwbYeATwhT76GAVoJl-tLVZeIr4Ci0hZ2do9bgbcV)  Note: You can see the output of the attestation, if your log level is set to debug, via setting the environment variable RUST_LOG=debug.
+?> You can see the output of the attestation, if your log level is set to debug, via setting the environment variable RUST_LOG=debug.
 
 The attestation output looks like the following for a SW_HARDENING_NEEDED response:
 
@@ -90,7 +90,7 @@ Figure 1: An example of a sequence diagram for client-node attestation.
 
 Azure offers SGX machines through their [Confidential Computing](https://azure.microsoft.com/en-us/solutions/confidential-compute/) platform. Intel is in the process of adding SGX-capable machines in multiple regions and availability zones.
 
-![](https://lh3.googleusercontent.com/JYktqIKjI4tee6EqgsPWXan8bQqfRLCOFJ3YpWT9asb4S4mbyBsND5i93AVQbKSXSKXimPT0tiFYgO0YmgsjCkfGu50uDS9wwbYeATwhT76GAVoJl-tLVZeIr4Ci0hZ2do9bgbcV)  Note:  You will need to request SGX quota (per core) in specific regions. It can take a few days for quota requests to be fulfilled.
+?> You will need to request SGX quota (per core) in specific regions. It can take a few days for quota requests to be fulfilled.
 
 Specifications for provisioning with Azure:
 

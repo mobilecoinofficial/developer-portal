@@ -41,6 +41,6 @@ Special symbols are used throughout the manual to make you aware of important in
 
 The following symbols represent important information and valuable tips associated with the MobileCoin Fog Ingest Server and are displayed throughout the manual. Every noted symbol has significant meaning that you should heed:
 
-![](https://lh5.googleusercontent.com/B88UcyxpWYktoK4neFxCbGHrAW3yg9ciF9dd-IsHL2a79iIADuTd96ikGe8DcTQ9bN87KIwi1xb8HSTjlKmyc2KhU7fEfB_uSdw0WDJmgmrN4kydIXAc8mEM2QV6_ikxTeNPctSM)  Note: Important information concerning operating the Fog Ingest Server.
+?> Important information concerning operating the Fog Ingest Server.
 
-![](https://lh5.googleusercontent.com/jnmJKdfktFYNYmiMMSyT9xByfEgefebqp_x4qJTxKh4KscODPU_vs_WbN7F2L21M3wMQbvPOg1IrzXv-IRqmC102YpgdPE_6w8alUEdEps00kPoGT5TtuClMEJAYBDivyaLy67By) Warning: Failure to follow directions may result in preventing your Fog Ingest Server from operating successfully in the MobileCoin Network.
+!> Failure to follow directions may result in preventing your Fog Ingest Server from operating successfully in the MobileCoin Network.

@@ -24,7 +24,7 @@ Most of the information required to build from source can be found at this locat
 
 <https://github.com/mobilecoinofficial/mobilecoin/blob/master/consensus/service/BUILD.md>
 
-![](https://lh3.googleusercontent.com/JYktqIKjI4tee6EqgsPWXan8bQqfRLCOFJ3YpWT9asb4S4mbyBsND5i93AVQbKSXSKXimPT0tiFYgO0YmgsjCkfGu50uDS9wwbYeATwhT76GAVoJl-tLVZeIr4Ci0hZ2do9bgbcV)  Note: To build the consensus server on your own, you will need the production enclave.
+?> To build the consensus server on your own, you will need the production enclave.
 
 ## Configuring your Node
 
@@ -196,7 +196,7 @@ Finally, publish the following broadcast_peer public URI:
 mcp://my_node.com:443/?consensus-msg-key=MCowBQYDK2VwAyEAJ4PLBX2wiSBk8OHS-Qe3EfnpuNiHpH_BpN1wJG2tE2U=
 ```
 
-![](https://lh3.googleusercontent.com/JYktqIKjI4tee6EqgsPWXan8bQqfRLCOFJ3YpWT9asb4S4mbyBsND5i93AVQbKSXSKXimPT0tiFYgO0YmgsjCkfGu50uDS9wwbYeATwhT76GAVoJl-tLVZeIr4Ci0hZ2do9bgbcV)  Note:  The msg-signer-key is private and should be safeguarded with best practices because anyone with this key could impersonate you and send consensus messages as though they were emitted from your node.
+?> The msg-signer-key is private and should be safeguarded with best practices because anyone with this key could impersonate you and send consensus messages as though they were emitted from your node.
 
 ### Distributing Ledger Contents to S3 Archive
 

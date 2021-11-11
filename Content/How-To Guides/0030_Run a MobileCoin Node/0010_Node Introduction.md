@@ -28,9 +28,9 @@ Special symbols are used throughout the manual to make you aware of important in
 
 The following symbols represent important information and valuable tips associated with the MobileCoin Consensus Server and are displayed throughout the manual. Every noted symbol has significant meaning that you should heed:
 
-![](https://lh4.googleusercontent.com/jm7-WYUB04M7RaXYXTqFTrxjF1WKGwn29AlsQwhnFREAFeXNmQIC80sMhD9WBsG-NjLqubnVrAveRu7SyesRMYCCj87egCWPMrov4kS49t5n4t6uu0NvO9dG76p7lQZAcMtR1jKR)  Note: Important information concerning operating the Consensus Server.
+?> Important information concerning operating the Consensus Server.
 
-![](https://lh3.googleusercontent.com/wneoKld-9srG8N74K5oXUC6R3MBN6vwZwU79UTcTPOIRsh1bJMmIJ1o2iRJljfekmlh4ycXuB5JU60woEe-iAuQdtFM_s4vAVUYf2-_borl6-ooiO3NNNzP-GIVMey8Fr9inKl_j) Warning: Failure to follow directions may result in preventing your Consensus Server from operating successfully in the MobileCoin Network.
+!> Warning: Failure to follow directions may result in preventing your Consensus Server from operating successfully in the MobileCoin Network.
 
 # Common Tasks
 

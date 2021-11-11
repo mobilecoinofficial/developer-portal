@@ -9,5 +9,3 @@ Compiled FAQ of this document.
 ?> And a warning.
 
 x> Or an error.
-
-testing some things...

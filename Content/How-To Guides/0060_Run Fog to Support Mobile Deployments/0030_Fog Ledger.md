@@ -37,9 +37,9 @@ Special symbols are used throughout the manual to make you aware of important in
 
 The following symbols represent important information and valuable tips associated with the MobileCoin Fog Ledger Server and are displayed throughout the manual. Every noted symbol has significant meaning that you should heed:
 
-![](https://lh6.googleusercontent.com/8W6xOHPYS6FND5m51hh_u_3taqds9RxsQRcmBwvsGbErPM-mxXJ93peM0DMyNQhA10aXfh7HjkNr7Ldurb29aCiq8kETtrYL2yhd-o6Aom_tTsz6DTeISihITzVnMyAVh7Z4dgXG)  Note: Important information concerning operating the Fog Ledger Server.
+?> Important information concerning operating the Fog Ledger Server.
 
-![](https://lh3.googleusercontent.com/Ku0KWBwMkZc98ZpiZHkPVQyXtLgrkAqBNXQYjVKnPTLlbTD9KjjY8ARcfdJ9JaBqGUw-oh93cTTI4ryhzD0ttlb6R_koibEMkC3py1BPSDjpJ5kYtqXBI25T4JkNjuSIOyQfZinW) Warning: Failure to follow directions may result in preventing your Fog Ledger Server from operating successfully in the MobileCoin Network.
+!> Failure to follow directions may result in preventing your Fog Ledger Server from operating successfully in the MobileCoin Network.
 
 # Common Tasks
 
@@ -62,7 +62,7 @@ The Fog Ledger Server serves the contents of the public ledger obliviously. 
 
 The following ports need to be exposed. The actual ports assigned may vary according to your needs, but will need to be communicated for e.g. node and client connection. Presented here are the defaults.
 
-![](https://lh6.googleusercontent.com/xkQTxMiRAbbJ9kew63SEoNXtXL-xC8tiF5-1Rlui6He7fRBNXK90h-Q0YSu-up68ZNNSDRlFdpP6d20EBApCyb9w1HJryJPWdx97y6uu5i0P5i1bgN5yEd0s-_yjBZgncj2biaNJ)  Note:  You can establish your ingress mapping in whatever manner is convenient to your infrastructure. We present an example of the default MobileCoin ingress configuration.
+?> You can establish your ingress mapping in whatever manner is convenient to your infrastructure. We present an example of the default MobileCoin ingress configuration.
 
 | Purpose | Service Port | Ingress Mapping | Dependencies |
 | ------- | ------------ | --------------- | ------------ |
@@ -83,7 +83,7 @@ The preferred method for running the node is in a container because MobileCoin e
 
 Familiarize yourself with the [entrypoint for the fog-ledger docker container](https://github.com/mobilecoinofficial/internal/blob/master/ops/entrypoints/fogledger.sh).
 
-![](https://lh4.googleusercontent.com/-_2pFLsbb1eTkTHi_VYtKDuy_waGuNMfsFWQOhYbc7p75vXxewyaITic8cSIHqzgK-7E4QzYYg6nn_fe_YASws-oKgFBbYI-nzuNkZNzxasTgFZyv8agq8V162SQAWInFE2q_8rG)  Note:  The fog-ledger container contains multiple processes working together to provide the full fog-ledger functionality.
+?> The fog-ledger container contains multiple processes working together to provide the full fog-ledger functionality.
 
 These processes include the following:
 
@@ -111,7 +111,7 @@ The following environment variables should be provided:
 
 The following code provides the actual docker run command that pulls it all together.
 
-![](https://lh3.googleusercontent.com/Ku0KWBwMkZc98ZpiZHkPVQyXtLgrkAqBNXQYjVKnPTLlbTD9KjjY8ARcfdJ9JaBqGUw-oh93cTTI4ryhzD0ttlb6R_koibEMkC3py1BPSDjpJ5kYtqXBI25T4JkNjuSIOyQfZinW) Warning: Remove end white space for copy and paste, or the command will fail.
+!> Remove end white space for copy and paste, or the command will fail.
 
 ```
 docker run

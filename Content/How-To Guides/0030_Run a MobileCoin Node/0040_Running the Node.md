@@ -12,7 +12,7 @@ Does anything need to go here?
 
 The following ports need to be exposed. The actual ports assigned may vary according to your needs, but will need to be communicated for e.g. node and client connection. Presented here are the defaults.
 
-![](https://lh3.googleusercontent.com/JYktqIKjI4tee6EqgsPWXan8bQqfRLCOFJ3YpWT9asb4S4mbyBsND5i93AVQbKSXSKXimPT0tiFYgO0YmgsjCkfGu50uDS9wwbYeATwhT76GAVoJl-tLVZeIr4Ci0hZ2do9bgbcV)  Note:  You can establish your ingress mapping in whatever manner is convenient to your infrastructure. We present an example of the default MobileCoin ingress configuration.
+?> You can establish your ingress mapping in whatever manner is convenient to your infrastructure. We present an example of the default MobileCoin ingress configuration.
 
 | Purpose | Service Port | Ingress Mapping | Dependencies |
 | ------- | ------------ | --------------- | ------------ |
@@ -53,7 +53,7 @@ Does anything need to go here?
 
 Familiarize yourself with the [entrypoint for the consensus docker container](https://github.com/mobilecoinofficial/internal/blob/master/testnet-deploy/ops/entrypoints/consensus_validator.sh).
 
-![](https://lh3.googleusercontent.com/JYktqIKjI4tee6EqgsPWXan8bQqfRLCOFJ3YpWT9asb4S4mbyBsND5i93AVQbKSXSKXimPT0tiFYgO0YmgsjCkfGu50uDS9wwbYeATwhT76GAVoJl-tLVZeIr4Ci0hZ2do9bgbcV)  Note:  It contains multiple processes working together to provide the full Consensus Validator functionality.
+?> It contains multiple processes working together to provide the full Consensus Validator functionality.
 
 These processes are the following:
 
@@ -154,11 +154,11 @@ The arguments to the consensus service are the following:
 
 Any introduction of new code into the consensus network first requires the operators to reach consensus among themselves about the code they will be running, as well as the time and manner in which the new code will be introduced. This is a privacy measure the consensus enclave enforces; it rejects connections from any presumptive peer that lacks an identical MRENCLAVE measurement. 
 
-![](https://lh3.googleusercontent.com/wneoKld-9srG8N74K5oXUC6R3MBN6vwZwU79UTcTPOIRsh1bJMmIJ1o2iRJljfekmlh4ycXuB5JU60woEe-iAuQdtFM_s4vAVUYf2-_borl6-ooiO3NNNzP-GIVMey8Fr9inKl_j) Warning: If this requirement were relaxed, that is, if the verification were incorrectly configured to only check the MRSIGNER values, such as where the three elements checked included MRSIGNER, product ID, and enclave security version, then key holders could be forced to sign malicious enclaves, which could intentionally leak all inbound user traffic. This malicious enclave could be attached to the consensus network by any existing member.
+!> If this requirement were relaxed, that is, if the verification were incorrectly configured to only check the MRSIGNER values, such as where the three elements checked included MRSIGNER, product ID, and enclave security version, then key holders could be forced to sign malicious enclaves, which could intentionally leak all inbound user traffic. This malicious enclave could be attached to the consensus network by any existing member.
 
 To introduce new enclave code, or also known as a consensus enclave upgrade, all operators should coordinate a "flag day."
 
-![](https://lh3.googleusercontent.com/JYktqIKjI4tee6EqgsPWXan8bQqfRLCOFJ3YpWT9asb4S4mbyBsND5i93AVQbKSXSKXimPT0tiFYgO0YmgsjCkfGu50uDS9wwbYeATwhT76GAVoJl-tLVZeIr4Ci0hZ2do9bgbcV)  Note:  It is possible to introduce new code that does not affect the enclave. If the new code does not impact the enclave, a "flag day" is not required.
+?> It is possible to introduce new code that does not affect the enclave. If the new code does not impact the enclave, a "flag day" is not required.
 
 The MobileCoin Foundation provides the MobileCoin Operators Group, which consensus node operators should utilize in order to schedule these "flag day" upgrades in response to enclaves issued by the MobileCoin Foundation Technical Committee and signed by the MobileCoin Foundation Key Management Group.
 
@@ -166,7 +166,7 @@ To upgrade a consensus node:
 
 1.  The Node Operators Group (NOG), who exist under the MobileCoin Foundation, should agree on the new enclave to be deployed, as well as any upgrade-specific procedures and tests to be performed (which should be specified by the NOG in their charter). In addition, the upgrades should first be run on the testnet. 
 
-    ![](https://lh3.googleusercontent.com/JYktqIKjI4tee6EqgsPWXan8bQqfRLCOFJ3YpWT9asb4S4mbyBsND5i93AVQbKSXSKXimPT0tiFYgO0YmgsjCkfGu50uDS9wwbYeATwhT76GAVoJl-tLVZeIr4Ci0hZ2do9bgbcV)  Note:  An event coordinator is recommended to help with coordinating all of the upgrade functions.
+    ?> An event coordinator is recommended to help with coordinating all of the upgrade functions.
 
 2.  Once a maintenance window/video conference has been scheduled for upgrading the selected nodes, inbound client connection handlers (reverse proxy, load balancer, ingress controller, etc.) need to be configured to reject new connections.
 

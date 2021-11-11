@@ -69,7 +69,7 @@ The Client maintains the following information:
 
 The following ports need to be exposed. The actual ports assigned may vary according to your needs, but will need to be communicated for e.g. node and client connection. Presented here are the defaults.
 
-![](https://lh4.googleusercontent.com/cyESseWMzaYwMEHzPCEp2G-8ul_q5wwV6u38wvxpfsCN9wPPwr60XEn2Kq36CvWogjjDhyuHGY0lY7c05Ong7KfW9J4VkH7neYFa3F9ULyfrwlJ7ooyh9JHi7NHcqlENlpEYIrUb)  Note:  You can establish your ingress mapping in whatever manner is convenient to your infrastructure. We present an example of the default MobileCoin ingress configuration.
+?> You can establish your ingress mapping in whatever manner is convenient to your infrastructure. We present an example of the default MobileCoin ingress configuration.
 
 | Purpose |  Service Port  | Ingress Mapping | Dependencies |
 | ----------- | ----------- | ----------- | ----------- |
@@ -95,7 +95,7 @@ The following requirements for running the node in a container include:
 
 Familiarize yourself with the [entrypoint for the fog-ingest docker container](https://github.com/mobilecoinofficial/internal/blob/master/ops/entrypoints/fogingest.sh).
 
-![](https://lh5.googleusercontent.com/Zy1AuDGV5JC333f3mNSsrFNzJQGOeNP39Qdu9OsETTT9wabkgKOy3W7M2Po22NSeO9be2yJkuoOp9F0WxM9eAkjknQE_jyQj6nEaA7zfg4tdJ67FtRpw8XyhRq753B91PowdqxgG)  Note:  The ingest container contains multiple processes working together to provide the full fog-ingest functionality.
+?> The ingest container contains multiple processes working together to provide the full fog-ingest functionality.
 
 These multiple processes include the following:
 
