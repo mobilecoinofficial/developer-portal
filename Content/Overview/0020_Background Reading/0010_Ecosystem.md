@@ -5,19 +5,19 @@ description: "The MobileCoin open-source software ecosystem introduces several i
 The MobileCoin open-source software ecosystem introduces several innovations to the cryptocurrency community, including:
 
 <h3 style="color: #6aacd3">MobileCoin Ledger</h3>
-<br>
+
 a new privacy-preserving blockchain built on a technology foundation that includes CryptoNote and Ring Confidential Transactions (RingCT)
 
 <h3 style="color: #a7a7a8">MobileCoin Consensus Protocol</h3>
-<br>
+
 a high-performance solution to the Byzantine Agreement Problem that allows new payments to be rapidly confirmed
 
 <h3 style="color: #85ccba">Secure Enclaves</h3>
-<br>
+
 trusted execution environments using Intel's Software Guard eXtensions (SGX) to provide defense-in-depth improvements to privacy and trust 
 
 <h3 style="color: #95b4cf">MobileCoin Fog</h3>
-<br>
+
 a scalable service infrastructure that enables a smartphone to manage a privacy-preserving cryptocurrency with locally-stored cryptographic keys
 
 ![](https://lh4.googleusercontent.com/Fn6ZXTatgthjPxyNL2JXK6B4vzvlQjFOhU7W7l69-6ItjNqHVnXT8EpfK_LetizaBseHAsm0y5BJPmDvFhYnPGAF8QTUqBM7muqAd2YRcg8pkgnI2DG202oYdsD0jed9OGnxbPh3)
@@ -54,13 +54,15 @@ Remote attestation and end-to-end encryption similarly protect the communication
 
 Two major technical challenges impede privacy-preserving cryptocurrencies from running on smartphones:
 
-1.  **Identifying received payments**. In order to check if they own any new transaction that appears in the ledger, a user must mathematically test each txo using their private cryptographic keys. It is undesirable from a security standpoint to provision private keys to a remote server to monitor for received transactions, but it is impractical to perform the calculation for every new transaction on a smartphone because of the significant bandwidth and computation required.
+1.  <h3 style="color: #a7a7a8">Identifying received payments</h3>
+    <p>In order to check if they own any new transaction that appears in the ledger, a user must mathematically test each txo using their private cryptographic keys. It is undesirable from a security standpoint to provision private keys to a remote server to monitor for received transactions, but it is impractical to perform the calculation for every new transaction on a smartphone because of the significant bandwidth and computation required.</p>
 
-2.  **Constructing new payments**. Users need access to the complete ledger in order to construct transaction input rings. It is undesirable from a privacy standpoint for smartphone users to selectively download parts of the ledger from a remote server as needed, since this can potentially leak information about transaction ownership or the links between senders and recipients. The complete ledger may be many terabytes in size, which makes it impractical to download and store on a smartphone.
+2.  <h3 style="color: #a7a7a8">Constructing new payments</h3>
+    <p>Users need access to the complete ledger in order to construct transaction input rings. It is undesirable from a privacy standpoint for smartphone users to selectively download parts of the ledger from a remote server as needed, since this can potentially leak information about transaction ownership or the links between senders and recipients. The complete ledger may be many terabytes in size, which makes it impractical to download and store on a smartphone.</p>
 
 MobileCoin Cloud is a scalable service infrastructure developed by MobileCoin to enable privacy-preserving cryptocurrencies to be safely managed from a smartphone. MobileCoin Cloud solves both of these identified challenges to smartphone deployment.
 
-![](https://lh4.googleusercontent.com/_nRQpLLhYNE0FCAzPB6PgUPs4QSKHl81MMyIQxiMy1ICPGwCuYTvcYqNu-MGX7OZOwlhvNKP1IOmEzDboUkfaYSGIkx2hGtCV8LQ5cHsvbD3l034m3gMqauoEh84AhnYkRUCraWX)
+![](https://lh6.googleusercontent.com/H9768BY2VckE_4DAMfcrcOhcyZRxgQTVwzKGF50pD20AtH4eqgM6GfSjManzOX0c1DPfqkD8Rrgs_N8qnvnhEIydTZ6D3dzqjFoM0Um4PcjO3n-4YFb-zF2xh4L5Mr2LNugoXTT3)
 
 ## Identifying Received Payments
 
