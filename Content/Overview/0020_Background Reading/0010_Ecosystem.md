@@ -5,19 +5,19 @@ description: "The MobileCoin open-source software ecosystem introduces several i
 The MobileCoin open-source software ecosystem introduces several innovations to the cryptocurrency community, including:
 
 <h3 style="color: #6aacd3">MobileCoin Ledger</h3>
-
+<br>
 a new privacy-preserving blockchain built on a technology foundation that includes CryptoNote and Ring Confidential Transactions (RingCT)
 
 <h3 style="color: #a7a7a8">MobileCoin Consensus Protocol</h3>
-
+<br>
 a high-performance solution to the Byzantine Agreement Problem that allows new payments to be rapidly confirmed
 
 <h3 style="color: #85ccba">Secure Enclaves</h3>
-
+<br>
 trusted execution environments using Intel's Software Guard eXtensions (SGX) to provide defense-in-depth improvements to privacy and trust 
 
 <h3 style="color: #95b4cf">MobileCoin Fog</h3>
-
+<br>
 a scalable service infrastructure that enables a smartphone to manage a privacy-preserving cryptocurrency with locally-stored cryptographic keys
 
 ![](https://lh4.googleusercontent.com/Fn6ZXTatgthjPxyNL2JXK6B4vzvlQjFOhU7W7l69-6ItjNqHVnXT8EpfK_LetizaBseHAsm0y5BJPmDvFhYnPGAF8QTUqBM7muqAd2YRcg8pkgnI2DG202oYdsD0jed9OGnxbPh3)
