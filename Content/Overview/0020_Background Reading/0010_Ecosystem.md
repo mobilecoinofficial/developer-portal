@@ -1,18 +1,26 @@
 ---
-title: "The MobileCoin Network"
+title: "the MobileCoin network"
 description: "The MobileCoin open-source software ecosystem introduces several innovations to the cryptocurrency community, including its Ledger, Consensus Protocol, Secure Enclaves, and Fog."
 ---
 The MobileCoin open-source software ecosystem introduces several innovations to the cryptocurrency community, including:
 
-- **MobileCoin Ledger**, a new privacy-preserving blockchain built on a technology foundation that includes CryptoNote and Ring Confidential Transactions (RingCT).
+<h3 style="color: #6aacd3">MobileCoin Ledger</h3>
 
-- **MobileCoin Consensus Protocol**, a high-performance solution to the Byzantine Agreement Problem that allows new payments to be rapidly confirmed.
+a new privacy-preserving blockchain built on a technology foundation that includes CryptoNote and Ring Confidential Transactions (RingCT)
 
-- **Secure Enclaves**, trusted execution environments using Intel's Software Guard eXtensions (SGX) to provide defense-in-depth improvements to privacy and trust. 
+<h3 style="color: #a7a7a8">MobileCoin Consensus Protocol</h3>
 
-- **MobileCoin Fog**, a scalable service infrastructure that enables a smartphone to manage a privacy-preserving cryptocurrency with locally-stored cryptographic keys. 
+a high-performance solution to the Byzantine Agreement Problem that allows new payments to be rapidly confirmed
 
-![](https://lh5.googleusercontent.com/iRahpaYH3cOvzl5Lp4sfW72SmXPK-VNfX4h3qD-upqZ-j8gVwG166T7t9g_dZDCc6tFPCzw9FzE7p54TbI6BxGocWMrm04qrkS3Y6hyCcTPQCIlyueSQy-PCmmvebiEe3DLF0B_O)
+<h3 style="color: #85ccba">Secure Enclaves</h3>
+
+trusted execution environments using Intel's Software Guard eXtensions (SGX) to provide defense-in-depth improvements to privacy and trust 
+
+<h3 style="color: #95b4cf">MobileCoin Fog</h3>
+
+a scalable service infrastructure that enables a smartphone to manage a privacy-preserving cryptocurrency with locally-stored cryptographic keys
+
+![](https://lh4.googleusercontent.com/Fn6ZXTatgthjPxyNL2JXK6B4vzvlQjFOhU7W7l69-6ItjNqHVnXT8EpfK_LetizaBseHAsm0y5BJPmDvFhYnPGAF8QTUqBM7muqAd2YRcg8pkgnI2DG202oYdsD0jed9OGnxbPh3)
 
 ## MobileCoin Ledger
 
