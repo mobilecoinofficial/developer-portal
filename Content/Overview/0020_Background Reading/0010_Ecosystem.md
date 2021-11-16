@@ -29,7 +29,7 @@ a scalable service infrastructure that enables a smartphone to manage a privacy-
 
 ![](https://lh4.googleusercontent.com/Fn6ZXTatgthjPxyNL2JXK6B4vzvlQjFOhU7W7l69-6ItjNqHVnXT8EpfK_LetizaBseHAsm0y5BJPmDvFhYnPGAF8QTUqBM7muqAd2YRcg8pkgnI2DG202oYdsD0jed9OGnxbPh3)
 
-## MobileCoin Ledger
+<h2 style="color: #6aacd3">MobileCoin Ledger</h2>
 
 In order for any payments network to function, it must be able to maintain a history of transactions. MobileCoin Ledger describes how the MobileCoin Network stores payment records in a public ledger. The ledger is implemented as a blockchain, in which each block contains transactions that include *transaction outputs (txos)* that might be spent in the future by their owners. Each transaction also includes a proof that all value spent in the transaction has never been spent before. The underlying design is based on the privacy-preserving CryptoNote ledger protocol, which obscures the identity of all txo owners using one-time recipient addresses. The link between sender and recipient is protected through the use of input rings that guard the actually-spent txo in a large set of possibly-spent txos.
 
@@ -39,7 +39,7 @@ Each txo in the input ring of a transaction is annotated with a Merkle proof of 
 
 Additionally, MobileCoin Ledger dramatically improves on the baseline privacy offered by CryptoNote and RingCT by requiring that the input rings for every transaction are deleted before the new payment is added to the public ledger. Digital signatures are added to the ledger in place of the full transaction records to provide a basis for auditing.  
 
-## MobileCoin Consensus Protocol
+<h2 style="color: #a7a7a8">MobileCoin Consensus Protocol</h2>
 
 MobileCoin users must agree on the content of the blockchain for it to be useful as a record of accounts. Bad actors will have a financial motive to misrepresent the ledger to enable fraud and counterfeiting. In distributed computing, the challenge of reaching agreement in a group that can't exclude malicious agents from participating is called the Byzantine Agreement Problem. All cryptocurrency payment networks must include code that solves the Byzantine Agreement Problem.
 
@@ -49,7 +49,7 @@ The MobileCoin Consensus Protocol avoids the environmentally-damaging mathematic
 
 MCP ensures that all operators agree on the sequence of valid payments that are completed. New transactions are grouped in blocks and published approximately once every five seconds to the MobileCoin Ledger.
 
-## Secure Enclaves
+<h2 style="color: #85ccba">Secure Enclaves</h2>
 
 Recent advances in trusted computing make it possible to run software on a remote host without exposing sensitive data to that server's operator, even when she has complete control of the remote computer's operating system (i.e. root access). Originally designed for digital rights management, these *secure enclave* technologies behave like a black box that ensures confidentiality and integrity for its content.
 
@@ -57,7 +57,7 @@ The MobileCoin Network implements secure enclaves using Intel's Software Guard e
 
 Remote attestation and end-to-end encryption similarly protect the communication channels between secure enclaves running on different remote servers. When the SGX remote attestation system is functioning as Intel designed, it is not possible for any operator in the MobileCoin Network to observe the full content of transactions. Complete data is only shared between secure enclaves that safely delete the information that could otherwise be used to statistically associate payment senders to payment recipients. 
 
-## MobileCoin Fog
+## ![MobileCoin Fog](https://lh5.googleusercontent.com/VEutoFUhXJV9Db5WjiNgctcxBiWW_BrUkE_rVIUUzHqNZ58m8v3DpeKgHM1wUkrsMGsuY8D25yNwPSG0OqxdZu0clXdOWls0oq1_2Svbetc1JIdGgidPmpRqnJv3lTlxtLU_VaLC)
 
 Two major technical challenges impede privacy-preserving cryptocurrencies from running on smartphones:
 
