@@ -2,6 +2,8 @@
 title: "the MobileCoin network"
 description: "The MobileCoin open-source software ecosystem introduces several innovations to the cryptocurrency community, including its Ledger, Consensus Protocol, Secure Enclaves, and Fog."
 ---
+<div style="width:100%; padding-left:15%; background-image:url('https://lh6.googleusercontent.com/qZweVRaD3m0w7emT_RGP44TlvM4Sy6FyuWGpdIi7Wjyq5n_eYeJRHs1InGtuAQ7i7PzOwQfBkzTmxyJ_o0Gz1KVRjKSvsJAWTfJVS_5BkFlazVHJx-WyPBsJ8nbNXa7XK7bntGK4');">
+
 The MobileCoin open-source software ecosystem introduces several innovations to the cryptocurrency community, including:
 
 <h3 style="color: #6aacd3">MobileCoin Ledger</h3>
@@ -19,6 +21,8 @@ trusted execution environments using Intel's Software Guard eXtensions (SGX) to 
 <h3 style="color: #95b4cf">MobileCoin Fog</h3>
 
 a scalable service infrastructure that enables a smartphone to manage a privacy-preserving cryptocurrency with locally-stored cryptographic keys
+
+</div>
 
 ![](https://lh4.googleusercontent.com/Fn6ZXTatgthjPxyNL2JXK6B4vzvlQjFOhU7W7l69-6ItjNqHVnXT8EpfK_LetizaBseHAsm0y5BJPmDvFhYnPGAF8QTUqBM7muqAd2YRcg8pkgnI2DG202oYdsD0jed9OGnxbPh3)
 
