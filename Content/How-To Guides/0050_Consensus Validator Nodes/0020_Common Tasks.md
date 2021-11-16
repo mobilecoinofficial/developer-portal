@@ -41,7 +41,7 @@ The Intel Attestation Service (IAS) credentials allow node operators to register
 
 **Step 1:** Apply for and obtain an Intel License Agreement to run MobileCoin. Please see: [Partner Intel License Agreement](https://docs.google.com/document/d/1ATv98iLMDlghbC0q8GmbpL6iSlcquy4sVTWAg4nxS6U/edit#heading=h.gxj509579nem). 
 
-**Note:**  Approval can take up to two weeks.
+?>  Approval can take up to two weeks.
 
 **Step 2:** Once your request is approved and the license issued (confirmed via email), you can create your account at the Intel Trusted Portal using the email associated with your Partner Intel License Agreement. 
 
