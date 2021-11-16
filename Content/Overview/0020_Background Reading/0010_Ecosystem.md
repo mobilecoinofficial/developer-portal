@@ -3,7 +3,7 @@ title: "the MobileCoin network"
 description: "The MobileCoin open-source software ecosystem introduces several innovations to the cryptocurrency community, including its Ledger, Consensus Protocol, Secure Enclaves, and Fog."
 hide_title: true
 ---
-<div style="width:100%; padding-left:15%; background-size:contain; background-repeat:no-repeat; background-image:url('https://lh6.googleusercontent.com/qZweVRaD3m0w7emT_RGP44TlvM4Sy6FyuWGpdIi7Wjyq5n_eYeJRHs1InGtuAQ7i7PzOwQfBkzTmxyJ_o0Gz1KVRjKSvsJAWTfJVS_5BkFlazVHJx-WyPBsJ8nbNXa7XK7bntGK4');">
+<div style="width:100%; padding-left:15%; background-size:contain; background-repeat:no-repeat; background-image:url('../images/stripes.png');">
 
 <h1 style="min-height:18vw; padding-right:15% margin-left:-15%; padding-top:4vw;"> the <strong>MobileCoin</strong> network</h1>
 
@@ -58,7 +58,7 @@ The MobileCoin Network implements secure enclaves using Intel's Software Guard e
 Remote attestation and end-to-end encryption similarly protect the communication channels between secure enclaves running on different remote servers. When the SGX remote attestation system is functioning as Intel designed, it is not possible for any operator in the MobileCoin Network to observe the full content of transactions. Complete data is only shared between secure enclaves that safely delete the information that could otherwise be used to statistically associate payment senders to payment recipients. 
 
 <h2>
-<img src="https://lh5.googleusercontent.com/VEutoFUhXJV9Db5WjiNgctcxBiWW_BrUkE_rVIUUzHqNZ58m8v3DpeKgHM1wUkrsMGsuY8D25yNwPSG0OqxdZu0clXdOWls0oq1_2Svbetc1JIdGgidPmpRqnJv3lTlxtLU_VaLC" style="height:1em;"/>
+<img src="/images/fog.png" style="height:1em;"/>
 </h2>
 
 Two major technical challenges impede privacy-preserving cryptocurrencies from running on smartphones:
@@ -71,7 +71,7 @@ Two major technical challenges impede privacy-preserving cryptocurrencies from r
 
 MobileCoin Cloud is a scalable service infrastructure developed by MobileCoin to enable privacy-preserving cryptocurrencies to be safely managed from a smartphone. MobileCoin Cloud solves both of these identified challenges to smartphone deployment.
 
-![](https://lh6.googleusercontent.com/H9768BY2VckE_4DAMfcrcOhcyZRxgQTVwzKGF50pD20AtH4eqgM6GfSjManzOX0c1DPfqkD8Rrgs_N8qnvnhEIydTZ6D3dzqjFoM0Um4PcjO3n-4YFb-zF2xh4L5Mr2LNugoXTT3)
+![](/images/ecosystem_diagram_1.png)
 
 ## Identifying Received Payments
 
