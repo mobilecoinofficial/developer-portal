@@ -5,7 +5,7 @@ hide_title: true
 ---
 <div style="width:100%; padding-left:15%; background-size:contain; background-repeat:no-repeat; background-image:url('https://lh6.googleusercontent.com/qZweVRaD3m0w7emT_RGP44TlvM4Sy6FyuWGpdIi7Wjyq5n_eYeJRHs1InGtuAQ7i7PzOwQfBkzTmxyJ_o0Gz1KVRjKSvsJAWTfJVS_5BkFlazVHJx-WyPBsJ8nbNXa7XK7bntGK4');">
 
-<h1 style="min-height:20%; padding-right:15%"> the <strong>MobileCoin</strong> network</h1>
+<h1 style="min-height:18vw; padding-right:15% margin-left:-15%; padding-top:4vw;"> the <strong>MobileCoin</strong> network</h1>
 
 The MobileCoin open-source software ecosystem introduces several innovations to the cryptocurrency community, including:
 
@@ -57,7 +57,9 @@ The MobileCoin Network implements secure enclaves using Intel's Software Guard e
 
 Remote attestation and end-to-end encryption similarly protect the communication channels between secure enclaves running on different remote servers. When the SGX remote attestation system is functioning as Intel designed, it is not possible for any operator in the MobileCoin Network to observe the full content of transactions. Complete data is only shared between secure enclaves that safely delete the information that could otherwise be used to statistically associate payment senders to payment recipients. 
 
-## ![MobileCoin Fog](https://lh5.googleusercontent.com/VEutoFUhXJV9Db5WjiNgctcxBiWW_BrUkE_rVIUUzHqNZ58m8v3DpeKgHM1wUkrsMGsuY8D25yNwPSG0OqxdZu0clXdOWls0oq1_2Svbetc1JIdGgidPmpRqnJv3lTlxtLU_VaLC)
+<h2>
+<img src="https://lh5.googleusercontent.com/VEutoFUhXJV9Db5WjiNgctcxBiWW_BrUkE_rVIUUzHqNZ58m8v3DpeKgHM1wUkrsMGsuY8D25yNwPSG0OqxdZu0clXdOWls0oq1_2Svbetc1JIdGgidPmpRqnJv3lTlxtLU_VaLC" style="height:1em;"/>
+</h2>
 
 Two major technical challenges impede privacy-preserving cryptocurrencies from running on smartphones:
 
