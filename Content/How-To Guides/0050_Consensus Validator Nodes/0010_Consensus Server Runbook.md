@@ -16,7 +16,7 @@ Special symbols are used throughout the manual to make you aware of important in
 ### Special Alerts Used in this Manual
 The following alerts represent important information and valuable tips associated with the MobileCoin Consensus Server and are displayed throughout the manual. Every noted alert has significant meaning that you should heed:
 
-**Note:** Important information concerning operating the Consensus Server.
+?> Important information concerning operating the Consensus Server.
 
 
-**Warning:** Failure to follow directions may result in preventing your Consensus Server from operating successfully in the MobileCoin Network.
+!> Failure to follow directions may result in preventing your Consensus Server from operating successfully in the MobileCoin Network.
