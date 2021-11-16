@@ -5,7 +5,7 @@ hide_title: true
 ---
 <div style="width:100%; padding-left:15%; background-size:contain; background-repeat:no-repeat; background-image:url('https://lh6.googleusercontent.com/qZweVRaD3m0w7emT_RGP44TlvM4Sy6FyuWGpdIi7Wjyq5n_eYeJRHs1InGtuAQ7i7PzOwQfBkzTmxyJ_o0Gz1KVRjKSvsJAWTfJVS_5BkFlazVHJx-WyPBsJ8nbNXa7XK7bntGK4');">
 
-<h1 style="padding-bottom:5vw;"> the <strong>the MobileCoin network</strong> network</h1>
+<h1 style="min-height:20%; padding-right:15%"> the <strong>MobileCoin</strong> network</h1>
 
 The MobileCoin open-source software ecosystem introduces several innovations to the cryptocurrency community, including:
 
