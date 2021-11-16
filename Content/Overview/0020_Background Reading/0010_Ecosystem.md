@@ -27,7 +27,7 @@ a scalable service infrastructure that enables a smartphone to manage a privacy-
 
 </div>
 
-![](https://lh4.googleusercontent.com/Fn6ZXTatgthjPxyNL2JXK6B4vzvlQjFOhU7W7l69-6ItjNqHVnXT8EpfK_LetizaBseHAsm0y5BJPmDvFhYnPGAF8QTUqBM7muqAd2YRcg8pkgnI2DG202oYdsD0jed9OGnxbPh3)
+![](/images/ecosystem_diagram_1.png)
 
 <h2 style="color: #6aacd3">MobileCoin Ledger</h2>
 
