@@ -3,7 +3,7 @@ title: "the MobileCoin network"
 description: "The MobileCoin open-source software ecosystem introduces several innovations to the cryptocurrency community, including its Ledger, Consensus Protocol, Secure Enclaves, and Fog."
 hide_title: true
 ---
-<div style="width:100%; padding-left:15%; background-size:contain; background-repeat:no-repeat; background-image:url('/images/stripes.png');">
+<div class="lines-header" style="width:100%; padding-left:15%; background-size:contain; background-repeat:no-repeat; background-image:url('/images/stripes.png');">
 
 <h1 style="min-height:18vw; padding-right:15%; margin-left:-15%; padding-top:4vw;"> the <strong>MobileCoin</strong> network</h1>
 
