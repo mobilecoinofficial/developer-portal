@@ -57,6 +57,6 @@ If you'd like to include an image in one of these markdown documents, the usual 
 
 ![alt text](https://mobilecoin.com/images/heart.svg)
 
-You can use a local file by referencing it's root path as it would be in *this repository*. The interpreter will create The below image comes from /images/fog.png :
+You can use a local file by referencing it's root path as it would be in *this repository*. The interpreter will create the proper resource directory on the final site to match this one. The below image comes from /images/fog.png :
 
 ![start with a slash](/images/fog.png)
