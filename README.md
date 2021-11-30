@@ -50,3 +50,13 @@ description: "optional. text to be used as the description in meta tags and in i
 hide_title: optional boolean. When true, doesn't render the title given in this header on the page, for when you want to include it yourself.
 ---
 ```
+
+## Images and Other Assets
+
+If you'd like to include an image in one of these markdown documents, the usual method will work:
+
+![alt text](https://mobilecoin.com/images/heart.svg)
+
+You can use a local file by referencing it's root path as it would be in *this repository*. The interpreter will create The below image comes from /images/fog.png :
+
+![start with a slash](/images/fog.png)
