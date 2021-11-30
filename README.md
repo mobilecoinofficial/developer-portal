@@ -12,7 +12,7 @@ Documents in "Overview," "How-to Guides," and "FAQ" will be constructed into tra
 
 ## Tables
 
-The Developer Portal uses GFM as its markdown interpreter—anything that would render here in GitHub should render on the site as expected. HTML is also allowed. A note that when making tables, please remember to include the heading dividers and that line breaks can break the table:
+The Developer Portal uses GFM as its markdown interpreter—anything that would render here in GitHub should render on the site as expected. HTML is also allowed. A note that when making tables, please remember to include the heading dividers and that extra line breaks may cause the table not to appear properly:
 
 | heading | heading |
 
@@ -57,6 +57,6 @@ If you'd like to include an image in one of these markdown documents, the usual 
 
 ![alt text](https://mobilecoin.com/images/heart.svg)
 
-You can use a local file by referencing it's root path as it would be in *this repository*. The interpreter will create the proper resource directory on the final site to match this one. The below image comes from /images/fog.png :
+You can use a local file by referencing it's root path as it would be in *this repository*. The interpreter will create the proper resource directory on the final site to match this one. That means if it shows up in GitHub, it'll show up on the final site! The below image comes from /images/fog.png :
 
 ![start with a slash](/images/fog.png)
