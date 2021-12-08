@@ -21,7 +21,7 @@ In MobileCoin Fog, we are focused on the SGX-based approach, which was first des
 
 ### What is Oblivious/Constant Time?
 
-A great exposition from Intel appears in [Guidelines for Mitigating Timing Side Channels Against Cryptographic Implementations](https://software.intel.com/security-software-guidance/secure-coding/guidelines-mitigating-timing-side-channels-against-cryptographic-implementations).
+A great exposition from Intel appears in [Guidelines for Mitigating Timing Side Channels Against Cryptographic Implementations](https://www.intel.com/content/www/us/en/developer/articles/technical/software-security-guidance/secure-coding/mitigate-timing-side-channel-crypto-implementation.html).
 
 > Most traditional side channels—regardless of technique—can be mitigated by applying all three of the following general "constant time"[2] principles, listed here at a high level. We discuss details and examples of these principles later.
 > 
