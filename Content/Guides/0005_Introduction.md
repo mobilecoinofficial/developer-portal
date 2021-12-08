@@ -1,4 +1,6 @@
 ---
-title: Docs Introduction
+title: Integration Guides
 ---
-Highly recommend including an intro doc for this section as a landing zone. --s
+The guides here will help provide examples and tutorials for how to integrate MobileCoin into your application or 
+service, whether you are building mobile wallets using the SDKs, or a high performance transaction shuttling
+service.
