@@ -9,7 +9,7 @@ The [`mobilecoin` Python Package](https://pypi.org/project/mobilecoin/) provides
 It can be installed with:
 
 ```sh
-    pip3 install mobilecoin
+pip3 install mobilecoin
 ```
 
 The prerequisite to using these bindings is to run `mobilecoind`, the ledger syncing and wallet daemon. Please see the
