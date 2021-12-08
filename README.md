@@ -60,3 +60,5 @@ If you'd like to include an image in one of these markdown documents, the usual 
 You can use a local file by referencing it's root path as it would be in *this repository*. The interpreter will create the proper resource directory on the final site to match this one. That means if it shows up in GitHub, it'll show up on the final site! The below image comes from /images/fog.png :
 
 ![start with a slash](/images/fog.png)
+
+Images will try to fill the width of their container by default. If a width is given using an html `<img>` tag, the image will be centered in the document. You can attach classes "left" or "right" to the image to have it align to either side. This is also true of `<video>` and `<iframe>` tags.
