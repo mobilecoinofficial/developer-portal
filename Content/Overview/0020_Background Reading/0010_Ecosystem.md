@@ -58,7 +58,7 @@ The MobileCoin Network implements secure enclaves using Intel's Software Guard e
 Remote attestation and end-to-end encryption similarly protect the communication channels between secure enclaves running on different remote servers. When the SGX remote attestation system is functioning as Intel designed, it is not possible for any operator in the MobileCoin Network to observe the full content of transactions. Complete data is only shared between secure enclaves that safely delete the information that could otherwise be used to statistically associate payment senders to payment recipients. 
 
 <h2>
-<img src="/images/fog.png" style="height:1em;"/>
+<img alt="MobileCoin Fog" src="/images/fog.png" style="height:1em;" class="left"/>
 </h2>
 
 Two major technical challenges impede privacy-preserving cryptocurrencies from running on smartphones:
