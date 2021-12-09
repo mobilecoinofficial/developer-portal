@@ -14,12 +14,12 @@ title: "What is MobileCoin"
     MobileCoin Inc. was founded in 2017 by Josh Goldbard & Shane Glynn. It is a venture-backed company based in San Francisco, CA. The MobileCoin Protocol was [open-sourced](https://github.com/mobilecoinfoundation/mobilecoin) by the MobileCoin Foundation in 2020. The network went live on [December 7, 2020](https://mobilecoinfoundation.medium.com/mobilecoin-main-net-8e355d82c726).
 
 4.  ### what is MobileCoin used for?
-    
+
     MobileCoin is currently being used for payments in some of the world’s most secure messaging apps. MobileCoin is mobile-first and also works on desktop, offering both the speed and security expected for a payment system.
 
 5.  ### why does the world need another cryptocurrency?
 
-MobileCoin could be the foundation for an accessible, secure, and sustainable payments system for the world to use. The best way to create this technology is via a new cryptocurrency and encrypted blockchain. Currently, there is no cryptocurrency that is designed to offer both the security and speed expected for payments. The MobileCoin Foundation provides governance for the MobileCoin Protocol in order to help solve for the most important aspects of any modern payment system: Security, Transaction Speed, Energy Consumption, and Optimization for Mobile. Think of a simple, secure currency utility, like PayPal but encrypted.
+    MobileCoin could be the foundation for an accessible, secure, and sustainable payments system for the world to use. The best way to create this technology is via a new cryptocurrency and encrypted blockchain. Currently, there is no cryptocurrency that is designed to offer both the security and speed expected for payments. The MobileCoin Foundation provides governance for the MobileCoin Protocol in order to help solve for the most important aspects of any modern payment system: Security, Transaction Speed, Energy Consumption, and Optimization for Mobile. Think of a simple, secure currency utility, like PayPal but encrypted.
 
 6.  ### what is MobileCoin’s energy consumption compared to other cryptocurrencies?
 
