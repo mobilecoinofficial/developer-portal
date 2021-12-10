@@ -9,7 +9,7 @@ mobile wallet app on a messaging service. This mobile wallet app will enable cry
 mobilecoins (MOB) via their mobile devices. The MobileCoin SDK Architecture provides a layer of business logic and
 cryptographic operations to enable companies and developers to get started quickly in developing their wallet app.
 
-[Building a Mobile-Friendly Wallet for Android](#)
+[Building a Mobile-Friendly Wallet for Android](https://github.com/mobilecoinofficial/android-sdk)
 
 [Building a Mobile-Friendly Wallet for iOS](https://mobilecoin.gitbook.io/mobilecoin-swift/)
 
