@@ -12,7 +12,7 @@ node provides defense-in-depth improvements to privacy and trust.
 
 ## Running Your Own Consensus Validator Node
 
-The key to operating a Consnensus Validator Node is trust. 
+The key to operating a Consensus Validator Node is trust. 
 
 ![alt text](https://mobilecoin.com/images/heart.svg)
 
