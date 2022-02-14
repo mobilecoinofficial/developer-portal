@@ -1,5 +1,6 @@
 ---
 title: SGX in Consensus Validator Nodes
+use_file: "mobilecoinfoundation/mobilecoin/sgx/README.md"
 ---
 Consensus Validator Nodes include an SGX enclave which validates transactions and produces each next block in the 
 ledger. When each Consensus Validator Node starts up, it initiates an attested connection with its peers. If they 
