@@ -1,5 +1,6 @@
 ---
 title: MobileCoin Fog
+use_file: "mobilecoinfoundation/mobilecoin/fog/README.md"
 ---
 MobileCoin Fog is a privacy-preserving service designed to support use of the MobileCoin Payments Network on mobile 
 devices, which can use Fog to check their balance and send payments, without syncing the ledger.
