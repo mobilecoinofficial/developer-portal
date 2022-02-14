@@ -11,5 +11,5 @@ cryptographic operations to enable companies and developers to get started quick
 
 [Building a Mobile-Friendly Wallet for Android](https://developers.mobilecoin.com/guides/android-sdk)
 
-[Building a Mobile-Friendly Wallet for iOS](https://mobilecoin.gitbook.io/mobilecoin-swift/)
+[Building a Mobile-Friendly Wallet for iOS](https://developers.mobilecoin.com/guides/ios-sdk)
 
