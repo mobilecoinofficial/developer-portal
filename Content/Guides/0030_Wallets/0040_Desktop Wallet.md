@@ -1,5 +1,6 @@
 ---
 title: MobileCoin Desktop Wallet
+use_file: "mobilecoinofficial/desktop-wallet/README.md"
 ---
 
 The MobileCoin Desktop Wallet is an experience for the desktop, and features cold-wallet capabilities.
