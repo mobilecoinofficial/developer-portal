@@ -4,9 +4,9 @@ Welcome to the MobileCoin developer documentation! This repository contains the 
 
 The "Content" folder represents the starting point for all site content. Anything above that in the file structure will be ignored, as will any README files within the site content folders.
 
-The "Overview," "Guides," "Community," and "FAQ" folders just underneath the main content folder map directly to the corresponding sections in the developer portal.
+Directories just beneath the "Content" directory will compile into cohesive sections in the Dev Portal, using the directory structure as a map for the table of contents and url routes to the individual files and folders.
 
-Documents in "Overview," "Guides," and "FAQ" will be constructed into traditional documentation format with a linked table of contents. Files will render into html from the markdown, while directories will be interpreted as subgroup headings.
+Documents in these folders, such as those in "Overview," "Guides," and "FAQ," will be constructed into traditional documentation format with a linked table of contents. Files will render into html from the markdown, while directories will be interpreted as subgroup headings.
 
 # Markdown, Directories, and Metadata
 
@@ -48,6 +48,7 @@ title: "optional. Recommended in quotes to avoid formatting faux-pas. A missing 
 author: "optional. The original author of the page, if desired."
 description: "optional. text to be used as the description in meta tags and in internal search previews."
 hide_title: optional boolean. When true, doesn't render the title given in this header on the page, for when you want to include it yourself.
+use_file: "optional GitHub path. If included, the page will attempt to replace the body with the contents of the given document. See *Pulling from External Locations* below."
 ---
 ```
 
