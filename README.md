@@ -62,3 +62,11 @@ You can use a local file by referencing it's root path as it would be in *this r
 ![start with a slash](/images/fog.png)
 
 Images will try to fill the width of their container by default. If a width is given using an html `<img>` tag, the image will be centered in the document. You can attach classes "left" or "right" to the image to have it align to either side. This is also true of `<video>` and `<iframe>` tags.
+
+# Pulling from External Locations
+
+This site is able to pull in markdown content from other arbitrary repositories as well, provided the document you want to include is publicly visible on GitHub. To do so, just include a markdown file with `use_file: [github path]` line in the header. The site front-end will build a page using the local head data and the provided content as the body.
+
+This system uses the GitHub content API to retrive data, so the path provided must take the common GitHub form of `[owner]/[repository]/[path to file]`
+
+For example, to get the [readme for the MobileCoin Foundation's "Mechanics of MobileCoin" repo](https://github.com/mobilecoinfoundation/Mechanics-of-MobileCoin/blob/master/README.md), use the path 'mobilecoinfoundation/Mechanics-of-MobileCoin/README.md' for the `use_file` field. It is recommended to still include some body content in these markdown files, as it will be used as the fallback content should the site be unable to reach to remote content for any reason.
