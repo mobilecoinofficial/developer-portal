@@ -1,0 +1,39 @@
+{
+  description: "Header and Footer menus can be edited in this file. See example below for how to add menu items.",
+  example: {
+    label: "Text of the menu item. Required",
+    url: "url of the menu item. local paths are okay. Will default to # if left blank",
+    newTab: "Optional Boolean. Whether this item opens in a new tab or not. Attaches target='_blank' and rel='noopener'"
+  },
+  main: [
+    {
+      label: "intro",
+      url: "/overview"
+    },
+    {
+      label: "docs",
+      url: "/guides"
+    },
+    {
+      label: "community",
+      url: "/community"
+    },
+    {
+      label: "roadmap",
+      url: "/faq"
+    },
+    {
+      label: "blog",
+      url: "https://mobilecoin.com/news",
+      newTab: true
+    },
+    {
+      label: "jobs",
+      url: "https://boards.greenhouse.io/mobilecoin",
+      newTab: true
+    }
+  ],
+  foot: [
+    
+  ]
+}
