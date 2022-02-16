@@ -34,6 +34,34 @@
       }
     ],
     "foot": [
-      
+      {
+        "label": "terms of use",
+        "url": "https://mobilecoin.com/terms-of-use",
+        "newTab": true
+      },
+      {
+        "label": "values and ethos",
+        "url": "https://mobilecoin.com/values-and-ethos",
+        "newTab": true
+      },
+      {
+        "label": "faq",
+        "url": "https://developers.mobilecoin.com/faq/what-is-mobilecoin",
+      },
+      {
+        "label": "privacy stance",
+        "url": "https://mobilecoin.com/privacy-stance",
+        "newTab": true
+      },
+      {
+        "label": "jobs",
+        "url": "https://boards.greenhouse.io/mobilecoin",
+        "newTab": true
+      },
+      {
+        "label": "press",
+        "url": "https://mobilecoin.com/press",
+        "newTab": true
+      },
     ]
   }
