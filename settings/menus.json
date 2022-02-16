@@ -1,67 +1,94 @@
 {
-    "description": "Header and Footer menus can be edited in this file. See example below for how to add menu items. For good measure, please validate this json before committing.",
-    "example": {
-      "label": "Text of the menu item. Required",
-      "url": "url of the menu item. local paths are okay. Will default to # if left blank",
-      "newTab": "Optional Boolean. Whether this item opens in a new tab or not. Attaches target='_blank' and rel='noopener'"
-    },
-    "main": [
-      {
-        "label": "intro",
-        "url": "/overview"
-      },
-      {
-        "label": "docs",
-        "url": "/guides"
-      },
-      {
-        "label": "community",
-        "url": "/community"
-      },
-      {
-        "label": "roadmap",
-        "url": "/faq"
-      },
-      {
-        "label": "blog",
-        "url": "https://mobilecoin.com/news",
-        "newTab": true
-      },
-      {
-        "label": "jobs",
-        "url": "https://boards.greenhouse.io/mobilecoin",
-        "newTab": true
-      }
-    ],
-    "foot": [
-      {
-        "label": "terms of use",
-        "url": "https://mobilecoin.com/terms-of-use",
-        "newTab": true
-      },
-      {
-        "label": "values and ethos",
-        "url": "https://mobilecoin.com/values-and-ethos",
-        "newTab": true
-      },
-      {
-        "label": "faq",
-        "url": "https://developers.mobilecoin.com/faq/what-is-mobilecoin"
-      },
-      {
-        "label": "privacy stance",
-        "url": "https://mobilecoin.com/privacy-stance",
-        "newTab": true
-      },
-      {
-        "label": "jobs",
-        "url": "https://boards.greenhouse.io/mobilecoin",
-        "newTab": true
-      },
-      {
-        "label": "press",
-        "url": "https://mobilecoin.com/press",
-        "newTab": true
-      }
-    ]
-  }
+	"description": "Header and Footer menus can be edited in this file. See example below for how to add menu items. For good measure, please validate this json before committing.",
+	"example": {
+		"label": "Text of the menu item. Required",
+		"url": "url of the menu item. local paths are okay. Will default to # if left blank",
+		"newTab": "Optional Boolean. Whether this item opens in a new tab or not. Attaches target='_blank' and rel='noopener'"
+	},
+	"main": [
+	    {
+			"label": "intro",
+			"url": "/overview"
+		},
+		{
+			"label": "docs",
+			"url": "/guides"
+		},
+		{
+			"label": "community",
+			"url": "/community"
+		},
+		{
+			"label": "roadmap",
+			"url": "/faq"
+		},
+		{
+			"label": "blog",
+			"url": "https://mobilecoin.com/news",
+			"newTab": true
+		},
+		{
+			"label": "jobs",
+			"url": "https://boards.greenhouse.io/mobilecoin",
+			"newTab": true
+		}
+	],
+	"foot": [
+	    {
+			"label": "terms of use",
+			"url": "https://mobilecoin.com/terms-of-use",
+			"newTab": true
+		},
+		{
+			"label": "values and ethos",
+			"url": "https://mobilecoin.com/values-and-ethos",
+			"newTab": true
+		},
+		{
+			"label": "faq",
+			"url": "https://developers.mobilecoin.com/faq/what-is-mobilecoin"
+		},
+		{
+			"label": "privacy stance",
+			"url": "https://mobilecoin.com/privacy-stance",
+			"newTab": true
+		},
+		{
+			"label": "jobs",
+			"url": "https://boards.greenhouse.io/mobilecoin",
+			"newTab": true
+		},
+		{
+			"label": "press",
+			"url": "https://mobilecoin.com/press",
+			"newTab": true
+		}
+	],
+	"social": [
+	    {
+			"label": "mailto",
+			"url": "mailto:hello@mobilecoin.com",
+			"newTab": true
+		},
+		{
+			"label": "twitter",
+			"url": "https://twitter.com/mobilecoin",
+			"newTab": true
+		},
+		{
+			"label": "instagram",
+			"url": "https://www.instagram.com/mobilecoincompany",
+			"newTab": true
+		},
+		{
+			"label": "facebook",
+			"url": "https://www.facebook.com/MobileCoinOfficial",
+			"newTab": true
+		},
+		{
+			"label": "linkedin",
+			"url": "https://www.linkedin.com/company/mobilecoin",
+			"newTab": true
+		}
+	]
+}
