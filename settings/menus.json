@@ -1,5 +1,5 @@
 {
-    "description": "Header and Footer menus can be edited in this file. See example below for how to add menu items.",
+    "description": "Header and Footer menus can be edited in this file. See example below for how to add menu items. For good measure, please validate this json before committing.",
     "example": {
       "label": "Text of the menu item. Required",
       "url": "url of the menu item. local paths are okay. Will default to # if left blank",
@@ -46,7 +46,7 @@
       },
       {
         "label": "faq",
-        "url": "https://developers.mobilecoin.com/faq/what-is-mobilecoin",
+        "url": "https://developers.mobilecoin.com/faq/what-is-mobilecoin"
       },
       {
         "label": "privacy stance",
