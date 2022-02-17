@@ -64,10 +64,26 @@ You can use a local file by referencing it's root path as it would be in *this r
 
 Images will try to fill the width of their container by default. If a width is given using an html `<img>` tag, the image will be centered in the document. You can attach classes "left" or "right" to the image to have it align to either side. This is also true of `<video>` and `<iframe>` tags.
 
-# Pulling from External Locations
+## Pulling from External Locations
 
 This site is able to pull in markdown content from other arbitrary repositories as well, provided the document you want to include is publicly visible on GitHub. To do so, just include a markdown file with `use_file: [github path]` line in the header. The site front-end will build a page using the local head data and the provided content as the body.
 
 This system uses the GitHub content API to retrive data, so the path provided must take the common GitHub form of `[owner]/[repository]/[path to file]`
 
 For example, to get the [readme for the MobileCoin Foundation's "Mechanics of MobileCoin" repo](https://github.com/mobilecoinfoundation/Mechanics-of-MobileCoin/blob/master/README.md), use the line `use_file: "mobilecoinfoundation/Mechanics-of-MobileCoin/README.md"` in the document header. It is recommended to still include some body content in these markdown files, as it will be used as the fallback content should the site be unable to reach to remote content for any reason.
+
+## Index Card "Shortcode"
+
+In addition to the normal markdown syntaxes allowed by GFM, this site can also insert a card like the ones on the front page using the following structure:
+
+[indexcard href="path" title="title" image="image path" caption="short description" class="additional classes" ]
+
+If on its own like as shown above, the site will render an interactive card link. Note that the cards are inline-block elements by default, and rely somewhat on their containers for positioning and horizontal sizing. 
+
+# Homepage and Menus
+
+The Settings folder allows for control over the three menus (main, footer, and social) via json in the menus.json file, and some of the front-page content via the home.md document.
+
+The menus.json file is just a normal json document with instructions on how to structure menu items. Please validate your json before committing, or you will get build errors.
+
+The home.md file can read any of the same markdown valid in the docs section as described above. Note that when combining HTML and Markdown, you must include a double-line-break to ensure the interpreter knows to switch back and forth.
