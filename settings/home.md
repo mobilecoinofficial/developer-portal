@@ -15,16 +15,16 @@ className="w-full h-full absolute inset-0"></iframe>
 <p>review the basics, dive in deeper, or join the community.</p>
 <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4">
 
-[indexcard href="/overview" title="overview" image="/native_images/overview-icon-borderless.svg" 
+[indexcard href="/overview" title="intro" image="/native_images/overview-icon-borderless.svg" 
     caption="cryptocurrency designed to be used" ]
 
-[indexcard href="/guides" title="guides" image="/native_images/guides-icon-borderless.svg" 
+[indexcard href="/guides" title="docs" image="/native_images/guides-icon-borderless.svg" 
     caption="expand your project with mobilecoin" ]
 
 [indexcard href="/community" title="community" image="/native_images/community-icon-borderless.svg"
     caption="connect with others on the cutting edge" ]
 
-[indexcard href="/faq" title="faq" image="/native_images/faq-icon-borderless.svg"
+[indexcard href="/faq" title="roadmap" image="/native_images/faq-icon-borderless.svg"
     caption="your questions, answered" ]
 
 </div>
