@@ -76,7 +76,7 @@ For example, to get the [readme for the MobileCoin Foundation's "Mechanics of Mo
 
 In addition to the normal markdown syntaxes allowed by GFM, this site can also insert a card like the ones on the front page using the following structure:
 
-[indexcard href="path" title="title" image="image path" caption="short description" class="additional classes" ]
+`[indexcard href="path" title="title" image="image path" caption="short description" class="additional classes" ]`
 
 If on its own like as shown above, the site will render an interactive card link. Note that the cards are inline-block elements by default, and rely somewhat on their containers for positioning and horizontal sizing. 
 
