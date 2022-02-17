@@ -23,6 +23,10 @@
 			"url": "/faq"
 		},
 		{
+			"label": "apps",
+			"url": "/ecosystem"
+		},
+		{
 			"label": "blog",
 			"url": "https://mobilecoin.com/news",
 			"newTab": true
