@@ -1,5 +1,5 @@
 ---
-title: "Full Service API"
+title: "Payments API"
 use_file: "mobilecoinofficial/full-service/README.md"
 ---
 A MobileCoin service for wallet implementations.
