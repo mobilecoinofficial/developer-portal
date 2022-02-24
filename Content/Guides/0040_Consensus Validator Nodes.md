@@ -1,5 +1,5 @@
 ---
-title: "Consensus Validator Nodes"
+title: "Validator Node"
 
 ---
 This section helps validator node operators set up and manage a remote Consensus Validator node on the MobileCoin
