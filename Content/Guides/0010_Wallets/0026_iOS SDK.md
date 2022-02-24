@@ -1,5 +1,5 @@
 ---
-title: "Swift/iOS SDK"
+title: "iOS SDK"
 hide_title: true
 use_file: "mobilecoinofficial/MobileCoin-Swift/README.md"
 ---
