@@ -1,5 +1,5 @@
 ---
-title: A Forest of Signal Bots
+title: Signal Bot SDK
 use_file: "mobilecoinofficial/forest/README.md"
 ---
 Forest is a framework for running payments-enabled chat and utility bots for [Signal Messenger](https://signal.org/en/).
