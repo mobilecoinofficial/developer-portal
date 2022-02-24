@@ -1,5 +1,5 @@
 ---
-title: MobileCoin Desktop Wallet
+title: Mac OS X Wallet
 use_file: "mobilecoinofficial/desktop-wallet/README.md"
 ---
 
