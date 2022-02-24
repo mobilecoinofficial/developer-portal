@@ -1,5 +1,5 @@
 ---
-title: MobileCoin Payments with Python
+title: Python Library
 ---
 
 #### MobileCoin Python Package
