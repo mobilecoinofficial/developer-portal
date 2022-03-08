@@ -7,24 +7,24 @@
 	},
 	"main": [
 	    {
-			"label": "learn",
+			"label": "overview",
 			"url": "/overview"
 		},
 		{
-			"label": "API & SDKs",
+			"label": "dev tools",
 			"url": "/guides"
 		},
 		{
-			"label": "community",
+			"label": "apps",
+			"url": "/ecosystem"
+		},
+		{
+			"label": "events",
 			"url": "/community"
 		},
 		{
 			"label": "roadmap",
 			"url": "/roadmap"
-		},
-		{
-			"label": "apps",
-			"url": "/ecosystem"
 		},
 		{
 			"label": "blog",
