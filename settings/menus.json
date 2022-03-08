@@ -7,12 +7,8 @@
 	},
 	"main": [
 	    {
-			"label": "intro",
+			"label": "about",
 			"url": "/overview"
-		},
-		{
-			"label": "dev tools",
-			"url": "/guides"
 		},
 		{
 			"label": "apps",
@@ -21,6 +17,10 @@
 		{
 			"label": "events",
 			"url": "/community"
+		},
+		{
+			"label": "dev tools",
+			"url": "/guides"
 		},
 		{
 			"label": "roadmap",
@@ -69,7 +69,12 @@
 		}
 	],
 	"social": [
-	    {
+	      {
+			"label": "discord",
+			"url": "https://www.mobilecoin.chat/",
+			"newTab": true
+		},
+		{
 			"label": "mailto",
 			"url": "mailto:hello@mobilecoin.com",
 			"newTab": true
