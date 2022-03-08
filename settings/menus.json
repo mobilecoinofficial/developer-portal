@@ -7,11 +7,11 @@
 	},
 	"main": [
 	    {
-			"label": "intro",
+			"label": "learn",
 			"url": "/overview"
 		},
 		{
-			"label": "docs",
+			"label": "API & SDKs",
 			"url": "/guides"
 		},
 		{
