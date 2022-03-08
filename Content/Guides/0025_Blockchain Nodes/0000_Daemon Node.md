@@ -1,5 +1,5 @@
 ---
-title: "MobileCoin Daemon"
+title: "Daemon Node"
 use_file: "mobilecoinfoundation/mobilecoin/mobilecoind/README.md"
 ---
 The MobileCoin Daemon, or `mobilecoind`, is a standalone executable which provides blockchain synchronization and wallet services.
