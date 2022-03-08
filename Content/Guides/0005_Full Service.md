@@ -1,5 +1,5 @@
 ---
-title: "Payments API"
+title: "Full Service API"
 use_file: "mobilecoinofficial/full-service/README.md"
 ---
 
