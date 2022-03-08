@@ -1,5 +1,5 @@
 ---
-title: Mac OS X Wallet
+title: Mac OS X SDK
 use_file: "mobilecoinofficial/desktop-wallet/README.md"
 ---
 
