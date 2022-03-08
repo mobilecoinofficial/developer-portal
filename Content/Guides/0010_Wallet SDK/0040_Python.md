@@ -1,5 +1,5 @@
 ---
-title: Python Library
+title: Python SDK
 use_file: "https://github.com/mobilecoinfoundation/mobilecoin/blob/master/mobilecoind/clients/python/README.md"
 ---
 
