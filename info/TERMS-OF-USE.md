@@ -1,6 +1,6 @@
 ---
 title: Terms of Use
-use_file: "https://github.com/mobilecoinfoundation/mobilecoin/blob/0d53628fc07657446b82528f518c95eed5396832/TERMS-OF-USE.md"
+use_file: "https://github.com/mobilecoinfoundation/mobilecoin/edit/master/TERMS-OF-USE.md"
 hide_title: true
 ---
 
