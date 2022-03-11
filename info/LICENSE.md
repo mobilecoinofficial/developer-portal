@@ -1,7 +1,5 @@
 ---
-title: License
-use_file: "https://github.com/mobilecoinofficial/mobilecoin-app/blob/moby/LICENSE.md"
-hide_title: true
+title: Licensing
 ---
 Software License Agreement (GPLv3 License)
 ========================================
