@@ -1,7 +1,5 @@
 ---
-title: Terms of Use
-use_file: "https://github.com/mobilecoinofficial/full-service/blob/main/CLA.md"
-hide_title: true
+title: Contributor License Agreement
 ---
 
 ## Contributor License Agreement
