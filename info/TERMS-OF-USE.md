@@ -1,3 +1,9 @@
+---
+title: Terms of Use
+use_file: "https://github.com/mobilecoinfoundation/mobilecoin/blob/0d53628fc07657446b82528f518c95eed5396832/TERMS-OF-USE.md"
+hide_title: true
+---
+
 # **TERMS OF USE**  **FOR MOBILECOINS AND MOBILECOIN WALLETS**
 
 The MobileCoin Network uses an open source software protocol commonly known as the MobileCoin protocol. The MobileCoin protocol is designed to enable holders of digital tokens known as MobileCoins to send and receive peer-to-peer payments securely and privately through a digital wallet that can send and receive MobileCoins (MobileCoin Wallets). MobileCoins and MobileCoin Wallets enable a simple, secure, and private medium of exchange for consumers in countries of operation to manage and move their money using a currency of equivalent value across countries.
