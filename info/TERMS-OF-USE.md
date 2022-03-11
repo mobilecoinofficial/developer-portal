@@ -1,7 +1,5 @@
 ---
 title: Terms of Use
-use_file: "https://github.com/mobilecoinfoundation/mobilecoin/edit/master/TERMS-OF-USE.md"
-hide_title: true
 ---
 
 # **TERMS OF USE**  **FOR MOBILECOINS AND MOBILECOIN WALLETS**
