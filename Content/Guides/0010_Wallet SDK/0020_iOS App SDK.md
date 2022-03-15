@@ -1,29 +1,14 @@
 ---
 title: "iOS Swift SDK"
-hide_title: true
 ---
-# iOS Swift SDK 
 
-MobileCoin is a privacy-preserving payments network designed for use on mobile devices. Please see the [full developer documentation on Gitbook](https://mobilecoin.gitbook.io/mobilecoin-swift/). 
+The MobileCoin iOS Swift SDK is a library to access the MobileCoin blockchain from Apple iPhones. Please see the [full developer documentation on Gitbook](https://mobilecoin.gitbook.io/mobilecoin-swift/). 
 
 [![Docs](https://img.shields.io/badge/docs-latest-blue?style=for-the-badge)](https://mobilecoin.gitbook.io/mobilecoin-swift/) 
 [![Chat](https://img.shields.io/discord/844353360348971068?style=for-the-badge)](http://mobilecoin.chat/) 
 [![CircleCI](https://img.shields.io/circleci/build/gh/mobilecoinofficial/MobileCoin-Swift?token=da755dc2814021ad04ee7b31a129b41e6c7161ac&style=for-the-badge)](https://circleci.com/gh/mobilecoinofficial/MobileCoin-Swift/tree/master) 
 
-### Contributors
-
-* Please see [*CONTRIBUTING.md*](./CONTRIBUTING.md) for notes on contributing bug reports and code.
-
-# Table of Contents
-- [License](#license)
-- [Cryptography Notice](#cryptography-notice)
-- [Repository Structure](#repository-structure)
-- [Build Instructions](#build-instructions)
-- [Overview](#overview)
-- [Support](#support)
-- [Trademarks](#trademarks)
-
-## Repository Structure
+## Show me the code
 |Directory |Description |
 | :-- | :-- |
 | [Docs](https://github.com/mobilecoinofficial/MobileCoin-Swift/tree/master/docs) | Integration Guide. |
@@ -35,7 +20,7 @@ MobileCoin is a privacy-preserving payments network designed for use on mobile d
 
 ## Support
 
-For troubleshooting help and other questions, please visit our [discord community](https://mobilecoin.chat/).
+For troubleshooting help and other questions, please join our [discord server](https://mobilecoin.chat/).
 
 You can also open a technical support ticket via [email](mailto://support@mobilecoin.com).
 
