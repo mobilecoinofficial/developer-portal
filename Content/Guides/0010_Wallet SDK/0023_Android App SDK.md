@@ -1,12 +1,21 @@
 ---
 title: Android SDK
-hide_title: true
-use_file: "mobilecoinofficial/android-sdk/README.md"
 ---
-# Android SDK
+The MobileCoin Android SDK is a library to access the MobileCoin blockchain from Android phones. Please see the [full developer documentation on Gitbook](https://mobilecoin.gitbook.io/android-sdk/). 
 
-MobileCoin is a privacy-preserving payments network designed for use on mobile devices.
+[![Documentation](https://img.shields.io/badge/docs-latest-blue?style=for-the-badge)](https://mobilecoinofficial.github.io/android-sdk/)
+[![Chat](https://img.shields.io/discord/844353360348971068?style=for-the-badge)](http://mobilecoin.chat/) 
+[![CircleCI](https://img.shields.io/circleci/build/gh/mobilecoinofficial/android-sdk?token=eaa920ba2ba6916857aec7ef3c1a9d217a128717&style=for-the-badge)](https://circleci.com/gh/mobilecoinofficial/android-sdk/tree/master) 
 
-The MobileCoin Android SDK is a library to access the MobileCoin blockchain from Android phones.
+## Show me the code
+|Directory |Description |
+| :-- | :-- |
+| [docs](./docs) | Integration Guide for the Android SDK. |
+| [main](./android-sdk/src/main/java/com/mobilecoin) | Sources for the MobileCoin Android SDK. |
+| [androidTest](./android-sdk/src/androidTest/java/com/mobilecoin) | Tests. |
+| [testApp](./testApp) | Test application using the Android SDK. |
 
-Please see [this document](https://github.com/mobilecoinofficial/android-sdk/blob/master/README.md) for details.
+## Support
+For troubleshooting help and other questions, please join our [discord server](https://mobilecoin.chat/).
+
+You can also open a technical support ticket via [email](mailto://support@mobilecoin.com).
