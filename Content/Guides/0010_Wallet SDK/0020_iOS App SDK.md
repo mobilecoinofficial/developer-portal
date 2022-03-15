@@ -2,7 +2,7 @@
 title: "iOS Swift SDK"
 ---
 
-The MobileCoin iOS Swift SDK is a library to access the MobileCoin blockchain from Apple iPhones. Please see the [full developer documentation on Gitbook](https://mobilecoin.gitbook.io/mobilecoin-swift/). 
+The MobileCoin iOS Swift SDK is a library to access the MobileCoin blockchain from Apple iPhones. Please see the [MobileCoin iOS Swift SDK Documentation](https://mobilecoin.gitbook.io/mobilecoin-swift/). 
 
 [![Docs](https://img.shields.io/badge/docs-latest-blue?style=for-the-badge)](https://mobilecoin.gitbook.io/mobilecoin-swift/) 
 [![Chat](https://img.shields.io/discord/844353360348971068?style=for-the-badge)](http://mobilecoin.chat/) 
