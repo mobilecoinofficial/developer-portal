@@ -4,15 +4,11 @@ hide_title: true
 ---
 # iOS SDK Documentation
 
-MobileCoin is a privacy-preserving payments network designed for use on mobile devices.
+MobileCoin is a privacy-preserving payments network designed for use on mobile devices. Please see the [full developer documentation on Gitbook](https://mobilecoin.gitbook.io/mobilecoin-swift/). 
 
 [![Docs](https://img.shields.io/badge/docs-latest-blue?style=for-the-badge)](https://mobilecoin.gitbook.io/mobilecoin-swift/) 
 [![Chat](https://img.shields.io/discord/844353360348971068?style=for-the-badge)](http://mobilecoin.chat/) 
-[![CircleCI](https://img.shields.io/circleci/build/gh/mobilecoinofficial/MobileCoin-Swift?token=da755dc2814021ad04ee7b31a129b41e6c7161ac?style=for-the-badge)](https://circleci.com/gh/mobilecoinofficial/MobileCoin-Swift/tree/master) 
-
-# Sending your First Payment
-
-* You must read and accept the [Terms of Use for MobileCoins and MobileCoin Wallets](./TERMS-OF-USE.md) to use MobileCoin Software.
+[![CircleCI](https://img.shields.io/circleci/build/gh/mobilecoinofficial/MobileCoin-Swift?token=da755dc2814021ad04ee7b31a129b41e6c7161ac&style=for-the-badge)](https://circleci.com/gh/mobilecoinofficial/MobileCoin-Swift/tree/master) 
 
 ### Contributors
 
@@ -27,67 +23,20 @@ MobileCoin is a privacy-preserving payments network designed for use on mobile d
 - [Support](#support)
 - [Trademarks](#trademarks)
 
-## License
-
-MobileCoin is available under open-source licenses. Please read the [*LICENSE.md*](./LICENSE.md) and corresponding [*LICENSE*](./LICENSE).
-
-## Cryptography Notice
-This distribution includes cryptographic software. Your country may have restrictions on the use of encryption software.
-Please check your country's laws before downloading or using this software.
-
 ## Repository Structure
 |Directory |Description |
 | :-- | :-- |
-| [Docs](./docs) | Integration Guide. |
-| [Example](./Example) | Example application. |
-| [ExampleHTTP](./ExampleHTTP) | Example "HTTP Only" application. |
-| [Sources](./Sources) | Sources for the MobileCoin Swift SDK. |
-| [Tests](./Tests) | Tests. |
-| [Vendor](./Vendor) | iOS Artifacts. |
-
-## Build Instructions
-
-The workspace can be built with `make`.
-
-1. Initialize or update submodules
-
-    ```
-    git submodule update --init --recursive
-    ```
-
-1. Install Ruby
-
-1. Install the gem bundler
-
-    ```
-    gem install bundler
-    ```
-
-1. Build the MobileCoin Swift SDK
-
-    ```
-    make
-    ```
-
-Note: To build libmobilecoin, run `make` in [libmobilecoin-ios-artifacts](./Vendor/libmobilecoin-ios-artifacts).
-
-## Overview
-
-MobileCoin is a payment network with no central authority. The fundamental goal of the network is to safely and
-efficiently enable the exchange of value, represented as fractional ownership of the total value of the network.
-Like most cryptocurrencies, MobileCoin maintains a permanent and immutable record of all successfully completed
-payments in a blockchain data structure. Cryptography is used extensively to establish ownership, control transfers,
-and to preserve cash-like privacy for users.
-
-For more information about the cryptocurrency, see [MobileCoinFoundation/MobileCoin](https://github.com/mobilecoinfoundation/mobilecoin).
+| [Docs](https://github.com/mobilecoinofficial/MobileCoin-Swift/tree/master/docs) | Integration Guide. |
+| [Example](https://github.com/mobilecoinofficial/MobileCoin-Swift/tree/master/Example) | Example application. |
+| [ExampleHTTP](https://github.com/mobilecoinofficial/MobileCoin-Swift/tree/master/ExampleHTTP) | Example "HTTP Only" application. |
+| [Sources](https://github.com/mobilecoinofficial/MobileCoin-Swift/tree/master/Sources) | Sources for the MobileCoin Swift SDK. |
+| [Tests](https://github.com/mobilecoinofficial/MobileCoin-Swift/tree/master/Tests) | Tests. |
+| [Vendor](https://github.com/mobilecoinofficial/MobileCoin-Swift/tree/master/Vendor) | iOS Artifacts. |
 
 ## Support
 
-For troubleshooting help and other questions, please visit our [community forum](https://community.mobilecoin.foundation/).
+For troubleshooting help and other questions, please visit our [discord community](https://mobilecoin.chat/).
 
 You can also open a technical support ticket via [email](mailto://support@mobilecoin.com).
 
-#### Trademarks
-
-MobileCoin is a registered trademark of MobileCoin Inc.
 
