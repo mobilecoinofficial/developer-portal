@@ -1,6 +1,5 @@
 ---
 title: "Full Service API"
-use_file: "mobilecoinofficial/full-service/README.md"
 ---
 
 The Full Service API provides JSON RPC 2.0 endpoints for interacting with your MobileCoin transactions. Please see the full API documentation at: [Full Service API  Gitbook](https://mobilecoin.gitbook.io/full-service-api/)
