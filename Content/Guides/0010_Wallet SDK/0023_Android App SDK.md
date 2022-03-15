@@ -10,10 +10,10 @@ The MobileCoin Android SDK is a library to access the MobileCoin blockchain from
 ## Show me the code
 |Directory |Description |
 | :-- | :-- |
-| [docs](./docs) | Integration Guide for the Android SDK. |
-| [main](./android-sdk/src/main/java/com/mobilecoin) | Sources for the MobileCoin Android SDK. |
-| [androidTest](./android-sdk/src/androidTest/java/com/mobilecoin) | Tests. |
-| [testApp](./testApp) | Test application using the Android SDK. |
+| [docs](https://github.com/mobilecoinofficial/android-sdk/tree/master/docs) | Integration Guide for the Android SDK. |
+| [main](https://github.com/mobilecoinofficial/android-sdk/tree/master/android-sdk/src/main/java/com/mobilecoin) | Sources for the MobileCoin Android SDK. |
+| [androidTest](https://github.com/mobilecoinofficial/android-sdk/tree/master/android-sdk/src/androidTest/java/com/mobilecoin/lib) | Tests. |
+| [testApp](https://github.com/mobilecoinofficial/android-sdk/tree/master/testApp) | Test application using the Android SDK. |
 
 ## Support
 For troubleshooting help and other questions, please join our [discord server](https://mobilecoin.chat/).
