@@ -10,10 +10,4 @@ node provides defense-in-depth improvements to privacy and trust.
 
 To learn more and run a validator node on the MobileCoin network, please review the runbook: [Consensus Validator Node Runbook](https://mobilecoin.gitbook.io/mobilecoin-consensus-fog/)
 
-The key to operating a Consensus Validator Node is trust. 
-
-![alt text](https://mobilecoin.com/images/heart.svg)
-
-It is your responsibilty to only include operators you _trust_ in your quorum set, and for other operators to only
-include your validator if they trust you. This is vital for the operation of the MobileCoin network.
-
+The key to operating a Consensus Validator Node is trust. It is your responsibilty to only include operators you _trust_ in your quorum set, and for other operators to only include your validator if they trust you. This is vital for the operation of the MobileCoin network.
