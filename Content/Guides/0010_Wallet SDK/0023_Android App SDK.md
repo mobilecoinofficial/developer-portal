@@ -1,7 +1,7 @@
 ---
 title: Android SDK
 ---
-The MobileCoin Android SDK is a library to access the MobileCoin blockchain from Android phones. Please see the [full developer documentation on Gitbook](https://mobilecoin.gitbook.io/android-sdk/). 
+The MobileCoin Android SDK is a library to access the MobileCoin blockchain from Android phones. Please see the [MobileCoin Android SDK Documentation](https://mobilecoin.gitbook.io/android-sdk/). 
 
 [![Documentation](https://img.shields.io/badge/docs-latest-blue?style=for-the-badge)](https://mobilecoinofficial.github.io/android-sdk/)
 [![Chat](https://img.shields.io/discord/844353360348971068?style=for-the-badge)](http://mobilecoin.chat/) 
