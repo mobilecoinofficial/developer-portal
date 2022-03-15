@@ -2,7 +2,7 @@
 title: "iOS SDK"
 hide_title: true
 ---
-# MobileCoin iOS Swift SDK Documentation
+# iOS SDK Documentation
 
 MobileCoin is a privacy-preserving payments network designed for use on mobile devices.
 
