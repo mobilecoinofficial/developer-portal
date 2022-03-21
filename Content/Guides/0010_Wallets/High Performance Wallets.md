@@ -8,8 +8,8 @@ MobileCoin has developed a Software Developer Kit (SDK) for [iOS](/guides/wallet
 
 <div className="section index-cards">
 <div className="width">
-<h2>wallet SDKs</h2>
-<p>tasty software development kits in our favorite languages</p>
+<h2>Developer Tools</h2>
+<p>All our APIs and SDKs</p>
 <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4">
 
 [indexcard href="https://mobilecoin.gitbook.io/full-service-api/" title="API" image="https://raw.githubusercontent.com/mobilecoinofficial/developer-portal/main/Content/Guides/0010_Wallets/ios.png" 
