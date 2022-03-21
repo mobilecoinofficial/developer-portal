@@ -1,5 +1,5 @@
 ---
-title: Forest SDK
+title: Forest Toolkit
 use_file: "mobilecoinofficial/forest/README.md"
 ---
 The Forest SDK is a framework for running payments-enabled chat and utility bots for [Signal Messenger](https://signal.org/en/).
