@@ -4,28 +4,19 @@ about_this_file: "This document will have its contents added to the front page b
 
 <div className="section index-cards">
 <div className="width">
-<div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3">
+<div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4">
 
 [indexcard href="/overview" title="learn" image="/native_images/overview-icon-borderless.svg" 
     caption="learn about the mobilecoin network" ]
-
-[indexcard href="/overview/overview/faq" title="FAQ" image="/native_images/faq-icon-borderless.svg"
-    caption="we are fully open source" ]
     
 [indexcard href="/ecosystem" title="Apps" image="/native_images/overview-icon-borderless.svg" 
     caption="How to use apps and bots" ]
 
-[indexcard href="/guides" title="APIs & SDKs" image="/native_images/guides-icon-borderless.svg" 
-    caption="Show me the code!" ]
+[indexcard href="/guides" title="APIs and SDKs" image="/native_images/guides-icon-borderless.svg" 
+    caption="Show me the code" ]
 
 [indexcard href="/community" title="Meet MobileCoin" image="/native_images/community-icon-borderless.svg"
     caption="Live talks every week" ]
-
-[indexcard href="https://mobilecoin.chat" title="Chat with us" image="/native_images/faq-icon-borderless.svg"
-    caption="Ask us anything, anytime" ]
-
-[indexcard href="https://boards.greenhouse.io/mobilecoin" title="Careers" image="/native_images/community-icon-borderless.svg"
-    caption="We are hiring!" ]
 
 </div>
 </div>
