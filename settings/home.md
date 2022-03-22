@@ -8,17 +8,17 @@ about_this_file: "This document will have its contents added to the front page b
 <p>review the basics, dive in deeper, or join the community.</p>
 <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4">
 
-[indexcard href="/overview" title="learn" image="/native_images/overview-icon-borderless.svg" 
-    caption="learn about the mobilecoin network" ]
+[indexcard href="/overview" title="Apps" image="/native_images/overview-icon-borderless.svg" 
+    caption="How to use apps and bots" ]
 
-[indexcard href="/guides" title="dev tools" image="/native_images/guides-icon-borderless.svg" 
-    caption="dive into the SDKs and API docs" ]
+[indexcard href="/guides" title="APIs & SDKs" image="/native_images/guides-icon-borderless.svg" 
+    caption="Show me the code!" ]
 
-[indexcard href="/community" title="events" image="/native_images/community-icon-borderless.svg"
-    caption="meet the teams working on mobilecoin" ]
+[indexcard href="/community" title="Meet MobileCoin" image="/native_images/community-icon-borderless.svg"
+    caption="Live talks every week" ]
 
-[indexcard href="/faq" title="roadmap" image="/native_images/faq-icon-borderless.svg"
-    caption="we are fully open source" ]
+[indexcard href="http://mobilecoin.chat" title="Chat with us" image="/native_images/faq-icon-borderless.svg"
+    caption="Ask us anything, anytime" ]
 
 </div>
 </div>
