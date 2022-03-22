@@ -9,7 +9,7 @@ about_this_file: "This document will have its contents added to the front page b
 [indexcard href="/overview" title="Introduction" image="/native_images/overview-icon-borderless.svg" 
     caption="Explain like I'm five." ]
 
-[indexcard href="/ecosystem" title="Apps" image="/native_images/overview-icon-borderless.svg" 
+[indexcard href="/ecosystem" title="Apps" image="/native_images/faq-icon-borderless.svg" 
     caption="How to use MobileCoin" ]
 
 [indexcard href="/guides" title="APIs and SDKs" image="/native_images/guides-icon-borderless.svg" 
