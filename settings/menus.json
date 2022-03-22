@@ -6,17 +6,17 @@
 		"newTab": "Optional Boolean. Whether this item opens in a new tab or not. Attaches target='_blank' and rel='noopener'"
 	},
 	"main": [
-		{
-			"label": "apps",
-			"url": "/ecosystem"
+	    	{
+			"label": "intro",
+			"url": "/overview"
 		},
 		{
 			"label": "events",
 			"url": "/community"
 		},
-	    {
-			"label": "docs",
-			"url": "/overview"
+		{
+			"label": "apps",
+			"url": "/ecosystem"
 		},
 		{
 			"label": "dev tools",
