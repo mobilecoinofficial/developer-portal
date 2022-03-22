@@ -4,7 +4,7 @@ about_this_file: "This document will have its contents added to the front page b
 
 <div className="section index-cards">
 <div className="width">
-<div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4">
+<div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3">
 
 [indexcard href="/overview" title="learn" image="/native_images/overview-icon-borderless.svg" 
     caption="learn about the mobilecoin network" ]
