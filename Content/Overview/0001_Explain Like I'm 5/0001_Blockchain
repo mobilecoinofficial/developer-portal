@@ -1,8 +1,7 @@
 ---
 title: Fast, Private, Mobile Transactions 
 ---
-
-## How we put the Mobile in MobileCoin
+### How we put the Mobile in MobileCoin
 
 Almost 30 years ago knowledge gaps in how to use the Internet stymied the digital transformation and the advent of the World Wide Web. Most asked, "The world wide what"? Trust was a factor. Could you trust your money to online stores? Speed was another. Dial-up was agonizingly slow and laborious. A decade later, we embraced the Web, where Amazon and other digital companies grew like wildfire.
 
@@ -29,6 +28,7 @@ To help understand the importance of the MobileCoin technology, this explanation
 
 -   Software engineers who have studied digital payment systems, blockchain databases, and cryptography.
 
+# Explain Like I'm 5:
 ## What is MobileCoin's Blockchain?
 
 Blockchain is a new technology that is decentralizing trade and allowing peer-to-peer transactions to occur, removing the intermediaries. How does MobileCoin use this innovation to allow two people to send digital cash using their smartphones?
@@ -63,8 +63,9 @@ MobileCoin's Blockchain differs from other blockchains. Other networks retain co
 
 Using MobileCoin Fog (discussed next), MobileCoin has made the blockchain private and secure for smartphone usage.
 
-What is MobileCoin Fog?
------------------------
+
+# Explain Like I'm 5:
+## What is MobileCoin Fog?
 
 MobileCoin Fog is a new technology developed by MobileCoin, which is a privacy-preserving service designed to support use of the MobileCoin payments network on mobile devices. MobileCoin Fog is designed so that MobileCoin and the messaging app's service operators have limited insight into users' payments. Most people understand what the Cloud is, a type of technology infrastructure that hosts an organization's network capabilities and resources in a public or private remote computing platform. Fog is similar in that it is cloud, but opaque. You cannot see what is going on inside a Fog service. It is a private system. How does MobileCoin use this technology to allow two people to send digital cash to each other using their smartphone?
 
