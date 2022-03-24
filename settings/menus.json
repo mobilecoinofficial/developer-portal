@@ -16,22 +16,17 @@
 			"url": "/overview"
 		},
 		{
-			"label": "tools",
+			"label": "sdk",
 			"url": "/guides"
 		},{
-			"label": "events",
+			"label": "community",
 			"url": "/community"
 		},
 		{
-			"label": "jobs",
+			"label": "careers",
 			"url": "https://boards.greenhouse.io/mobilecoin",
 			"newTab": true
 		},
-		{
-			"label": "join",
-			"url": "https://discord.com/invite/mobilecoin",
-			"newTab": true
-		}
 	],
 	"foot": [
 	    {
