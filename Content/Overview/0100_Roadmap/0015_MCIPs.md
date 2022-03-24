@@ -1,5 +1,5 @@
 ---
-title: "MobileCoin Improvement Proposals (MCIPs)"
+title: "Proposal Process"
 ---
 
 [MobileCoin Improvement Proposals]: #mcips
