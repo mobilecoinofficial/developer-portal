@@ -30,12 +30,12 @@
 			"label": "jobs",
 			"url": "https://boards.greenhouse.io/mobilecoin",
 			"newTab": true
-		}
+		},
 		{
 			"label": "join",
 			"url": "https://discord.com/invite/mobilecoin",
 			"newTab": true
-		},
+		}
 	],
 	"foot": [
 	    {
