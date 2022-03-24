@@ -1,5 +1,5 @@
 ---
-title: Recoverable Transaction History
+title: Recover Transaction History
 use_file: "mobilecoinfoundation/mcips/text/0004-recoverable-transaction-history.md"
 ---
 We propose to specify three memo types that support a "recoverable transaction history" feature.
