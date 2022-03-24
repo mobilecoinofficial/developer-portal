@@ -19,7 +19,7 @@
 			"url": "/ecosystem"
 		},
 		{
-			"label": "dev tools",
+			"label": "tools",
 			"url": "/guides"
 		},
 		{
@@ -27,15 +27,15 @@
 			"url": "/roadmap"
 		},
 		{
-			"label": "blog",
-			"url": "https://mobilecoin.com/news",
-			"newTab": true
-		},
-		{
 			"label": "jobs",
 			"url": "https://boards.greenhouse.io/mobilecoin",
 			"newTab": true
 		}
+		{
+			"label": "join",
+			"url": "https://discord.com/invite/mobilecoin",
+			"newTab": true
+		},
 	],
 	"foot": [
 	    {
