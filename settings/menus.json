@@ -18,7 +18,8 @@
 		{
 			"label": "sdk",
 			"url": "/guides"
-		},{
+		},
+		{
 			"label": "community",
 			"url": "/community"
 		},
@@ -26,7 +27,7 @@
 			"label": "careers",
 			"url": "https://boards.greenhouse.io/mobilecoin",
 			"newTab": true
-		},
+		}
 	],
 	"foot": [
 	    {
