@@ -6,24 +6,17 @@ about_this_file: "This document will have its contents added to the front page b
 <div className="width">
 <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4">
 
-[indexcard href="https://twitter.com/mobilecoin" title="Follow our Twitter" image="/native_images/community-icon-borderless.svg"
-    caption="Twitter Spaces every Wednesday" ]
-    
-[indexcard href="https://github.com/mobilecoinofficial" title="Watch our GitHub" image="/native_images/github-icon-borderless.svg"
-    caption="Join the open source community" ]
-    
-[indexcard href="/overview" title="Read the Docs" image="/native_images/overview-icon-borderless.svg" 
+[indexcard href="/overview" title="Introduction" image="/native_images/overview-icon-borderless.svg" 
     caption="Explain like I am 5." ]
 
-[indexcard href="/ecosystem" title="Browse the Apps" image="/native_images/faq-icon-borderless.svg" 
-    caption="The ecosystem is growing" ]
+[indexcard href="/ecosystem" title="Apps" image="/native_images/faq-icon-borderless.svg" 
+    caption="How to use MobileCoin" ]
 
-[indexcard href="/guides" title="Start with an SDK" image="/native_images/guides-icon-borderless.svg" 
+[indexcard href="/guides" title="APIs and SDKs" image="/native_images/guides-icon-borderless.svg" 
     caption="Show me the code" ]
-    
-[indexcard href="https://gitcoin.co/mobilecoinofficial" title="Gitcoin Bounties" image="/native_images/github-icon-borderless.svg"
-    caption="Get paid to build" ]
-    
+
+[indexcard href="/community" title="Meet MobileCoin" image="/native_images/community-icon-borderless.svg"
+    caption="Live talks every week" ]
 
 </div>
 </div>
