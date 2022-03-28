@@ -11,13 +11,37 @@
 		{
 			"label": "apps",
 			"url": "/ecosystem"
+			"submenu": [
+				{
+					"label": "submenu item",
+					"url": "/overview"
+				},
+				{
+					"label": "submenu item 2",
+					"url": "/guides"
+				}
+			]
 		},{
 			"label": "docs",
 			"url": "/overview"
 		},
 		{
 			"label": "tools",
-			"url": "/guides"
+			"url": "/guides",
+			"submenu": [
+				{
+					"label": "submenu item 3",
+					"url": "/community"
+				},
+				{
+					"label": "submenu item 4",
+					"url": "/guides"
+				},
+				{
+					"label": "submenu item 5",
+					"url": "/guides"
+				}
+			]
 		},{
 			"label": "events",
 			"url": "/community"
@@ -67,7 +91,7 @@
 	"social": [
 	      {
 			"label": "discord",
-			"url": "https://www.mobilecoin.chat/",
+			"url": "https://discord.com/channels/829084123116339210/",
 			"newTab": true
 		},
 		{
