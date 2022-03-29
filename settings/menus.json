@@ -10,7 +10,7 @@
 		
 		{
 			"label": "apps",
-			"url": "/ecosystem"
+			"url": "/ecosystem",
 			"submenu": [
 				{
 					"label": "submenu item",
