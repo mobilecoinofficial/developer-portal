@@ -26,11 +26,11 @@ about_this_file: "This document will have its contents added to the front page b
 [indexcard href="/community" title="Meet the Team" image="/native_images/community-icon-borderless.svg"
     caption="Please join our weekly community call and AMA" ]
     
-[indexcard href="http://discord.com/invite/mobilecoin" title="Join our Community" image="/native_images/faq-icon-borderless.svg" 
-    caption="Talk with the team, get support, and get involved"]
-    
-[indexcard href="/guides" title="Dev Tools" image="/native_images/guides-icon-borderless.svg" 
-    caption="APIs, SDKs, and Plugins, Oh my" ]
+[indexcard href="/guides" title="Add MobileCoin to your App" image="/native_images/guides-icon-borderless.svg" 
+    caption="All the Wallet APIs and SDKs you need" ]
+  
+[indexcard href="/guides/chatbots/forest" title="Build a Bot" image="/native_images/guides-icon-borderless.svg" 
+    caption="Create your own Signal chat bots with our SDK" ]
 
 </div>
 </div>
