@@ -9,32 +9,24 @@
 	    	
 		
 		{
-			"label": "ecosystem",
-			"url": "/ecosystem",
+			"label": "apps",
+			"url": "/#ecosystem",
 			"submenu": [
 				{
 					"label": "Messaging",
-					"url": "/ecosystem"
+					"url": "/ecosystem#messaging"
 				},
 				{
 					"label": "Exchanges",
-					"url": "/ecosystem"
+					"url": "/ecosystem@exchanges"
 				},
 				{
 					"label": "Bots",
-					"url": "/ecosystem"
+					"url": "/ecosystem#bots"
 				},
 				{
 					"label": "Wallets",
-					"url": "/ecosystem"
-				},
-				{
-					"label": "Bounties",
-					"url": "/guides"
-				},
-				{
-					"label": "Grants",
-					"url": "/guides"
+					"url": "/ecosystem#wallets"
 				}
 			]
 		},{
