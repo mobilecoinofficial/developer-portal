@@ -84,7 +84,7 @@
 			]
 		},{
 			"label": "community",
-			"url": "/#community"
+			"url": "/#community",
 			"submenu": [
 				{
 					"label": "events",
