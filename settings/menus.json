@@ -9,31 +9,31 @@
 	    	
 		
 		{
-			"label": "apps",
+			"label": "ecosystem",
 			"url": "/ecosystem",
 			"submenu": [
 				{
-					"label": "messaging",
+					"label": "Messaging",
 					"url": "/ecosystem"
 				},
 				{
-					"label": "exchanges",
+					"label": "Exchanges",
 					"url": "/ecosystem"
 				},
 				{
-					"label": "chat bots",
+					"label": "Bots",
 					"url": "/ecosystem"
 				},
 				{
-					"label": "wallets",
+					"label": "Wallets",
 					"url": "/ecosystem"
 				},
 				{
-					"label": "bounties",
+					"label": "Bounties",
 					"url": "/guides"
 				},
 				{
-					"label": "grants",
+					"label": "Grants",
 					"url": "/guides"
 				}
 			]
@@ -78,7 +78,7 @@
 					"url": "/guides/chatbots/forest"
 				},
 				{
-					"label": "Validators Nodes",
+					"label": "Blockchain Nodes",
 					"url": "/guides/network/daemon_node"
 				},
 				{
@@ -87,7 +87,7 @@
 				}
 			]
 		},{
-			"label": "support",
+			"label": "community",
 			"url": "http://discord.com/invite/mobilecoin",
 			"newTab": true,
 			"submenu": [
