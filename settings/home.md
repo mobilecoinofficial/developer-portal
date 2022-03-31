@@ -26,7 +26,7 @@ about_this_file: "This document will have its contents added to the front page b
 [indexcard href="/community" title="Meet the Team" image="/native_images/community-icon-borderless.svg"
     caption="Please join our weekly community call and AMA" ]
     
-[indexcard href="/community" title="Join our Community" image="/native_images/faq-icon-borderless.svg" 
+[indexcard href="http://discord.com/invite/mobilecoin" title="Join our Community" image="/native_images/faq-icon-borderless.svg" 
     caption="Talk with the team, get support, and get involved"]
     
 [indexcard href="/guides" title="Dev Tools" image="/native_images/guides-icon-borderless.svg" 
