@@ -13,30 +13,6 @@ about_this_file: "This document will have its contents added to the front page b
     </div>
 </div>
     
-<div class="features on-ready fade-in-up delay16">
-    <div class="width">
-        <div class="feature">
-            <img alt="Blue bubbly transaction icon" class="mobile" src="https://mobilecoin.com/images/quick-mobile.svg">
-            <img alt="Blue bubbly transaction icon" class="desktop" src="https://mobilecoin.com/images/quick.svg">
-            <h2>quick<br>transactions</h2>
-            <p>Payments happen instantly, like payments should.</p>
-        </div>
-        <div class="feature">
-            <img alt="Green sustainable plant icon" class="mobile" src="https://mobilecoin.com/images/user-friendly-mobile.svg">
-            <img alt="Green sustainable plant icon" class="desktop" src="https://mobilecoin.com/images/user-friendly.svg">
-            <h2>user friendly<br>planet friendly</h2>
-            <p>Easy to use security at scale, without the massive carbon footprint.</p>
-        </div>
-        <div class="feature">
-            <img alt="Red lock icon" class="mobile" src="https://mobilecoin.com/images/private-mobile.svg">
-            <img alt="Red lock icon" class="desktop" src="https://mobilecoin.com/images/private.svg">
-            <h2><span style="display:block;min-height:2.2em;padding-top:0.5em">encrypted</span></h2>
-            <p>Your individual transactions are kept secure, always.</p>
-        </div>
-    </div>
-    </div>
-    
- 
 <div className="section index-cards">
 <div className="width">
 <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4">
