@@ -22,7 +22,7 @@
 				},
 				{
 					"label": "Exchanges",
-					"url": "/ecosystem@exchanges"
+					"url": "/ecosystem#exchanges"
 				},
 				{
 					"label": "Bots",
@@ -54,7 +54,7 @@
 			]
 		},
 		{
-			"label": "tools",
+			"label": "dev-tools",
 			"url": "/guides",
 			"submenu": [
 				{
