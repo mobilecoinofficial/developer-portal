@@ -9,51 +9,105 @@
 	    	
 		
 		{
-			"label": "apps",
+			"label": "ecosystem",
 			"url": "/ecosystem",
 			"submenu": [
 				{
-					"label": "submenu item",
-					"url": "/overview"
+					"label": "messaging",
+					"url": "/ecosystem"
 				},
 				{
-					"label": "submenu item 2",
+					"label": "exchanges",
+					"url": "/ecosystem"
+				},
+				{
+					"label": "chat bots",
+					"url": "/ecosystem"
+				},
+				{
+					"label": "wallets",
+					"url": "/ecosystem"
+				},
+				{
+					"label": "bounties",
+					"url": "/guides"
+				},
+				{
+					"label": "grants",
 					"url": "/guides"
 				}
 			]
 		},{
-			"label": "docs",
-			"url": "/overview"
+			"label": "about",
+			"url": "/overview",
+			"submenu": [
+				{
+					"label": "Overview of MobileCoin",
+					"url": "/overview",
+					"newTab": true
+				},
+				{
+					"label": "Values & Ethos",
+					"url": "https://mobilecoin.com/values-and-ethos",
+					"newTab": true
+				},
+				{
+					"label": "Read the Blog",
+					"url": "https://mobilecoin.com/news"
+				}
+			]
 		},
 		{
-			"label": "tools",
+			"label": "dev tools",
 			"url": "/guides",
 			"submenu": [
 				{
-					"label": "submenu item 3",
-					"url": "/community"
+					"label": "High Performance API",
+					"url": "/guides/wallets/high-perfomance-wallets"
 				},
 				{
-					"label": "submenu item 4",
-					"url": "/guides"
+					"label": "iOS App SDK",
+					"url": "/guides/wallets/ios-app-sdk"
 				},
 				{
-					"label": "submenu item 5",
-					"url": "/guides"
+					"label": "Android App SDK",
+					"url": "/guides/wallets/android-app-sdk"
+				},
+				{
+					"label": "Signal Chat Bots",
+					"url": "/guides/chatbots/forest"
+				},
+				{
+					"label": "Validators Nodes",
+					"url": "/guides/network/daemon_node"
+				},
+				{
+					"label": "Wordpress Plugin",
+					"url": "/guides/wordpress"
 				}
 			]
 		},{
-			"label": "events",
-			"url": "/community"
+			"label": "community",
+			"url": "/community",
+			"submenu": [
+				{
+					"label": "events",
+					"url": "http://meetmobilecoin.com",
+					"newTab": true
+				},
+				{
+					"label": "discord",
+					"url": "http://discord.com/invite/mobilecoin"
+				},
+				{
+					"label": "twitter",
+					"url": "http://twitter.com/mobilecoin"
+				}
+			]
 		},
 		{
 			"label": "jobs",
 			"url": "https://boards.greenhouse.io/mobilecoin",
-			"newTab": true
-		},
-		{
-			"label": "join",
-			"url": "https://discord.com/invite/mobilecoin",
 			"newTab": true
 		}
 	],
