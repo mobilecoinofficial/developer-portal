@@ -14,7 +14,7 @@ about_this_file: "This document will have its contents added to the front page b
 </div>
     
   
-<h1 id="intro" className="text-center text-xl md:text-1.5xl mb-8">Learn </h1>
+<h1 id="community" className="text-center text-xl md:text-1.5xl mb-8">Learn </h1>
   
 <div className="section index-cards">
 <div className="width">
