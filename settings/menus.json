@@ -9,6 +9,10 @@
 	    	
 		
 		{
+			"label": "intro",
+			"url": "/#intro"
+		},
+		{
 			"label": "apps",
 			"url": "/#ecosystem",
 			"submenu": [
@@ -30,7 +34,7 @@
 				}
 			]
 		},{
-			"label": "about",
+			"label": "docs",
 			"url": "/overview",
 			"submenu": [
 				{
@@ -50,7 +54,7 @@
 			]
 		},
 		{
-			"label": "dev tools",
+			"label": "tools",
 			"url": "/guides",
 			"submenu": [
 				{
@@ -80,8 +84,7 @@
 			]
 		},{
 			"label": "community",
-			"url": "http://discord.com/invite/mobilecoin",
-			"newTab": true,
+			"url": "/#community"
 			"submenu": [
 				{
 					"label": "events",
