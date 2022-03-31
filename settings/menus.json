@@ -9,7 +9,7 @@
 	    	
 		
 		{
-			"label": "ecosystem",
+			"label": "apps",
 			"url": "/ecosystem",
 			"submenu": [
 				{
@@ -87,8 +87,9 @@
 				}
 			]
 		},{
-			"label": "community",
-			"url": "/community",
+			"label": "support",
+			"url": "http://discord.com/invite/mobilecoin",
+			"newTab": true,
 			"submenu": [
 				{
 					"label": "events",
