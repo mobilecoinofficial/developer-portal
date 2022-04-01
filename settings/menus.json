@@ -6,101 +6,26 @@
 		"newTab": "Optional Boolean. Whether this item opens in a new tab or not. Attaches target='_blank' and rel='noopener'"
 	},
 	"main": [
-	    	
-		
+		{
+			"label": "apps",
+			"url": "/#ecosystem"
+		},
 		{
 			"label": "intro",
 			"url": "/#intro"
 		},
 		{
-			"label": "apps",
-			"url": "/#ecosystem",
-			"submenu": [
-				{
-					"label": "Messaging",
-					"url": "/ecosystem#messaging"
-				},
-				{
-					"label": "Exchanges",
-					"url": "/ecosystem#exchanges"
-				},
-				{
-					"label": "Bots",
-					"url": "/ecosystem#bots"
-				},
-				{
-					"label": "Wallets",
-					"url": "/ecosystem#wallets"
-				}
-			]
-		},{
 			"label": "docs",
 			"url": "/overview",
-			"submenu": [
-				{
-					"label": "Overview of MobileCoin",
-					"url": "/overview",
-					"newTab": true
-				},
-				{
-					"label": "Values & Ethos",
-					"url": "https://mobilecoin.com/values-and-ethos",
-					"newTab": true
-				},
-				{
-					"label": "Read the Blog",
-					"url": "https://mobilecoin.com/news"
-				}
-			]
 		},
 		{
 			"label": "dev-tools",
-			"url": "/guides",
-			"submenu": [
-				{
-					"label": "High Performance API",
-					"url": "/guides/wallets/high-perfomance-wallets"
-				},
-				{
-					"label": "iOS App SDK",
-					"url": "/guides/wallets/ios-app-sdk"
-				},
-				{
-					"label": "Android App SDK",
-					"url": "/guides/wallets/android-app-sdk"
-				},
-				{
-					"label": "Signal Chat Bots",
-					"url": "/guides/chatbots/forest"
-				},
-				{
-					"label": "Blockchain Nodes",
-					"url": "/guides/network/daemon_node"
-				},
-				{
-					"label": "Wordpress Plugin",
-					"url": "/guides/wordpress"
-				}
-			]
-		},{
-			"label": "support",
+			"url": "/guides"
+		},
+		{
+			"label": "discord",
 			"url": "http://discord.com/invite/mobilecoin",
-			"newTab": true,
-			"submenu": [
-				{
-					"label": "events",
-					"url": "http://meetmobilecoin.com",
-					"newTab": true
-				},
-				{
-					"label": "discord",
-					"url": "http://discord.com/invite/mobilecoin"
-				},
-				{
-					"label": "twitter",
-					"url": "http://twitter.com/mobilecoin"
-				}
-			]
+			"newTab": true
 		},
 		{
 			"label": "jobs",
