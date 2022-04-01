@@ -83,8 +83,8 @@
 				}
 			]
 		},{
-			"label": "community",
-			"url": "/#community",
+			"label": "discord",
+			"url": "http://discord.com/invite/mobilecoin",
 			"submenu": [
 				{
 					"label": "events",
