@@ -14,19 +14,19 @@ about_this_file: "This document will have its contents added to the front page b
 </div>
     
   
-<h1 id="community" className="text-center text-xl md:text-1.5xl mb-8">Learn </h1>
+<h1 id="community" className="text-center text-xl md:text-1.5xl mb-8">Ask us Anything</h1>
   
 <div className="section index-cards">
 <div className="width">
 <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4">
 
-[indexcard href="/overview" title="Explain like I`m 5" image="/native_images/overview-icon-borderless.svg" 
-    caption="MobileCoin explained for everyone at every age" ]
+[indexcard href="/overview" title="Frequently Asked Questions" image="/native_images/overview-icon-borderless.svg" 
+    caption="MobileCoin's blockchain technology explained at every level"]
     
 [indexcard href="/community" title="Meet the Team" image="/native_images/community-icon-borderless.svg"
-    caption="Please join our weekly community call and AMA" ]
+    caption="You are invited to our weekly community calls." ]
     
-[indexcard href="/guides" title="Add MobileCoin to your App" image="/native_images/guides-icon-borderless.svg" 
+[indexcard href="/guides" title="Dev Tools" image="/native_images/guides-icon-borderless.svg" 
     caption="All the Wallet APIs and SDKs you need" ]
   
 [indexcard href="/guides/chatbots/forest" title="Build a Bot" image="/native_images/guides-icon-borderless.svg" 
