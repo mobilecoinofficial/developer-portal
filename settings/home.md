@@ -3,7 +3,6 @@ about_this_file: "This document will have its contents added to the front page b
 ---
 
   
-<h1 id="intro" className="text-center text-xl md:text-1.5xl mb-8">Intro to MobileCoin</h1>
 
 <div className="section video-embed relative w-4/5 max-w-[800px] m-auto">
     <div className="pb-[56.25%] relative overflow-hidden rounded-lg">
