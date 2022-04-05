@@ -1,5 +1,5 @@
 ---
-title: "What is Bulletproofs?"
+title: "What are Bulletproofs?"
 description: "The fastest Bulletproofs implementation ever, featuring single and aggregated range proofs, strongly-typed multiparty computation, and a programmable constraint system API for proving arbitrary statements (under development)."
 use_file: "mobilecoinfoundation/bulletproofs/README.md"
 ---
