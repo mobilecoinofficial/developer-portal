@@ -23,10 +23,6 @@
 			"url": "/guides"
 		},
 		{
-			"label": "grants",
-			"url": "/grants"
-		},
-		{
 			"label": "discord",
 			"url": "http://discord.com/invite/mobilecoin",
 			"newTab": true
