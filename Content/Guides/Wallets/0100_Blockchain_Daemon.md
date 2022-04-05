@@ -1,5 +1,5 @@
 ---
-title: "Daemon Node"
+title: "Blockchain Daemon"
 ---
 
 The MobileCoin Daemon, or `mobilecoind`, is a standalone executable which provides blockchain synchronization and wallet services.
