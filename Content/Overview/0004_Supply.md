@@ -9,7 +9,7 @@ available here: [current circulating supply](https://mobilecoin.foundation/wp-js
 
 The entire supply of MobileCoins was created in the very first block on the blockchain. MobileCoin uses 'Federated Byzantine Agreement' modeled on the the [Stellar Consensus Protocol](https://www.stellar.org/papers/stellar-consensus-protocol?locale=en). This sets MobileCoin apart from Bitcoin and other cryptocurrencies that use 'Proof-of-Work' a process that allows the bitcoin network to construct the ledger by making the process of recording transactions difficult, also known as 'bitcoin mining.' Minig requires a large amount of computing power and miners earn 'block rewards.' This encourages miners to invest in adding greater and greater computing resources to add more miners to the network. The more computers they put ont he network, the more bitcoin they can receive. MobileCoin does not incentivize this type of behavior with block rewards.
 
-MobileCoin is a private cryptocurrency where amounts are hidden behind cryptographic constructions; therefore, it is not possible for observers to passively verify that the origin block contains 250 million MOB. Below you will find instructions on how to access and inspect the origin account.
+MobileCoin is an encrypted cryptocurrency where amounts are hidden behind cryptographic constructions; therefore, it is not possible for observers to passively verify that the origin block contains 250 million MOB. Below you will find instructions on how to access and inspect the origin account.
 
 
 ### Verifying the Supply
