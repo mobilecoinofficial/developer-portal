@@ -1,5 +1,5 @@
 ---
-title: "Validator Node"
+title: "Validators"
 ---
 The MobileCoin Consensus Validator is a vital part of a scalable service infrastructure that enables a smartphone to
 manage an encrypted cryptocurrency with locally-stored cryptographic keys. A Consensus Validator node, which
