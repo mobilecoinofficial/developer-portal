@@ -1,5 +1,5 @@
 ---
-title: How is MobileCoin governed?
+title: Who developed MobileCoin?
 ---
 MobileCoin Governance
 =======================================
