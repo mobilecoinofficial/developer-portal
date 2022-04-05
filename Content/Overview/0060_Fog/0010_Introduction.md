@@ -1,5 +1,5 @@
 ---
-title: MobileCoin Fog
+title: How does Fog work?
 use_file: "mobilecoinfoundation/mobilecoin/fog/README.md"
 ---
 MobileCoin Fog is a privacy-preserving service designed to support use of the MobileCoin Payments Network on mobile 
