@@ -7,20 +7,24 @@
 	},
 	"main": [
 		{
-			"label": "intro",
-			"url": "/#intro"
-		},
-		{
 			"label": "apps",
 			"url": "/#ecosystem"
+		},
+		{
+			"label": "intro",
+			"url": "/#intro"
 		},
 		{
 			"label": "docs",
 			"url": "/overview"
 		},
 		{
-			"label": "api & sdk",
+			"label": "api",
 			"url": "/guides"
+		},
+		{
+			"label": "grants",
+			"url": "/grants"
 		},
 		{
 			"label": "discord",
