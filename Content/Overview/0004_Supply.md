@@ -1,5 +1,5 @@
 ---
-title: What is the circulating supply?
+title: Circulating Supply
 ---
 
 ### Supply
