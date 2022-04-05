@@ -1,5 +1,5 @@
 ---
-title: What is Remote Attestation?
+title: Remote Attestation
 use_file: "mobilecoinfoundation/mobilecoin/sgx/README.md"
 ---
 Consensus Validator Nodes include an SGX enclave which validates transactions and produces each next block in the 
