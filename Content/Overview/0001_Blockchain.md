@@ -1,5 +1,5 @@
 ---
-title: What is Blockchain?
+title:  MobileCoin Blockchain
 hide_title: true
 ---
 
