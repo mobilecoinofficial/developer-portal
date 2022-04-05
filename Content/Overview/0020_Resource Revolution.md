@@ -1,5 +1,5 @@
 ---
-title: What is MobileCoin's energy usage?
+title: Energy Usage
 ---
 
 <img src="https://mobilecoinwp.wpengine.com/wp-content/uploads/2021/08/smoke-header.png" width="400">
