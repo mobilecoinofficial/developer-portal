@@ -12,7 +12,7 @@ MobileCoin has a significantly smaller impact on our planet and uses far less en
 
 Alexander Rose, Executive Director of [The Long Now](http://longnow.org/), reflects on sustainability:
 
-> "The inherent problem with previous cryptographic systems that require computers to burn energy doing math means that greed will always be at odds with energy usage, and therefore at odds with earth's climate. We want to make sure there are ways of doing secure and private financial transactions without this level of Proof of Work."
+> "The inherent problem with previous cryptographic systems that require computers to burn energy doing math means that greed will always be at odds with energy usage, and therefore at odds with earth's climate. We want to make sure there are ways of doing secure and encrypted financial transactions without this level of Proof of Work."
 
 With MobileCoin's blockchain design, we've pioneered a far more sustainable route to building the future of digital payments.
 
