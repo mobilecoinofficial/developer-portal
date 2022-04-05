@@ -1,33 +1,6 @@
 ---
-title: Governance and Supply
+title: What is the circulating Supply?
 ---
-
-MobileCoin Governance, Fees, and Supply
-=======================================
-
-![](https://mobilecoinwp.wpengine.com/wp-content/uploads/2021/06/padlocks.jpeg)
-
-What is the MobileCoin Foundation? Where do transaction fees go? Is the total supply of MobileCoins really 250 million MOB? Read on to learn more.
-
-### Governance
-
-MobileCoin is a privacy-focused cryptocurrency [launched](https://mobilecoinfoundation.medium.com/mobilecoin-main-net-8e355d82c726) on December 7th, 2020. Its initial [code base](https://github.com/mobilecoinfoundation/mobilecoin) was developed by MobileCoin Inc. and published via the [MobileCoin Foundation](https://mobilecoin.foundation/) with an open-source license (GPLv3).
-
-The MobileCoin Foundation maintains the reference implementation of MobileCoin's (the cryptocurrency's) protocol, along with the 'service-layer' technology known as [Fog](https://github.com/mobilecoinfoundation/fog) that facilitates efficient use of MobileCoin in resource-constrained environments like mobile devices, without loss of privacy.
-
-Changes to those reference implementations proposed by MobileCoin Inc. (for example) must be approved by the MobileCoin Foundation's [Technical Committee](https://github.com/mobilecoinfoundation/technical-committee/blob/master/CHARTER.md).
-
-
-### Fees
-
-Each transaction submitted to the MobileCoin network must pay a fee to the MobileCoin Foundation. The purpose of this fee is to prevent unlimited submission of transactions, which otherwise could be easily abused to degrade users' experience. At the time of writing this, the [minimum fee per transaction](https://github.com/mobilecoinfoundation/mobilecoin/blob/acd72e66832c1aa18dc630bcab610c11978af0dd/transaction/core/src/constants.rs) is 0.01 MOB, and is always distributed to the following [address](https://github.com/mobilecoinfoundation/mobilecoin/blob/master/consensus/enclave/impl/build.rs) (written in hexadecimal format):
-
-`public view key:\
-5222a1e9ae32d21c23114a5ce6bb39e0cb56aea350d4619d43b1207061b10346\
-public spend key:\
-26b507c63124a2f5e940b4fb89e4b2bb0a2078ed0c8e551ad59268b9646ec241`
-
-There is currently a [plan](https://github.com/mobilecoinfoundation/mobilecoin/pull/809) for the minimum fee to be [configurable](https://github.com/mobilecoinfoundation/rfcs/pull/1) in the next version of MobileCoin's protocol. Changing the fee configuration would require a coordinated restart of all validator nodes in the network.
 
 ### Supply
 
