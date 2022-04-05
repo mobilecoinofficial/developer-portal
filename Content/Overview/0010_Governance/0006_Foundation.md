@@ -4,7 +4,6 @@ title: Who developed MobileCoin?
 MobileCoin Governance
 =======================================
 
-![](https://mobilecoinwp.wpengine.com/wp-content/uploads/2021/06/padlocks.jpeg)
 
 MobileCoin is a privacy-focused cryptocurrency [launched](https://mobilecoinfoundation.medium.com/mobilecoin-main-net-8e355d82c726) on December 7th, 2020. Its initial [code base](https://github.com/mobilecoinfoundation/mobilecoin) was developed by MobileCoin Inc. and published via the [MobileCoin Foundation](https://mobilecoin.foundation/) with an open-source license (GPLv3).
 
