@@ -1,8 +1,6 @@
 ---
-title: Oblivious RAM
+title: What is Oblivious RAM?
 ---
-
-### What is Oblivious RAM?
 
 Oblivious RAM is a class of data structures designed to avoid information leaks over memory access pattern side-channels, introduced in [Goldreich '96].
 
