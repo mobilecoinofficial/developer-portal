@@ -1,5 +1,5 @@
 ---
-title: "What is the Fog Threat Model?"
+title: "What is the Threat Model?"
 description: "MobileCoin Fog is a suite of services that enable use of MobileCoin payments in resource-constrained environments, particularly, mobile devices."
 use_file: "mobilecoinfoundation/mobilecoin/fog-threat-model-2.1.0.md"
 ---
