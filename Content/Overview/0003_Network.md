@@ -11,7 +11,7 @@ The MobileCoin open-source software ecosystem introduces several innovations to 
 
 <h3 style="color: #6aacd3">MobileCoin Ledger</h3>
 
-a new privacy-preserving blockchain built on a technology foundation that includes CryptoNote and Ring Confidential Transactions (RingCT)
+a new encrypted blockchain built on a technology foundation that includes CryptoNote and Ring Confidential Transactions (RingCT)
 
 <h3 style="color: #a7a7a8">MobileCoin Consensus Protocol</h3>
 
@@ -19,11 +19,11 @@ a high-performance solution to the Byzantine Agreement Problem that allows new p
 
 <h3 style="color: #85ccba">Secure Enclaves</h3>
 
-trusted execution environments using Intel's Software Guard eXtensions (SGX) to provide defense-in-depth improvements to privacy and trust 
+trusted execution environments using Intel's Software Guard eXtensions (SGX) to provide defense-in-depth improvements to encryption and trust 
 
 <h3 style="color: #95b4cf">MobileCoin Fog</h3>
 
-a scalable service infrastructure that enables a smartphone to manage a privacy-preserving cryptocurrency with locally-stored cryptographic keys
+a scalable service infrastructure that enables a smartphone to manage an encrypted cryptocurrency with locally-stored cryptographic keys
 
 </div>
 
@@ -31,7 +31,7 @@ a scalable service infrastructure that enables a smartphone to manage a privacy-
 
 <h2 style="color: #6aacd3">MobileCoin Ledger</h2>
 
-In order for any payments network to function, it must be able to maintain a history of transactions. MobileCoin Ledger describes how the MobileCoin Network stores payment records in a public ledger. The ledger is implemented as a blockchain, in which each block contains transactions that include *transaction outputs (txos)* that might be spent in the future by their owners. Each transaction also includes a proof that all value spent in the transaction has never been spent before. The underlying design is based on the privacy-preserving CryptoNote ledger protocol, which obscures the identity of all txo owners using one-time recipient addresses. The link between sender and recipient is protected through the use of input rings that guard the actually-spent txo in a large set of possibly-spent txos.
+In order for any payments network to function, it must be able to maintain a history of transactions. MobileCoin Ledger describes how the MobileCoin Network stores payment records in a public ledger. The ledger is implemented as a blockchain, in which each block contains transactions that include *transaction outputs (txos)* that might be spent in the future by their owners. Each transaction also includes a proof that all value spent in the transaction has never been spent before. The underlying design is based on the encrypted CryptoNote ledger protocol, which obscures the identity of all txo owners using one-time recipient addresses. The link between sender and recipient is protected through the use of input rings that guard the actually-spent txo in a large set of possibly-spent txos.
 
 The monetary value of each txo is encrypted using the method of Ring Confidential Transactions (RingCT). RingCT is implemented using bulletproofs for improved performance. Only the receiver of the transaction can reveal the encrypted monetary value and spend the new txos that are written to the ledger. The recipient's cryptographic control over spending ensures that all transactions in MobileCoin are irreversible, similar to cash transactions in the real world.
 
@@ -64,20 +64,20 @@ Remote attestation and end-to-end encryption similarly protect the communication
 Two major technical challenges impede privacy-preserving cryptocurrencies from running on smartphones:
 
 1.  <h3 style="color: #a7a7a8">Identifying received payments</h3>
-    <p>In order to check if they own any new transaction that appears in the ledger, a user must mathematically test each txo using their private cryptographic keys. It is undesirable from a security standpoint to provision private keys to a remote server to monitor for received transactions, but it is impractical to perform the calculation for every new transaction on a smartphone because of the significant bandwidth and computation required.</p>
+    <p>In order to check if they own any new transaction that appears in the ledger, a user must mathematically test each txo using their private keys. It is undesirable from a security standpoint to provision private keys to a remote server to monitor for received transactions, but it is impractical to perform the calculation for every new transaction on a smartphone because of the significant bandwidth and computation required.</p>
 
 2.  <h3 style="color: #a7a7a8">Constructing new payments</h3>
-    <p>Users need access to the complete ledger in order to construct transaction input rings. It is undesirable from a privacy standpoint for smartphone users to selectively download parts of the ledger from a remote server as needed, since this can potentially leak information about transaction ownership or the links between senders and recipients. The complete ledger may be many terabytes in size, which makes it impractical to download and store on a smartphone.</p>
+    <p>Users need access to the complete ledger in order to construct transaction input rings. It is undesirable for smartphone users to selectively download parts of the ledger from a remote server as needed, since this can potentially leak information about transaction ownership or the links between senders and recipients. The complete ledger may be many terabytes in size, which makes it impractical to download and store on a smartphone.</p>
 
-MobileCoin Cloud is a scalable service infrastructure developed by MobileCoin to enable privacy-preserving cryptocurrencies to be safely managed from a smartphone. MobileCoin Cloud solves both of these identified challenges to smartphone deployment.
+MobileCoin Cloud is a scalable service infrastructure developed by MobileCoin to enable cryptocurrencies to be safely managed from a smartphone. MobileCoin Cloud solves both of these identified challenges to smartphone deployment.
 
 ![](/images/ecosystem_diagram_2.png)
 
 ## Identifying Received Payments
 
-MobileCoin has developed an efficient system to help smartphone users locate their received transactions without having to test every transaction using their private cryptographic keys. Each transaction output in the MobileCoin Ledger contains a discovery *hint* field. This field stores the recipient's public address, encrypted using a public key provided by MobileCoin Cloud. The matching private cryptographic key is stored exclusively inside a secure enclave. Each new transaction in the public ledger is processed within the secure enclave, and recognized transactions are organized for users who have registered their public address.
+MobileCoin has developed an efficient system to help smartphone users locate their received transactions without having to test every transaction using their private keys. Each transaction output in the MobileCoin Ledger contains a discovery *hint* field. This field stores the recipient's public address, encrypted using a public key provided by MobileCoin Cloud. The matching private key is stored exclusively inside a secure enclave. Each new transaction in the public ledger is processed within the secure enclave, and recognized transactions are organized for users who have registered their public address.
 
-Additional data transformations are necessary to safely store persistent data across a scalable service infrastructure and significant care is applied to avoid leaking information through data-access side channels. The user's private cryptographic keys remain on their smartphone at all times. This stands in contrast to existing *trusted query services* prevalent in other privacy-preserving cryptocurrencies. When users provision a remote server with private keys, they entrust their privacy to the remote service's operators.
+Additional data transformations are necessary to safely store persistent data across a scalable service infrastructure and significant care is applied to avoid leaking information through data-access side channels. The user's private keys remain on their smartphone at all times. This stands in contrast to existing *trusted query services* prevalent in other cryptocurrencies. When users provision a remote server with private keys, they are trusting that remote service's operators not to expose or share the private keys.
 
 ## Constructing New Payments
 
