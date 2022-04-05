@@ -1,5 +1,5 @@
 ---
-title: Byzantine Agreement
+title: What is the MobileCoin Consensus Protocol?
 ---
 MobileCoin users must agree on the content of the blockchain for it to be useful as a record of accounts. Bad actors
 will have a financial motive to misrepresent the ledger to enable fraud and counterfeiting. In distributed computing,
