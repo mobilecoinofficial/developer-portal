@@ -1,10 +1,9 @@
 ---
-title: Blockchain & Fog
+title: What is Blockchain?
 ---
 
 ![](https://raw.githubusercontent.com/mobilecoinofficial/developer-portal/main/images/Blockchain.png)
 
-# Explain Like I'm 5:
 ## What is MobileCoin's Blockchain?
 [What is MobileCoin's Blockchain?]: #what-is-blockchain
 
