@@ -1,5 +1,5 @@
 ---
-title: "What is the MobileCoin Network?"
+title: "MobileCoin Architecture"
 description: "The MobileCoin open-source software ecosystem introduces several innovations to the cryptocurrency community, including its Ledger, Consensus Protocol, Secure Enclaves, and Fog."
 hide_title: true
 ---
