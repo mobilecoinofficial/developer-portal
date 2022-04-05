@@ -2,9 +2,9 @@
 title: "Validator Node"
 ---
 The MobileCoin Consensus Validator is a vital part of a scalable service infrastructure that enables a smartphone to
-manage a privacy-preserving cryptocurrency with locally-stored cryptographic keys. A Consensus Validator node, which
+manage an encrypted cryptocurrency with locally-stored cryptographic keys. A Consensus Validator node, which
 runs Intel’s Software Guard eXtensions (SGX), is one type of node that runs in the MobileCoin ecosystem. The validator
-node provides defense-in-depth improvements to privacy and trust.
+node provides defense-in-depth improvements to encryption and trust.
 
 ## Running Your Own Consensus Validator Node
 
