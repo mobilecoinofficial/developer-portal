@@ -5,7 +5,6 @@ hide_title: true
 
 ![](https://raw.githubusercontent.com/mobilecoinofficial/developer-portal/main/images/Blockchain.png)
 
-## What is MobileCoin's Blockchain?
 [What is MobileCoin's Blockchain?]: #what-is-blockchain
 
 Blockchain is a new technology that is decentralizing trade and allowing peer-to-peer transactions to occur, removing the intermediaries. How does MobileCoin use this innovation to allow two people to send digital cash using their smartphones?
