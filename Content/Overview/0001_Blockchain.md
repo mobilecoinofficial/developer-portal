@@ -1,5 +1,6 @@
 ---
 title: What is Blockchain?
+hide_title: true
 ---
 
 ![](https://raw.githubusercontent.com/mobilecoinofficial/developer-portal/main/images/Blockchain.png)
