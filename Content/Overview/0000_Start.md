@@ -1,5 +1,5 @@
 ---
-title: What is MobileCoin?
+title: Digital Cash
 ---
 ## Fast, Private, Mobile Transactions
 
