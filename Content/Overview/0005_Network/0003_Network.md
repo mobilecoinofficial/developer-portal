@@ -37,7 +37,7 @@ The monetary value of each txo is encrypted using the method of Ring Confidentia
 
 Each txo in the input ring of a transaction is annotated with a Merkle proof of inclusion in the MobileCoin Ledger blockchain. This allows new transactions to be validated with fewer blockchain read operations, improving efficiency and reducing information leaked to data-access side channels.
 
-Additionally, MobileCoin Ledger dramatically improves on the baseline privacy offered by CryptoNote and RingCT by requiring that the input rings for every transaction are deleted before the new payment is added to the public ledger. Digital signatures are added to the ledger in place of the full transaction records to provide a basis for auditing.  
+Additionally, the MobileCoin Ledger dramatically improves on the baseline security offered by CryptoNote and RingCT by requiring that the input rings for every transaction are deleted before the new payment is added to the public ledger. Digital signatures are added to the ledger in place of the full transaction records to provide a basis for auditing.  
 
 <h2 style="color: #a7a7a8">MobileCoin Consensus Protocol</h2>
 
@@ -57,28 +57,24 @@ The MobileCoin Network implements secure enclaves using Intel's Software Guard e
 
 Remote attestation and end-to-end encryption similarly protect the communication channels between secure enclaves running on different remote servers. When the SGX remote attestation system is functioning as Intel designed, it is not possible for any operator in the MobileCoin Network to observe the full content of transactions. Complete data is only shared between secure enclaves that safely delete the information that could otherwise be used to statistically associate payment senders to payment recipients. 
 
-<h2>
-<img alt="MobileCoin Fog" src="/images/fog.png" style="height:1em;" class="left"/>
-</h2>
+<h2>MobileCoin Fog</h2>
 
-Two major technical challenges impede privacy-preserving cryptocurrencies from running on smartphones:
-
-1.  <h3 style="color: #a7a7a8">Identifying received payments</h3>
-    <p>In order to check if they own any new transaction that appears in the ledger, a user must mathematically test each txo using their private keys. It is undesirable from a security standpoint to provision private keys to a remote server to monitor for received transactions, but it is impractical to perform the calculation for every new transaction on a smartphone because of the significant bandwidth and computation required.</p>
-
-2.  <h3 style="color: #a7a7a8">Constructing new payments</h3>
-    <p>Users need access to the complete ledger in order to construct transaction input rings. It is undesirable for smartphone users to selectively download parts of the ledger from a remote server as needed, since this can potentially leak information about transaction ownership or the links between senders and recipients. The complete ledger may be many terabytes in size, which makes it impractical to download and store on a smartphone.</p>
-
-MobileCoin Cloud is a scalable service infrastructure developed by MobileCoin to enable cryptocurrencies to be safely managed from a smartphone. MobileCoin Cloud solves both of these identified challenges to smartphone deployment.
+MobileCoin Fog is a scalable service infrastructure developed by MobileCoin to enable cryptocurrencies to be safely managed from a smartphone. Fog solves two major technical challenges of encrypted cryptocurrencies on mobile devices:
+1. Identifying received payments 
+2. Constructing new payments 
 
 ![](/images/ecosystem_diagram_2.png)
 
 ## Identifying Received Payments
 
-MobileCoin has developed an efficient system to help smartphone users locate their received transactions without having to test every transaction using their private keys. Each transaction output in the MobileCoin Ledger contains a discovery *hint* field. This field stores the recipient's public address, encrypted using a public key provided by MobileCoin Cloud. The matching private key is stored exclusively inside a secure enclave. Each new transaction in the public ledger is processed within the secure enclave, and recognized transactions are organized for users who have registered their public address.
+In order to check if they own any new transaction that appears in the ledger, a user must mathematically test each txo using their private keys. It is undesirable from a security standpoint to provision private keys to a remote server to monitor for received transactions, but it is impractical to perform the calculation for every new transaction on a smartphone because of the significant bandwidth and computation required
+
+MobileCoin has developed an efficient system to help smartphone users locate their received transactions without having to test every transaction using their private keys. Each transaction output in the MobileCoin Ledger contains a discovery *hint* field. This field stores the recipient's public address, encrypted using a public key provided by MobileCoin Fog. The matching private key is stored exclusively inside a secure enclave. Each new transaction in the public ledger is processed within the secure enclave, and recognized transactions are organized for users who have registered their public address.
 
 Additional data transformations are necessary to safely store persistent data across a scalable service infrastructure and significant care is applied to avoid leaking information through data-access side channels. The user's private keys remain on their smartphone at all times. This stands in contrast to existing *trusted query services* prevalent in other cryptocurrencies. When users provision a remote server with private keys, they are trusting that remote service's operators not to expose or share the private keys.
 
 ## Constructing New Payments
 
-MobileCoin Cloud allows smartphone users to selectively download ledger data using oblivious data access, meaning that the user can safely retrieve transactions or blocks from the ledger to build new payments without needing to store a complete copy of the blockchain. MobileCoin Cloud uses secure enclaves to implement oblivious data access with improved trust and efficiency.
+Users need access to the complete ledger in order to construct transaction input rings. It is undesirable for smartphone users to selectively download parts of the ledger from a remote server as needed, since this can potentially leak information about transaction ownership or the links between senders and recipients. The complete ledger may be many terabytes in size, which makes it impractical to download and store on a smartphone.
+
+MobileCoin Fog allows smartphone users to selectively download ledger data using oblivious data access, meaning that the user can safely retrieve transactions or blocks from the ledger to build new payments without needing to store a complete copy of the blockchain. MobileCoin Cloud uses secure enclaves to implement oblivious data access with improved trust and efficiency.
