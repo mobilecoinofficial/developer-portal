@@ -1,8 +1,7 @@
 ---
 title: Remote Attestation
-use_file: "mobilecoinfoundation/mobilecoin/sgx/README.md"
 ---
-Consensus Validator Nodes include an SGX enclave which validates transactions and produces each next block in the 
+Consensus Validator Nodes use a Intel SGX secure enclave to validate transactions and produce each next block in the 
 ledger. When each Consensus Validator Node starts up, it initiates an attested connection with its peers. If they 
 are not running the exact same enclave code, the Enclave Measurements will not match, and the connection will be
 refused. Similarly, when clients submit a transaction to the network, they ask for the Attestation Evidence from the 
