@@ -23,8 +23,8 @@
 			"url": "/guides"
 		},
 		{
-			"label": "discord",
-			"url": "http://discord.com/invite/mobilecoin",
+			"label": "community",
+			"url": "/community",
 			"newTab": true
 		},
 		{
