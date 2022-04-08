@@ -1,7 +1,7 @@
 ---
 title: Full Service API 
 ---
-The Full Service API is a platform which you can use to build wallet services. It provides ledger syncing and validation, account management, and funds transfer and receiving. It uses a JSONRPC API, so you can connect to it from command line tools or build services around its functionality. It serves the use cases of single user (and is the backing to the MobileCoin Desktop Wallet), while also serving high performance, multi-account, multi-subaddress needs (such as backing merchant services platforms). Please see the full API documentation at: [Full Service API](https://mobilecoin.gitbook.io/full-service-api/)
+The Full Service API is a JSONRPC API that works with command line tools and wallet services. It provides ledger syncing and validation, account management, and funds transfer and receiving. It serves the use cases of single user (and is the backing to the MobileCoin Desktop Wallet), while also serving high performance, multi-account, multi-subaddress needs (such as backing merchant services platforms). Please see the full API documentation at: [Full Service API](https://mobilecoin.gitbook.io/full-service-api/)
 
 [![Docs](https://img.shields.io/badge/docs-latest-blue?style=for-the-badge)](https://mobilecoin.gitbook.io/full-service-api/) 
 [![Chat](https://img.shields.io/discord/844353360348971068?style=for-the-badge)](http://mobilecoin.chat/) 
