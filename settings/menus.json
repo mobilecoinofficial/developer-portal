@@ -20,11 +20,60 @@
 		},
 		{
 			"label": "api",
-			"url": "/guides"
+			"url": "/guides",
+			"submenu": [
+			{
+				"label": "Full Service API",
+				"url": "https://meetmobilecoin.com",
+				"newTab": true
+			},
+			{
+				"label": "Python CLI",
+				"url": "https://twitter.com/mobilecoin",
+				"newTab": true
+			},
+			{
+				"label": "iOS Wallet SDK",
+				"url": "https://discord.com/invite/mobilecoin",
+				"newTab": true
+			},
+			{
+				"label": "Android Wallet SDK",
+				"url": "https://twitter.com/mobilecoin",
+				"newTab": true
+			},
+			{
+				"label": "Desktop Wallet",
+				"url": "https://twitter.com/mobilecoin",
+				"newTab": true
+			},
+			{
+				"label": "Wordpress Plugin",
+				"url": "https://twitter.com/mobilecoin",
+				"newTab": true
+			}
+  			 ]
 		},
 		{
 			"label": "community",
-			"url": "/community"
+			"url": "/community",
+			"submenu": [
+			{
+				"label": "meet mobilecoin",
+				"url": "https://meetmobilecoin.com",
+				"newTab": true
+			},
+			{
+				"label": "discord",
+				"url": "https://discord.com/invite/mobilecoin",
+				"newTab": true
+			},
+			{
+				"label": "twitter",
+				"url": "https://twitter.com/mobilecoin",
+				"newTab": true
+			}
+  			 ]
 		},
 		{
 			"label": "jobs",
