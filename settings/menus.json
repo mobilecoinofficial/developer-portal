@@ -27,23 +27,28 @@
 				"url": "/overview/network/network"
 			},
 			{
+				"label": "Consensus Protocol",
+				"url": "/overview/protocol/byzantine-agreement"
+			},
+			{
+				"label": "Governance",
+				"url": "/overview/governance/developer"
+			},
+			{
 				"label": "Energy Usage",
 				"url": "/overview/network/energy"
 			},
 			{
-				"label": "2022 Roadmap",
-				"url": "https://mobilecoin.canny.io/",
-				"newTab": true
+				"label": "Roadmap",
+				"url": "/overview/roadmap"
 			},
 			{
 				"label": "Mechanics of MobileCoin",
-				"url": "https://raw.githubusercontent.com/UkoeHB/Mechanics-of-MobileCoin/master/Mechanics-of-MobileCoin-v0-0-39-preview-10-11.pdf",
-				"newTab": true
+				"url": "/overview/mechanics-of-mobilecoin"
 			},
 			{
 				"label": "2018 Whitepaper",
-				"url": "https://mobilecoin.foundation/pdf/MobileCoin_White_Paper.pdf",
-				"newTab": true
+				"url": "/overview/whitepaper"
 			}
   			 ]
 		},
@@ -68,12 +73,12 @@
 				"url": "/guides/wallets/ios-app-sdk"
 			},
 			{
-				"label": "Signal Bots",
+				"label": "Signal Bot SDK",
 				"url": "/guides/chatbots/forest"
 			},
 			{
 				"label": "Wordpress Plugin",
-				"url": "https://twitter.com/mobilecoin"
+				"url": "/guides/wordpress"
 			}
   			 ]
 		},
