@@ -16,7 +16,36 @@
 		},
 		{
 			"label": "docs",
-			"url": "/overview"
+			"url": "/overview",
+			"submenu": [
+			{
+				"label": "Explain Like I'm Five",
+				"url": "/overview"
+			},
+			{
+				"label": "Network Overview",
+				"url": "/overview/network/network"
+			},
+			{
+				"label": "Energy Usage",
+				"url": "/overview/network/energy"
+			},
+			{
+				"label": "2022 Roadmap",
+				"url": "https://mobilecoin.canny.io/",
+				"newTab": true
+			},
+			{
+				"label": "Mechanics of MobileCoin",
+				"url": "https://raw.githubusercontent.com/UkoeHB/Mechanics-of-MobileCoin/master/Mechanics-of-MobileCoin-v0-0-39-preview-10-11.pdf",
+				"newTab": true
+			},
+			{
+				"label": "2018 Whitepaper",
+				"url": "https://mobilecoin.foundation/pdf/MobileCoin_White_Paper.pdf",
+				"newTab": true
+			}
+  			 ]
 		},
 		{
 			"label": "api",
@@ -24,33 +53,27 @@
 			"submenu": [
 			{
 				"label": "Full Service API",
-				"url": "https://meetmobilecoin.com",
-				"newTab": true
+				"url": "/guides/full-service-api"
 			},
 			{
 				"label": "Python CLI",
-				"url": "https://twitter.com/mobilecoin",
-				"newTab": true
+				"url": "/guides/python_cli"
 			},
 			{
 				"label": "iOS Wallet SDK",
-				"url": "https://discord.com/invite/mobilecoin",
-				"newTab": true
+				"url": "/guides/wallets/ios-app-sdk"
 			},
 			{
 				"label": "Android Wallet SDK",
-				"url": "https://twitter.com/mobilecoin",
-				"newTab": true
+				"url": "/guides/wallets/ios-app-sdk"
 			},
 			{
-				"label": "Desktop Wallet",
-				"url": "https://twitter.com/mobilecoin",
-				"newTab": true
+				"label": "Signal Bots",
+				"url": "/guides/chatbots/forest"
 			},
 			{
 				"label": "Wordpress Plugin",
-				"url": "https://twitter.com/mobilecoin",
-				"newTab": true
+				"url": "https://twitter.com/mobilecoin"
 			}
   			 ]
 		},
@@ -59,9 +82,8 @@
 			"url": "/community",
 			"submenu": [
 			{
-				"label": "meet mobilecoin",
-				"url": "https://meetmobilecoin.com",
-				"newTab": true
+				"label": "events",
+				"url": "/community"
 			},
 			{
 				"label": "discord",
