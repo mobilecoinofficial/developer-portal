@@ -19,35 +19,35 @@
 			"url": "/overview",
 			"submenu": [
 			{
-				"label": "Explain Like I'm Five",
+				"label": "explain like i'm five",
 				"url": "/overview"
 			},
 			{
-				"label": "Network Overview",
-				"url": "/overview/network/network"
-			},
-			{
-				"label": "Consensus Protocol",
-				"url": "/overview/protocol/byzantine-agreement"
-			},
-			{
-				"label": "Governance",
-				"url": "/overview/governance/developer"
-			},
-			{
-				"label": "Energy Usage",
-				"url": "/overview/network/energy"
-			},
-			{
-				"label": "Roadmap",
+				"label": "roadmap",
 				"url": "/overview/roadmap"
 			},
 			{
-				"label": "Mechanics Whitepaper",
+				"label": "network",
+				"url": "/overview/network/network"
+			},
+			{
+				"label": "consensus",
+				"url": "/overview/protocol/byzantine-agreement"
+			},
+			{
+				"label": "governance",
+				"url": "/overview/governance/developer"
+			},
+			{
+				"label": "energy usage",
+				"url": "/overview/network/energy"
+			},
+			{
+				"label": "mechanics",
 				"url": "/overview/mechanics-of-mobilecoin"
 			},
 			{
-				"label": "Original Whitepaper",
+				"label": "whitepaper",
 				"url": "/overview/whitepaper"
 			}
   			 ]
@@ -57,27 +57,27 @@
 			"url": "/guides",
 			"submenu": [
 			{
-				"label": "Full Service API",
+				"label": "full service api",
 				"url": "/guides/full-service-api"
 			},
 			{
-				"label": "Python CLI",
+				"label": "python cli",
 				"url": "/guides/python_cli"
 			},
 			{
-				"label": "iOS Wallet SDK",
+				"label": "ios sdk",
 				"url": "/guides/wallets/ios-app-sdk"
 			},
 			{
-				"label": "Android Wallet SDK",
+				"label": "android sdk",
 				"url": "/guides/wallets/ios-app-sdk"
 			},
 			{
-				"label": "Signal Bot SDK",
+				"label": "signal bots",
 				"url": "/guides/chatbots/forest"
 			},
 			{
-				"label": "Wordpress Plugin",
+				"label": "wordpress plugin",
 				"url": "/guides/wordpress"
 			}
   			 ]
