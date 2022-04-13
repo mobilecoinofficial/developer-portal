@@ -23,10 +23,6 @@
 				"url": "/overview"
 			},
 			{
-				"label": "defense in depth",
-				"url": "/overview/security/defense-in-depth"
-			},
-			{
 				"label": "network overview",
 				"url": "/overview/network/network"
 			},
