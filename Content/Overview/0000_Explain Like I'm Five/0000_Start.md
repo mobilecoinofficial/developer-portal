@@ -1,6 +1,9 @@
 ---
 title: Digital Cash
+hide_title: true
 ---
+![](https://raw.githubusercontent.com/mobilecoinofficial/developer-portal/main/images/digitalcash.png)
+
 ## Fast, Encrypted, Mobile Transactions
 
 Almost 30 years ago knowledge gaps in how to use the Internet stymied the digital transformation and the advent of the World Wide Web. Most asked, "The world wide what"? Trust was a factor. Could you trust your money to online stores? Speed was another. Dial-up was agonizingly slow and laborious. A decade later, we embraced the Web, where Amazon and other digital companies grew like wildfire.
@@ -30,5 +33,5 @@ To help understand the importance of the MobileCoin technology, the ELI5 article
 
 -   Software engineers who have studied digital payment systems, blockchain databases, and cryptography.
 
-## [Explain Like I'm Five: MobileCoin Blockchain](https://developers.mobilecoin.com/overview/explain-like-i'm-five/blockchain)
-## [Explain Like I'm Five: MobileCoin Fog](https://developers.mobilecoin.com/overview/explain-like-i'm-five/fog)
+### [Explain Like I'm Five: MobileCoin Blockchain](https://developers.mobilecoin.com/overview/explain-like-i'm-five/blockchain)
+### [Explain Like I'm Five: MobileCoin Fog](https://developers.mobilecoin.com/overview/explain-like-i'm-five/fog)
