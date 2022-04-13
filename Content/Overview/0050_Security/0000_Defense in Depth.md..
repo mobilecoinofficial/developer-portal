@@ -5,9 +5,9 @@ title: Defense in Depth
 
 MobileCoin is a new secure payments network designed for use in mobile apps.
 
-We have developed a number of open source software components that work together to deliver a high quality user experience without compromising on security. Our goal is to make payments software you'd feel safe using in apps like Facebook Messenger, WhatsApp, and [Signal](https://signal.org/).
+We have developed a number of open source software components that work together to deliver a high quality user experience without compromising on security and data protection. Our goal is to make payments software you'd feel safe using in apps like [Signal](https://signal.org/) and WhatsApp.
 
-This article introduces our "defense in depth" strategy for building a digital currency that works online like cash works in the real world.
+This article introduces our "defense-in-depth" strategy for building a digital currency that works online like cash works in the real world.
 
 Broadly, MobileCoin's software is composed of many defensive layers, each providing increased security:
 
@@ -19,7 +19,7 @@ Broadly, MobileCoin's software is composed of many defensive layers, each provid
 
 -   Layer 4: Confidential Transactions
 
--   Layer 5: MobileCoin Ledger
+-   Layer 5: MobileCoin Blockchain
 
 -   Layer 6: MobileCoin Consensus Protocol
 
@@ -35,7 +35,7 @@ Open-source technology is publicly auditable. To build trusted systems, we must 
 Layer 2: Decentralized Governance
 =================================
 
-Presently, most payments are made using physical currency or centralized payment networks. Physical currency is by-and-large private, but impossible to use over the Internet. Centralized payment networks are convenient, but they offer few data protection guarantees, exposing users to security risks and abuse by intermediaries. It is difficult to offer the safety of cash over the internet, but we can get very close with a well-designed decentralized payment network.
+Presently, most payments are made using physical currency or centralized payment networks. Physical currency is by-and-large privacy preserving, but impossible to use over the Internet. Centralized payment networks are convenient, but they offer few data protection guarantees, exposing users to security risks and abuse by intermediaries. It is difficult to offer the privacy of cash over the internet, but we can get very close with a well-designed decentralized secure payment network.
 
 The reason that decentralized payment networks can provide better consumer protections is simple: In a decentralized payment network, the only person who controls your money is you. When you use Visa or PayPal or even the ACH debit network, you give up control of your money the second you use the network. Centralized payment networks carefully monitor all financial traffic to collect a trove of transaction information that can be sold to the highest bidder.
 
@@ -64,7 +64,7 @@ CryptoNote ledgers are significantly more secure than Bitcoin, but they still le
 Layer 5: MobileCoin Ledger
 ==========================
 
-MobileCoin Ledger takes transactions built with CryptoNote signatures and RingCT and adds two new improvements: membership proofs for transaction inputs and redacted transaction records.  When a transaction is prepared by a user, it contains a ring signature constructed with a set of Merkle proofs-of-membership, and a double-spend proof. In the right circumstances, the membership proofs allow the transaction to be validated without requiring disk access to the corresponding entries in the blockchain. This closes a potential access-pattern side channel that could allow a malicious actor to observe the particular set of inputs used to construct the transaction. When a valid transaction is ready to be published in the MobileCoin blockchain, the membership proofs are deleted and only the double-spend proof and the new transaction output are added to the public record. These "redacted transactions" make it difficult to link and deanonymize users through analysis of the public blockchain.
+The MobileCoin Ledger takes transactions built with CryptoNote signatures and RingCT and adds two new improvements: membership proofs for transaction inputs and redacted transaction records.  When a transaction is prepared by a user, it contains a ring signature constructed with a set of Merkle proofs-of-membership, and a double-spend proof. In the right circumstances, the membership proofs allow the transaction to be validated without requiring disk access to the corresponding entries in the blockchain. This closes a potential access-pattern side channel that could allow a malicious actor to observe the particular set of inputs used to construct the transaction. When a valid transaction is ready to be published in the MobileCoin blockchain, the membership proofs are deleted and only the double-spend proof and the new transaction output are added to the public record. These "redacted transactions" make it difficult to link and deanonymize users through analysis of the public blockchain.
 
 Redacted transactions also necessarily imply that the public blockchain entries do not contain enough information for the complete transaction history to be revalidated in an audit. Our solution is to provide two separate mechanisms for audit support. All blocks are signed as they are published by the code that performs the validation and redaction for publication.
 
@@ -91,7 +91,7 @@ In short, the MobileCoin network becomes a network of blind oracles who simply a
 Bringing it All Together
 ========================
 
-MobileCoin is designed so that mobile messaging applications like WhatsApp, Facebook Messenger, or Signal can easily offer digital payments without compromising on user security.
+MobileCoin is designed so that mobile messaging applications like Signal and WhatsApp can easily offer digital payments without compromising on user security.
 
 Transactions complete in just a few seconds, and all transaction information is kept encrypted end-to-end between the parties involved. MobileCoin's defense-in-depth for protecting user data starts by establishing a very high baseline using established technologies like ring signatures, one-time addresses, and RingCT. On top of this foundation we've added secure enclaves and careful information management to securely delete the last traces of identifying information left behind by Cryptonote in our redacted public blockchain. Node operators or malicious attackers who compromise a node can't access user keys or user data.\
 
