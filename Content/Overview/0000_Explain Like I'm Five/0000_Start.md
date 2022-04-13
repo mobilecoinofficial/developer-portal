@@ -16,9 +16,11 @@ There is room on this earth for more than one type of asset, but your coffee sho
 Transforming SmartPhones with Digital Cash
 ------------------------------------------
 
-Digital cash must be fast and encrypted, which is why MobileCoin has invested so much time into making our technology easy to use. The first component is the MobileCoin Blockchain, which is a digital ledger that records financial information of financial transactions. The second component is MobileCoin Fog, a back-end service that allows users to quickly send, spend, and check the balance of their MOB via their smartphone.
+Digital cash must be fast and encrypted, which is why MobileCoin has invested so much time into making our technology easy to use. The first component is the [MobileCoin Blockchain](https://developers.mobilecoin.com/overview/explain-like-i'm-five/blockchain), which is a digital ledger that records financial information of financial transactions. The second component is [MobileCoin Fog](https://developers.mobilecoin.com/overview/explain-like-i'm-five/fog), a back-end service that allows users to quickly send, spend, and check the balance of their MOB via their smartphone.
 
-To help understand the importance of the MobileCoin technology, this explanation delivers four layers of increasingly more complex information geared toward describing the concepts to:
+Explain Like I'm Five (ELI5)
+------------------------------------------
+To help understand the importance of the MobileCoin technology, the ELI5 articles delivers four layers of increasingly more complex information geared toward describing the concepts to:
 
 -   Five-year-old children who probably have never spent money in their entire short lives.
 
@@ -27,3 +29,6 @@ To help understand the importance of the MobileCoin technology, this explanation
 -   College first years who are familiar with digital cash, like Bitcoin, smartphones, and messaging apps, like Signal and WhatsApp.
 
 -   Software engineers who have studied digital payment systems, blockchain databases, and cryptography.
+
+## [Explain Like I'm Five: MobileCoin Blockchain](https://developers.mobilecoin.com/overview/explain-like-i'm-five/blockchain)
+## [Explain Like I'm Five: MobileCoin Fog](https://developers.mobilecoin.com/overview/explain-like-i'm-five/fog)
