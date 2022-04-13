@@ -23,28 +23,28 @@
 				"url": "/overview"
 			},
 			{
-				"label": "roadmap",
-				"url": "/overview/roadmap"
+				"label": "defense in depth",
+				"url": "/overview/security/defense-in-depth"
 			},
 			{
-				"label": "network",
+				"label": "network overview",
 				"url": "/overview/network/network"
 			},
 			{
-				"label": "consensus",
+				"label": "consensus protocol",
 				"url": "/overview/protocol/byzantine-agreement"
-			},
-			{
-				"label": "governance",
-				"url": "/overview/governance/developer"
 			},
 			{
 				"label": "energy usage",
 				"url": "/overview/network/energy"
 			},
 			{
-				"label": "mechanics",
-				"url": "/overview/mechanics-of-mobilecoin"
+				"label": "roadmap",
+				"url": "/overview/roadmap"
+			},
+			{
+				"label": "governance",
+				"url": "/overview/governance/governance"
 			},
 			{
 				"label": "whitepaper",
