@@ -2,7 +2,6 @@
 title: "Fog Threat Model"
 description: "MobileCoin Fog is a suite of services that enable use of MobileCoin payments in resource-constrained environments, particularly, mobile devices."
 ---
-# MobileCoin Fog Threat Model
 
 MobileCoin Fog is a suite of services that enable use of MobileCoin payments in resource-constrained
 environments, particularly, mobile devices. This threat model explains the security invariants of the system
