@@ -1,5 +1,5 @@
 ---
-title: Fennec Browser Extension
+title: Send from Fennec
 use_file: "mobilecoinofficial/awesome-mobilecoin/blob/main/directory/0001_Fennec/README.md"
 ---
 
