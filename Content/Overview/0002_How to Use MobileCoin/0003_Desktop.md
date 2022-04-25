@@ -1,5 +1,5 @@
 ---
-title: Setup your Desktop Wallet
+title: Desktop Wallet
 ---
 ![](https://mobilecoinwp.wpengine.com/wp-content/uploads/2021/10/MobileCoin_Wallet_DesktopDownloadProcess_07-1-e1635381496489.png)
 
