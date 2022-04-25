@@ -1,5 +1,5 @@
 ---
-title: Ledger and Transaction Protocol
+title: Transaction Protocol
 ---
 In order for any payments network to function, it must be able to maintain a history of transactions. MobileCoin Ledger
 describes how the MobileCoin Network stores payment records in a public ledger. The ledger is implemented as a 
