@@ -1,5 +1,5 @@
 ---
-title: Send from Browser to Desktop
+title: Add Funds to Desktop
 use_file: "mobilecoinofficial/awesome-mobilecoin/blob/main/directory/0001_Fennec/README.md"
 ---
 
