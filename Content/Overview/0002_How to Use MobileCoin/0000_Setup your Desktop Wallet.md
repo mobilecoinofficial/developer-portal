@@ -1,29 +1,31 @@
-### ![](https://mobilecoinstg.wpengine.com/wp-content/uploads/2022/02/secure.svg)Step 5: Move your MOB into your MobileCoin desktop wallet
+![](https://mobilecoinwp.wpengine.com/wp-content/uploads/2021/10/MobileCoin_Wallet_DesktopDownloadProcess_07-1-e1635381496489.png)
 
-This is a really easy process. But first you have to [download your MobileCoin desktop wallet and create an account.](https://mobilecoin.com/news/how-to-download-and-set-up-your-mobilecoin-desktop-wallet) Once you've got your MobileCoin desktop wallet installed, it's simply a process of sending and receiving money, which you've done before.
+*The Desktop Wallet is not currently supported by the development team. Please use this as an example implementation, not as your day-to-day wallet.*
 
-Open your Fennec desktop wallet and choose SEND.
+The MobileCoin desktop wallet is available for [Mac](https://get.mobilecoin.com/mac), [Ubuntu](https://get.mobilecoin.com/ubuntu), [Redhat](https://get.mobilecoin.com/redhat) and [Linux](https://get.mobilecoin.com/linux) operating systems.
 
-![](https://mobilecoinstg.wpengine.com/wp-content/uploads/2021/10/image9-1024x752.png)
+MobileCoin Desktop Wallet Download Process For Mac
 
-Choose ADDRESS.
+If you've already downloaded and set up your MobileCoin desktop wallet, [learn how to add funds here. ](https://mobilecoin.com/news/how-to-buy-mob-in-the-us)
 
-![](https://mobilecoinstg.wpengine.com/wp-content/uploads/2021/10/image8.png).
+1.  1\. Allow downloads from [mobilecoin.com](http://mobilecoin.com/).
+2.  2\. Open the MobileCoin Wallet installer from your downloads folder.
+3.  3\. Drag the Wallet icon into your Applications folder.
+4.  4\. Double-click the MobileCoin Wallet app in your Applications folder.
+5.  5\. Allow your Mac to open the app.
 
-Make sure the top line says MOB and choose SELECT FROM ADDRESS.
+    ![](https://mobilecoinwp.wpengine.com/wp-content/uploads/2021/10/MobileCoin_Wallet_DesktopDownloadProcess_07-1-859x1024.png)
+6.  6\. Create a password for your Wallet and click the TERMS OF USE.
+7.  7\. Read through TERMS OF USE carefully.
+8.  8\. Once complete, click CLOSE TERMS OF USE to return to set up.
+9.  9\. Check the box next to "I have read and accept the TERMS OF USE" and click CREATE WALLET.
+10. 10\. Choose an Account Name if desired and click CREATE ACCOUNT.
 
-![](https://mobilecoinstg.wpengine.com/wp-content/uploads/2021/10/image22-1024x706.png)
+    ![](https://mobilecoinwp.wpengine.com/wp-content/uploads/2021/10/MobileCoin_Wallet_DesktopDownloadProcess_11-849x1024.png)
+11. 11\. Click SHOW SECRET ENTROPY. Save your Secret Entropy in a secure location and click I HAVE SECURED MY ENTROPY.
+12. 12\. Confirm that you have secured your entropy, or go back to view it again.![](https://mobilecoinwp.wpengine.com/wp-content/uploads/2021/10/MobileCoin_Wallet_DesktopDownloadProcess_13-853x1024.png) 
+13. 13\. Set a Transaction Pin and a minimum MobileCoin amount for pin-activated transfers.
+14. 14\. Click SET PIN.\
+    ![](https://mobilecoinwp.wpengine.com/wp-content/uploads/2021/10/MobileCoin_Wallet_DesktopDownloadProcess_14-853x1024.png)
 
-Here you will need to add your MOB wallet address. Click the + to add a new address. Open your MobileCoin desktop wallet and enter your password to unlock your wallet. Once your wallet is open, you will see your address (it is the square filled with lots of blue, white, and green letters and numbers). Click on the address block to copy it.
-
-![](https://mobilecoinstg.wpengine.com/wp-content/uploads/2021/10/image10-blur-867x1024.png)
-
-Back in your Fennec wallet, paste your address into the address box on the bottom. Name your address something memorable. Click SAVE. Fennec will make your re-enter your password. After you do, you will see a green button pop up that says SAVED SUCCESSFULLY.
-
-![](https://mobilecoinstg.wpengine.com/wp-content/uploads/2021/10/image27-blur-1024x1018.png)
-
-Click on the address box. This will open the send screen. Click into the box that says MOB and enter the amount you want to send.
-
-![](https://mobilecoinstg.wpengine.com/wp-content/uploads/2021/10/image17-1024x652.png)
-
-Hit the big orange button that says SEND. You should see another green button pop up that says SEND SUCCESSFULLY! Your MOB should appear in your MobileCoin wallet within a few seconds. If you don't see it appear automatically, log out and log back in to your wallet.
+Welcome to MobileCoin Wallet! [Now you're ready to add some money to your wallet!](https://mobilecoin.com/news/how-to-buy-mob-in-the-us)
