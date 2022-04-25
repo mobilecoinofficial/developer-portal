@@ -2,25 +2,25 @@
 title: Activate Signal Payments
 ---
 
-```
-Step 1 
-```
-
 #### **Update Signal on your Smartphone**
-MobileCoin powers the crypto wallet in Signal's iOS and Android apps.
+Make sure you have the latest update to the Signal App. MobileCoin powers the crypto wallet in Signal's iOS and Android apps. 
 [iOS](https://apps.apple.com/us/app/signal-private-messenger/id874139669)
 [Android](https://play.google.com/store/apps/details?gl=us&id=org.thoughtcrime.securesms)
 
-```
-Step 2 
-```
-#### **Activate Payments**
+* * * * *
 
-To activate Signal Payments: 
-⬅️ Tap < to go back
-👤 Tap the profile icon
-⚙️ Tap Settings 
-💳 Tap Payments
-🅿️ Tap Activate Payments
+Activate Payments
+-----------------
+Activating payments will let you send and receive MobileCoin.
+1. Open the Signal app on your phone.
+2. Tap Profile (in the top left) 
+3. Tap Settings ⚙️ 
+4. Tap Payments 💳 
+5. Tap Activate Payments
+6. Accept and Agree to the Terms
 
 ![](https://images.squarespace-cdn.com/content/v1/624b284acc6f4b3917c9d40d/7f1400e3-a06d-47b3-b6ce-bd2a5045ab62/gif.gif?format=750w)
+
+Enable your Signal PIN
+----------------------
+A Signal PIN is used to recover the wallet linked to your Signal account if you reinstall. The PIN is unknown to Signal and it can not be reset if you forget it. To activate your wallet, you must have a Signal PIN enabled in Profile > Settings > Account.
