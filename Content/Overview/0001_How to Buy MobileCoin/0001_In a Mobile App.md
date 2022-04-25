@@ -93,4 +93,25 @@ This will open the exchange screen. Enter the amount of Bitcoin that you want to
 
 ![](https://mobilecoinstg.wpengine.com/wp-content/uploads/2021/10/image14-1-473x1024.png)
 
-You now own MobileCoin! Please be aware that anytime you transfer cryptocurrencies, it may be a taxable event, so please consult with your tax advisor.
+You now own MobileCoin! 
+
+
+### ![](https://mobilecoinstg.wpengine.com/wp-content/uploads/2022/02/secure.svg)Step 5: Move your MOB into your MobileCoin desktop wallet
+
+First, quit and restart your MobileCoin desktop wallet TWICE to make sure it updates and is running the latest version. In your MobileCoin desktop wallet, tap the SEND/RECEIVE tab and then tap RECEIVE MOB. Tap the button in the top right corner of the address box to turn your address into a QR code.
+
+![](https://mobilecoinstg.wpengine.com/wp-content/uploads/2021/10/Screen-Shot-2021-11-30-at-12.39.52-PM-752x1024.png)
+
+In Mixin Messenger on your phone, where all of your currencies are listed, tap on the MOB section. Tap SEND. It will ask if you want to send to a contact or an address. Choose ADDRESS.
+
+![](https://mobilecoinstg.wpengine.com/wp-content/uploads/2021/10/IMG_2018-473x1024.png)
+
+On the address screen tap the PLUS sign in the top right corner to add your MobileCoin desktop wallet address. Name your wallet in the Label section. In the Address section tap the square on the right side to open the camera and then use your phone to scan the QR code on your MobileCoin desktop wallet on your computer. Once you scan the code it should populate in the address line. You may need to enter a memo on the last line to activate the Continue button. Tap CONTINUE and enter your pin.
+
+![](https://mobilecoinstg.wpengine.com/wp-content/uploads/2021/10/IMG_2020-473x1024.png)
+
+You should then see your address listed on the Address page. Tap on the address and it will open to a screen where you can enter the amount you would like to send. Enter the amount and tap CONTINUE. Enter your pin again.
+
+![](https://mobilecoinstg.wpengine.com/wp-content/uploads/2021/10/IMG_2021-473x1024.png)
+
+This completes your transaction! You should see your MOB show up in your MobileCoin desktop wallet momentarily. Be aware that sometimes you may need to restart your desktop wallet for the transaction to appear.
