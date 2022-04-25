@@ -1,3 +1,6 @@
+---
+title: Backup & Restore Wallet
+---
 Enable your Signal PIN
 ----------------------
 A Signal PIN is used to recover the wallet linked to your Signal account if you lose your phone or install the Signal app on a new phone. The PIN is unknown to Signal and it can not be reset if you forget it. To activate your wallet, you must have a Signal PIN enabled in Profile > Settings > Account.
