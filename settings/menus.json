@@ -16,65 +16,31 @@
 		},
 		{
 			"label": "docs",
-			"url": "/overview",
-			"submenu": [
-			{
-				"label": "explain like i'm five",
-				"url": "/overview"
-			},
-			{
-				"label": "network overview",
-				"url": "/overview/network/network"
-			},
-			{
-				"label": "consensus protocol",
-				"url": "/overview/protocol/byzantine-agreement"
-			},
-			{
-				"label": "energy usage",
-				"url": "/overview/network/energy"
-			},
-			{
-				"label": "roadmap",
-				"url": "/overview/roadmap"
-			},
-			{
-				"label": "governance",
-				"url": "/overview/governance/governance"
-			},
-			{
-				"label": "whitepaper",
-				"url": "/overview/whitepaper"
-			}
-  			 ]
+			"url": "/overview"
 		},
 		{
 			"label": "api",
 			"url": "/guides",
 			"submenu": [
 			{
-				"label": "full service api",
+				"label": "Full Service API",
 				"url": "/guides/full-service-api"
 			},
 			{
-				"label": "python cli",
+				"label": "Python",
 				"url": "/guides/python_cli"
 			},
 			{
-				"label": "ios sdk",
+				"label": "iOS",
 				"url": "/guides/wallets/ios-app-sdk"
 			},
 			{
-				"label": "android sdk",
+				"label": "Android",
 				"url": "/guides/wallets/ios-app-sdk"
 			},
 			{
-				"label": "signal bots",
+				"label": "Signal",
 				"url": "/guides/chatbots/forest"
-			},
-			{
-				"label": "wordpress plugin",
-				"url": "/guides/wordpress"
 			}
   			 ]
 		},
