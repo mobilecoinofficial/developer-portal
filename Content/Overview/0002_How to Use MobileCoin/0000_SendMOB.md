@@ -1,5 +1,5 @@
 ---
-title: Send Money to a Mobile Phone Number
+title: Send Payments
 ---
 MobileCoin can be sent between any two people with a mobile phone, anywhere in the world. Our partnership with the Signal Messenger app makes MobileCoin available to more than 100 million users across the globe. 
 
