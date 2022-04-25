@@ -28,15 +28,15 @@
 			},
 			{
 				"label": "iOS",
-				"url": "/guides/wallets/ios-app-sdk"
+				"url": "/guides/ios-app-sdk"
 			},
 			{
 				"label": "Android",
-				"url": "/guides/wallets/ios-app-sdk"
+				"url": "/guides/ios-app-sdk"
 			},
 			{
 				"label": "Signal",
-				"url": "/guides/chatbots/forest"
+				"url": "/guides/signal-sdk/signal"
 			}
   			 ]
 		},
