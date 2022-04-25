@@ -1,9 +1,7 @@
 ---
 title: Mobile App (BETA)
 ---
-How to get the MobileCoin app for your smartphone
-=================================================
-
+## Get the Mobile App (BETA)
 If you are trying to download the mobile app, follow these instructions using your mobile phone. The mobile app is currently only available as a beta version for iOS and Android.
 
 Both Android and iPhone users
