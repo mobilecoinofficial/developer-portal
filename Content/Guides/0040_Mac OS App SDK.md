@@ -1,0 +1,38 @@
+---
+title: Desktop Wallets SDK
+---
+
+The MobileCoin Desktop Wallet is a user-friendly desktop wallet with support for transaction history, encrypted contact book, gift codes,  payments, cold-wallet capabilities. The MobileCoin desktop wallet is available for [Mac](https://get.mobilecoin.com/mac), [Ubuntu](https://get.mobilecoin.com/ubuntu), [Redhat](https://get.mobilecoin.com/redhat) and [Linux](https://get.mobilecoin.com/linux) operating systems.
+ Check out all of the [releases on our GitHub](https://github.com/mobilecoinofficial/desktop-wallet/releases).
+
+### Show Me the Code
+
+* [Desktop Wallet](https://github.com/mobilecoinofficial/desktop-wallet): MobileCoin Desktop Wallet implementation
+
+![](https://mobilecoinwp.wpengine.com/wp-content/uploads/2021/10/MobileCoin_Wallet_DesktopDownloadProcess_07-1-e1635381496489.png)
+
+## Guide For Mac OS Users
+
+If you've already downloaded and set up your MobileCoin desktop wallet, [learn how to add funds here. ](https://mobilecoin.com/news/how-to-buy-mob-in-the-us)
+
+1.  1\. Allow downloads from [mobilecoin.com](http://mobilecoin.com/).
+2.  2\. Open the MobileCoin Wallet installer from your downloads folder.
+3.  3\. Drag the Wallet icon into your Applications folder.
+4.  4\. Double-click the MobileCoin Wallet app in your Applications folder.
+5.  5\. Allow your Mac to open the app.
+
+    ![](https://mobilecoinwp.wpengine.com/wp-content/uploads/2021/10/MobileCoin_Wallet_DesktopDownloadProcess_07-1-859x1024.png)
+6.  6\. Create a password for your Wallet and click the TERMS OF USE.
+7.  7\. Read through TERMS OF USE carefully.
+8.  8\. Once complete, click CLOSE TERMS OF USE to return to set up.
+9.  9\. Check the box next to "I have read and accept the TERMS OF USE" and click CREATE WALLET.
+10. 10\. Choose an Account Name if desired and click CREATE ACCOUNT.
+
+    ![](https://mobilecoinwp.wpengine.com/wp-content/uploads/2021/10/MobileCoin_Wallet_DesktopDownloadProcess_11-849x1024.png)
+11. 11\. Click SHOW SECRET ENTROPY. Save your Secret Entropy in a secure location and click I HAVE SECURED MY ENTROPY.
+12. 12\. Confirm that you have secured your entropy, or go back to view it again.![](https://mobilecoinwp.wpengine.com/wp-content/uploads/2021/10/MobileCoin_Wallet_DesktopDownloadProcess_13-853x1024.png) 
+13. 13\. Set a Transaction Pin and a minimum MobileCoin amount for pin-activated transfers.
+14. 14\. Click SET PIN.\
+    ![](https://mobilecoinwp.wpengine.com/wp-content/uploads/2021/10/MobileCoin_Wallet_DesktopDownloadProcess_14-853x1024.png)
+
+Welcome to MobileCoin Wallet! [Now you're ready to add some money to your wallet!](https://mobilecoin.com/news/how-to-buy-mob-in-the-us)
