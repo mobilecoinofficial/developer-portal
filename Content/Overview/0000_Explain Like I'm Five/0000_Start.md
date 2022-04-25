@@ -21,6 +21,19 @@ Transforming SmartPhones with Digital Cash
 
 Digital cash must be fast and encrypted, which is why MobileCoin has invested so much time into making our technology easy to use. The first component is the [MobileCoin Blockchain](https://developers.mobilecoin.com/overview/explain-like-i'm-five/blockchain), which is a digital ledger that records financial information of financial transactions. The second component is [MobileCoin Fog](https://developers.mobilecoin.com/overview/explain-like-i'm-five/fog), a back-end service that allows users to quickly send, spend, and check the balance of their MOB via their smartphone.
 
+
+<div className="section video-embed relative w-4/5 max-w-[800px] m-auto">
+     <h1 id="intro" className="text-center text-xl md:text-1.5xl mb-8">intro to mobilecoin</h1>
+
+    <div className="pb-[56.25%] relative overflow-hidden rounded-lg">
+        <iframe src="https://www.youtube.com/embed/DAyojx67Stg" title="YouTube video player" 
+          frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen 
+        className="w-full h-full absolute inset-0"></iframe>
+    </div>
+</div>
+    
+    
+
 Explain Like I'm Five (ELI5)
 ------------------------------------------
 To help understand the importance of the MobileCoin technology, the ELI5 articles delivers four layers of increasingly more complex information geared toward describing the concepts to:
