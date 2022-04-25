@@ -1,7 +1,5 @@
 ![](https://mobilecoinwp.wpengine.com/wp-content/uploads/2021/10/MobileCoin_Wallet_DesktopDownloadProcess_07-1-e1635381496489.png)
 
-*The Desktop Wallet is not currently supported by the development team. Please use this as an example implementation, not as your day-to-day wallet.*
-
 The MobileCoin desktop wallet is available for [Mac](https://get.mobilecoin.com/mac), [Ubuntu](https://get.mobilecoin.com/ubuntu), [Redhat](https://get.mobilecoin.com/redhat) and [Linux](https://get.mobilecoin.com/linux) operating systems.
 
 MobileCoin Desktop Wallet Download Process For Mac
