@@ -1,5 +1,5 @@
 ---
-title: Receive Payments
+title: Transfer from Exchange
 ---
 
 * * * * *
