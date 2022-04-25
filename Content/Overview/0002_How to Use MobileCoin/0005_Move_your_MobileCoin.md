@@ -1,6 +1,8 @@
 ---
-title: Move your MobileCoin
+title: Fennec Browser Extension
+use_file: "mobilecoinofficial/awesome-mobilecoin/blob/main/directory/0001_Fennec/README.md"
 ---
+
 ### ![](https://mobilecoinstg.wpengine.com/wp-content/uploads/2022/02/secure.svg) Move your MOB into your MobileCoin desktop wallet
 
 This is a really easy process. But first you have to [download your MobileCoin desktop wallet and create an account.](https://mobilecoin.com/news/how-to-download-and-set-up-your-mobilecoin-desktop-wallet) Once you've got your MobileCoin desktop wallet installed, it's simply a process of sending and receiving money, which you've done before.
