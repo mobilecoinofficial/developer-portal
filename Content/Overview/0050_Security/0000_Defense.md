@@ -1,13 +1,15 @@
 ---
 title: Defense in Depth
 ---
+This defense-in-depth article covers our security strategy for building a digital currency.
+
 ## Securing Payments at Scale
 
-MobileCoin is a new secure payments network designed for use in mobile apps. We have developed a number of open source software components that work together to deliver a high quality user experience without compromising on security. Our goal is to make payments software you'd feel safe using in apps like [Signal](https://signal.org/) and WhatsApp.
+MobileCoin was built to enable mobile applications like [Signal](https://signal.org/) to send digital payments without compromising on user security. Transactions complete in just a few seconds, and all transaction information is kept encrypted end-to-end between the parties involved. 
 
-This article introduces our "defense in depth" strategy for building a digital currency that works online like cash works in the real world.
+We will discuss why decentralization is important, how Bitcoin offers digital gold, and why digital gold doesn't work for payments. Next, we'll discuss what CryptoNote offers for distributed ledgers, how MobileCoin's ledger further protects users, and how remote attestation can help prove that servers you don't control are running the right software. 
 
-MobileCoin's software is composed of many defensive layers, each providing increased security:
+MobileCoin's software is composed of 7 defensive layers, each providing increased security:
 
 -   Layer 1: Open-Source
 
@@ -22,8 +24,6 @@ MobileCoin's software is composed of many defensive layers, each providing incre
 -   Layer 6: MobileCoin Consensus Protocol
 
 -   Layer 7: Secure Enclaves and Remote Attestation
-
-We will discuss why decentralization is important, how Bitcoin offers digital gold, and why digital gold doesn't work for payments. Next, we'll discuss what CryptoNote offers for distributed ledgers, how MobileCoin's ledger further protects users, and how remote attestation can help prove that servers you don't control are running the right software, right now. 
 
 Layer 1: Open-Source
 ====================
@@ -89,8 +89,10 @@ In short, the MobileCoin network becomes a network of blind oracles who simply a
 Bringing it All Together
 ========================
 
-MobileCoin is designed so that mobile messaging applications like Signal and WhatsApp can easily offer digital payments without compromising on user security.
+MobileCoin's defense-in-depth for protecting user data starts by establishing a very high baseline using established technologies like ring signatures, one-time addresses, and RingCT. 
 
-Transactions complete in just a few seconds, and all transaction information is kept encrypted end-to-end between the parties involved. MobileCoin's defense-in-depth for protecting user data starts by establishing a very high baseline using established technologies like ring signatures, one-time addresses, and RingCT. On top of this foundation we've added secure enclaves and careful information management to securely delete the last traces of identifying information left behind by Cryptonote in our redacted public blockchain. Node operators or malicious attackers who compromise a node can't access user keys or user data.\
+On top of this foundation we've added secure enclaves and careful information management to securely delete the last traces of identifying information left behind by Cryptonote in our redacted public blockchain. 
 
-We designed MobileCoin to restore security without compromising on convenience. We are excited to see what the world does with the technology we've built. Here's to a brighter, safer future.
+Node operators or malicious attackers who compromise a node can't access user keys or user data.
+
+MobileCoin was built to restore security without compromising on convenience. We are excited to see what the world does with the technology we've built. Here's to a brighter, safer future.
