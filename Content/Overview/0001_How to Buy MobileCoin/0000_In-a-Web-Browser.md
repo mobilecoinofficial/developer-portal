@@ -1,5 +1,5 @@
 ---
-title: "How to Buy MobileCoin in a Web Browser"
+title: "Buy in your Browser"
 ---
 Buying MobileCoin in your web browser is as easy as following this guide. In this guide, we will show you how to get MobileCoin by first buying Bitcoin and then exchanging it for MobileCoin. You will learn how to use the Fennec wallet that works right in your browser.
 
