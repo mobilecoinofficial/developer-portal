@@ -1,5 +1,5 @@
 ---
-title: Setup the MobileCoin Beta App
+title: Mobile App (BETA)
 ---
 How to get the MobileCoin app for your smartphone
 =================================================
