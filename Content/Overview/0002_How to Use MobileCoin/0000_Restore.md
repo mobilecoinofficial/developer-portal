@@ -16,7 +16,7 @@ View wallet passphrase
 
 You can also restore your balance using a recovery phrase, which is a 24-word phrase unique to you. Write it down and store it in a safe place. You can view this list again after creating.
 
-1.  Go to [Signal Settings](https://support.signal.org/hc/articles/360009091591) ![profile_avatar.png](https://support.signal.org/hc/article_attachments/360091706271/profile_avatar.png) > Payments > Menu > View Recovery Phrase.
+1.  Go to Signal Settings > Payments > Menu > View Recovery Phrase.
 2.  Tap Start.
 3.  Record the 24 words in order.
 4.  Tap Next.
