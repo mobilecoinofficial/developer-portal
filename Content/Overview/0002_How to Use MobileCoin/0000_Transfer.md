@@ -1,6 +1,7 @@
 ---
-title: Transfer to your Wallet
+title: Receive Payments
 ---
+
 * * * * *
 
 Transfer in from an exchange
