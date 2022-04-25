@@ -4,14 +4,7 @@ title: Mobile App (BETA)
 How to get the MobileCoin app for your smartphone
 =================================================
 
-If you are trying to download the mobile app, follow these instructions using your mobile phone.
-
-[Skip to Getting MOB in your MobileCoin app](https://mobilecoin.com/beta#get-mob-in-your-app)\
-[Send us feedback on your beta experience](https://form.asana.com/?k=uUOY7JnKwElkOD-GTLEKJg&d=663845041171769)
-
-MobileCoin is a cryptocurrency designed for high-speed encrypted payments. We have built the MobileCoin app so users can store, request, and send MobileCoin (MOB). We're still in the early days of the MobileCoin app, and it is currently only available as a beta version for iOS and Android.
-
-Please follow the steps below to gain access to the MobileCoin beta app.
+If you are trying to download the mobile app, follow these instructions using your mobile phone. The mobile app is currently only available as a beta version for iOS and Android.
 
 Both Android and iPhone users
 -----------------------------
