@@ -49,17 +49,32 @@
 			"url": "/community",
 			"submenu": [
 			{
-				"label": "events",
+				"label": "Events",
 				"url": "/community"
 			},
 			{
-				"label": "discord",
+				"label": "Discord",
 				"url": "https://discord.com/invite/mobilecoin",
 				"newTab": true
 			},
 			{
-				"label": "twitter",
+				"label": "Twitter",
 				"url": "https://twitter.com/mobilecoin",
+				"newTab": true
+			},
+			{
+				"label": "Blog",
+				"url": "https://mobilecoin.com/news",
+				"newTab": true
+			},
+			{
+				"label": "Art",
+				"url": "https://mobilecoin.art",
+				"newTab": true
+			},
+			{
+				"label": "Foundation",
+				"url": "https://mobilecoin.foundation/https://mobilecoin.foundation/",
 				"newTab": true
 			}
   			 ]
