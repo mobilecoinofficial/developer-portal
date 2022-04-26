@@ -1,3 +1,7 @@
+---
+title: Mission of MobileCoin
+hide_title: true
+---
 # Cryptocurrency designed to be used.
 
 MobileCoin is an effort to develop a fast, private, and easy-to-use cryptocurrency that can be deployed in resource constrained environments to users who aren’t equipped to reliably maintain secret keys over a long period of time, all without giving up control of funds to a payment processing service. 
