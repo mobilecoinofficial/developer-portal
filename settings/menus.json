@@ -15,6 +15,11 @@
 			"url": "/overview"
 		},
 		{
+			"label": "roadmap",
+			"url": "https://mobilecoin.canny.io/",
+			"newTab": true
+		},
+		{
 			"label": "api",
 			"url": "/guides",
 			"submenu": [
