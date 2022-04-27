@@ -1,8 +1,7 @@
 ---
-title: Activate Payments
+title: How to Use MobileCoin
 ---
-
-#### **Update Signal on your Smartphone**
+#### **Update the Signal App on your Smartphone**
 Make sure you have the latest update to the Signal App. MobileCoin powers the crypto wallet in Signal's iOS and Android apps. 
 - [iOS](https://apps.apple.com/us/app/signal-private-messenger/id874139669)
 - [Android](https://play.google.com/store/apps/details?gl=us&id=org.thoughtcrime.securesms)
