@@ -7,7 +7,7 @@
 	},
 	"main": [
 		{
-			"label": "apps",
+			"label": "ecosystem",
 			"url": "/#ecosystem"
 		},
 		{
@@ -15,33 +15,45 @@
 			"url": "/overview"
 		},
 		{
-			"label": "roadmap",
-			"url": "https://mobilecoin.canny.io/",
-			"newTab": true
-		},
-		{
-			"label": "api",
+			"label": "developers",
 			"url": "/guides",
 			"submenu": [
+			{
+				"label": "Roadmap",
+				"url": "/overview/governance/roadmap"
+			},
 			{
 				"label": "Full Service API",
 				"url": "/guides/full-service-api"
 			},
 			{
-				"label": "Python",
+				"label": "Python CLI",
 				"url": "/guides/python_cli"
 			},
 			{
-				"label": "iOS",
+				"label": "iOS SDK",
 				"url": "/guides/ios-app-sdk"
 			},
 			{
-				"label": "Android",
+				"label": "Android SDK",
 				"url": "/guides/android-app-sdk"
 			},
 			{
-				"label": "Signal",
+				"label": "Signal Bots",
 				"url": "/guides/signal-sdk/signal"
+			},
+			{
+				"label": "Bug Bounties",
+				"url": "/overview/governance/bugs"
+			},
+			{
+				"label": "Improvement Proposals",
+				"url": "/overview/governance/proposals"
+			},
+			{
+				"label": "Jobs @ MobileCoin",
+				"url": "https://boards.greenhouse.io/mobilecoin",
+				"newTab": true
 			}
   			 ]
 		},
