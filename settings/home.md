@@ -4,5 +4,4 @@ about_this_file: "This document will have its contents added to the front page b
 
   
 
-
-    
+[widget type='circulatingSupply']
