@@ -19,26 +19,3 @@ Activating payments will let you send and receive MobileCoin.
 6. Accept and Agree to the Terms
 
 ![](https://images.squarespace-cdn.com/content/v1/624b284acc6f4b3917c9d40d/7f1400e3-a06d-47b3-b6ce-bd2a5045ab62/gif.gif?format=750w)
-
-
-Deactivate Payments
--------------------
-
-If you do not want to use the MobileCoin wallet in Signal, you can deactivate it. You will not be able to send or receive payments in Signal after you deactivate.
-
-1.  Recommended: [View and copy the wallet passphrase before proceeding.](https://support.signal.org/hc/en-us/articles/360057625692-In-app-Payments#payments_wallet_view_passphrase)
-2.  Go to [Signal Settings](https://support.signal.org/hc/articles/360009091591) ![profile_avatar.png](https://support.signal.org/hc/article_attachments/360091706271/profile_avatar.png) > Payments > Menu > Deactivate Payments.
-3.  Recommended: Transfer a balance to use again.\
-    Note: If you choose not to transfer, the balance will remain in your Signal account. 
-4.  Tap Deactivate.
-
-
-
-
-* * * * *
-
-Uninstalled Signal
-------------------
-
--   If you remember your [Signal PIN](https://support.signal.org/hc/articles/360007059792), you can recover settings and the wallet linked to your Signal account.
--   If you do not know your Signal PIN, you can register and restore the wallet linked to your Signal account with the 24 word passphrase. [Follow the steps listed above](https://support.signal.org/hc/en-us/articles/360057625692-In-app-Payments#payments_wallet_restore_passphrase).
