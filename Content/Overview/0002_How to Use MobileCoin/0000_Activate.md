@@ -6,6 +6,8 @@ Make sure you have the latest Signal app on your phone. MobileCoin powers the cr
 - [iOS](https://apps.apple.com/us/app/signal-private-messenger/id874139669)
 - [Android](https://play.google.com/store/apps/details?gl=us&id=org.thoughtcrime.securesms)
 
+[<img alt="alt_text" width="40px" src="images/apps.webp" />](https://signal.org/install/)
+
 * * * * *
 
 Activate Payments
