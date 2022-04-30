@@ -12,6 +12,16 @@ Restore wallet with your PIN
 
 Your balance will automatically restore when you reinstall Signal if you confirm your Signal PIN. 
 
+
+* * * * *
+
+Uninstalled Signal
+------------------
+It's okay if you uninstalled your Signal. Just Reinstall it and recover your wallet with your PIN or 24 word passphrase.
+
+-   If you remember your [Signal PIN](https://support.signal.org/hc/articles/360007059792), you can recover settings and the wallet linked to your Signal account.
+-   If you do not know your Signal PIN, you can register and restore the wallet linked to your Signal account with the 24 word passphrase. [Follow the steps listed above](https://support.signal.org/hc/en-us/articles/360057625692-In-app-Payments#payments_wallet_restore_passphrase).
+
 * * * * *
 
 View wallet passphrase
