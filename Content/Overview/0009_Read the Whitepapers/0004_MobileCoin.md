@@ -8,7 +8,7 @@ MobileCoin is an effort to develop a fast, private, and easy-to-use cryptocurren
 
 In the MobileCoin whitepaper, the project’s creators describe its mission: “MobileCoin is designed so that a mobile messaging application like Signal can integrate with a MobileCoin wallet,” the team described in its whitepaper.
 
+# [Download the Whitepaper](https://mobilecoin.foundation/pdf/MobileCoin_White_Paper.pdf)
+
 [widget type='pdfViewer' pdf='//mobilecoin.foundation/pdf/MobileCoin_White_Paper.pdf']
 
-
-# [Download the Whitepaper](https://mobilecoin.foundation/pdf/MobileCoin_White_Paper.pdf)
