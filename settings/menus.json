@@ -8,20 +8,51 @@
 	"main": [
 		{
 			"label": "ecosystem",
-			"url": "/#ecosystem"
+			"url": "/ecosystem"
 		},
 		{
 			"label": "guides",
-			"url": "/overview"
+			"url": "/overview",
+			"submenu": [
+
+			{
+				"label": "Explain like I'm 5",
+				"url": "/overview/explain-like-i'm-five/start""
+			},
+			{
+				"label": "How to Buy MobileCoin",
+				"url": "/overview/how-to-buy-mobilecoin/in-a-web-browser"
+			},
+			{
+				"label": "How to Use MobileCoin",
+				"url": "/overview/how-to-use-mobilecoin/activate"
+			},	
+			{
+				"label": "Read the Whitepapers",
+				"url": "/overview/read-the-whitepapers/mobilecoin"
+			},
+			{
+				"label": "Energy Usage",
+				"url": "/overview/network/energy"
+			},
+			{
+				"label": "Validator Nodes",
+				"url": "/overview/network/validators"
+			},
+			{
+				"label": "Watcher Nodes",
+				"url": "/overview/network/watchers"
+			},
+			{
+				"label": "Byzantine Agreement",
+				"url": "/overview/network/byzantine-agreement/overview/network/byzantine-agreement"
+			}
+  			 ]
 		},
 		{
 			"label": "developers",
 			"url": "/guides",
 			"submenu": [
-			{
-				"label": "Roadmap",
-				"url": "/overview/governance/roadmap"
-			},
 			{
 				"label": "Full Service API",
 				"url": "/guides/full-service-api"
@@ -45,6 +76,10 @@
 			{
 				"label": "Bug Bounties",
 				"url": "/overview/governance/bugs"
+			},
+			{
+				"label": "Roadmap",
+				"url": "/overview/governance/roadmap"
 			},
 			{
 				"label": "Improvement Proposals",
