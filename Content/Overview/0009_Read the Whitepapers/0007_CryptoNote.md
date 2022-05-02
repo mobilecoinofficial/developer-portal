@@ -7,4 +7,4 @@ CryptoNote introduced two innovations: ring signatures and one-time addresses. R
 
 # [Download the Whitepaper](https://github.com/mobilecoinofficial/developer-portal/blob/main/info/cryptonote.pdf)
 
-[widget type='pdfViewer' pdf='//github.com/mobilecoinofficial/developer-portal/blob/main/info/cryptonote.pdf']
+[widget type='pdfViewer' pdf='//raw.githubusercontent.com/mobilecoinofficial/developer-portal/master/info/cryptonote.pdf']
