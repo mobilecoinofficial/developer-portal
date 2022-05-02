@@ -36,6 +36,10 @@
 				"url": "/overview/network/energy"
 			},
 			{
+				"label": "Circulating Supply",
+				"url": "/overview/network/supply"
+			},
+			{
 				"label": "Validator Nodes",
 				"url": "/overview/network/validators"
 			},
@@ -45,7 +49,7 @@
 			},
 			{
 				"label": "Byzantine Agreement",
-				"url": "/overview/network/byzantine-agreement/overview/network/byzantine-agreement"
+				"url": "/overview/network/byzantine-agreement"
 			}
   			 ]
 		},
@@ -86,7 +90,7 @@
 				"url": "/overview/governance/proposals"
 			},
 			{
-				"label": "Jobs @ MobileCoin",
+				"label": "Developers Jobs",
 				"url": "https://boards.greenhouse.io/mobilecoin",
 				"newTab": true
 			}
