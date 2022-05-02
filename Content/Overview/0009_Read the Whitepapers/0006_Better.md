@@ -8,4 +8,4 @@ The first peer-reviewed article about Bitcoin written by Simon Barber and the te
 
 # [Download the Whitepaper](https://github.com/mobilecoinofficial/developer-portal/blob/main/info/bittertobetter.pdf)
 
-[widget type='pdfViewer' pdf='//github.com/mobilecoinofficial/developer-portal/blob/main/info/bittertobetter.pdf']
+[widget type='pdfViewer' pdf='//raw.githubusercontent.com/mobilecoinofficial/developer-portal/master/info/bittertobetter.pdf']
