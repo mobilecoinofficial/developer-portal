@@ -1,5 +1,5 @@
 ---
-title: Make Bitcoin Better
+title: Bitcoin
 hide_title: true
 ---
 # Bitcoin: A Peer-to-Peer Electronic Cash System
