@@ -28,8 +28,12 @@
 				"url": "/overview/how-to-use-mobilecoin/activate"
 			},
 			{
-				"label": "Read the Whitepapers",
+				"label": "Whitepapers",
 				"url": "/overview/read-the-whitepapers/mobilecoin"
+			},
+			{
+				"label": "Network Architecture",
+				"url": "/overview/network/network"
 			},
 			{
 				"label": "Energy Usage",
@@ -38,18 +42,6 @@
 			{
 				"label": "Circulating Supply",
 				"url": "/overview/network/supply"
-			},
-			{
-				"label": "Validator Nodes",
-				"url": "/overview/network/validators"
-			},
-			{
-				"label": "Watcher Nodes",
-				"url": "/overview/network/watchers"
-			},
-			{
-				"label": "Byzantine Agreement",
-				"url": "/overview/network/byzantine-agreement"
 			}
   			 ]
 		},
