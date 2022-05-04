@@ -28,20 +28,20 @@
 				"url": "/overview/how-to-use-mobilecoin/activate"
 			},
 			{
+				"label": "How it Works",
+				"url": "/overview/network/network"
+			},
+			{
 				"label": "Whitepapers",
 				"url": "/overview/read-the-whitepapers/mobilecoin"
 			},
 			{
-				"label": "Network Architecture",
-				"url": "/overview/network/network"
+				"label": "Defense In Depth",
+				"url": "/overview/security/intro"
 			},
 			{
-				"label": "Energy Usage",
+				"label": "Carbon Negative",
 				"url": "/overview/network/energy"
-			},
-			{
-				"label": "Circulating Supply",
-				"url": "/overview/network/supply"
 			}
   			 ]
 		},
@@ -52,6 +52,10 @@
 			{
 				"label": "Full Service API",
 				"url": "/guides/full-service-api"
+			},
+			{
+				"label": "Electron Wallet",
+				"url": "/guides/ios-app-sdk"
 			},
 			{
 				"label": "Python CLI",
