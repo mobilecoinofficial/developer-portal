@@ -1,5 +1,5 @@
 ---
-title: Secure Enclaves (SGX)
+title: Secure Enclaves 
 ---
 At least some of the code running on the nodes that participate in consensus protocol must be able to view the complete transactions. However, the operators of these nodes don't need to see this data themselves. MobileCoin confines the sensitive transaction data and all of the code that operates on it in a "secure enclave", bringing the latest advancements in confidential computing to cryptocurrency. Secure Enclaves are a region of memory which provide encrypted code execution. 
 
