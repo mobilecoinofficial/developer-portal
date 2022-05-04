@@ -1,3 +1,6 @@
+---
+title: Decentralized Governance
+---
 Commerce on the Internet has come to rely almost exclusively on centralized financial institutions serving as trusted third parties to process electronic payments. Centralized payment networks are convenient, but they offer few data protection guarantees, meaning that users are exposed to security risks and abuse by intermediaries. 
 
 With the introduction of the bitcoin whitepaper by Satoshi Nakamoto in 2009, the world got its first taste of an peer-to-peer electronic payment system with decentralized governance. Satoshi’s vision for Bitcoin was “an electronic payment system based on cryptographic proof instead of trust, allowing any two willing parties to transact directly with each other without the need for a trusted third party.”  
