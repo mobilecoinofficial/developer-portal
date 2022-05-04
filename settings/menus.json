@@ -84,48 +84,12 @@
 			{
 				"label": "Improvement Proposals",
 				"url": "/overview/governance/proposals"
-			},
-			{
-				"label": "Developer Jobs",
-				"url": "https://boards.greenhouse.io/mobilecoin",
-				"newTab": true
 			}
   			 ]
 		},
 		{
 			"label": "community",
-			"url": "/community",
-			"submenu": [
-			{
-				"label": "Events",
-				"url": "/community"
-			},
-			{
-				"label": "Discord",
-				"url": "https://discord.com/invite/mobilecoin",
-				"newTab": true
-			},
-			{
-				"label": "Twitter",
-				"url": "https://twitter.com/mobilecoin",
-				"newTab": true
-			},
-			{
-				"label": "Blog",
-				"url": "https://mobilecoin.com/news",
-				"newTab": true
-			},
-			{
-				"label": "Art",
-				"url": "https://mobilecoin.art",
-				"newTab": true
-			},
-			{
-				"label": "Foundation",
-				"url": "https://mobilecoin.foundation/https://mobilecoin.foundation/",
-				"newTab": true
-			}
-  			 ]
+			"url": "/community"
 		},
 		{
 			"label": "jobs",
