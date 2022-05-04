@@ -1,5 +1,5 @@
 ---
-title: Layer 1: Open-Source Code
+title: Open-Source Code
 ---
 Open-source technology is publicly auditable. To build trusted systems, we must start with making our code public. In doing so, we support the community in verifying that the intention of our design matches our implementation. We can build secure software in a world where anyone can audit our technology, which is why we are committed to keeping our payments protocol open-source, now and forever.
 
