@@ -1,5 +1,5 @@
 ---
-title: CryptoNote
+title: CryptoNote Protocol
 ---
 In order for any payments network to function, it must be able to maintain a history of transactions. The MobileCoin Ledger
 describes how the MobileCoin Network stores payment records in a public ledger. The ledger is implemented as a 
