@@ -2,8 +2,7 @@
 title: Electron Wallet
 ---
 
-The Electron Wallet is a user-friendly desktop wallet with support for transaction history, encrypted contact book, gift codes,  payments, cold-wallet capabilities. The MobileCoin desktop wallet is available for [Mac](https://get.mobilecoin.com/mac), [Ubuntu](https://get.mobilecoin.com/ubuntu), [Redhat](https://get.mobilecoin.com/redhat) and [Linux](https://get.mobilecoin.com/linux) operating systems.
- Check out all of the [releases on our GitHub](https://github.com/mobilecoinofficial/desktop-wallet/releases).
+The Electron Wallet is a user-friendly desktop wallet with support for transaction history, encrypted contact book, gift codes,  payments, cold-wallet capabilities. The MobileCoin desktop wallet is available for [Mac](https://get.mobilecoin.com/mac), [Ubuntu](https://get.mobilecoin.com/ubuntu), [Redhat](https://get.mobilecoin.com/redhat) and [Linux](https://get.mobilecoin.com/linux) operating systems. Check out all of the [releases on our GitHub](https://github.com/mobilecoinofficial/desktop-wallet/releases).
 
 ### Show Me the Code
 
