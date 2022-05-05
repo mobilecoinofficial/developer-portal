@@ -19,15 +19,15 @@
 				"label": "Explain like I'm 5",
 				"url": "/overview/explain-like-i'm-five/start"
 			},
+		{
+			"label": "Whitepapers",
+			"url": "/overview/read-the-whitepapers/mobilecoin"
+		},
 			{
 				"label": "How to Buy",
 				"url": "/overview/how-to-buy-mobilecoin/in-a-web-browser"
 			},
 				
-		{
-			"label": "whitepaper",
-			"url": "/overview/read-the-whitepapers/mobilecoin"
-		},
 			{
 				"label": "How to Use",
 				"url": "/overview/how-to-use-mobilecoin/activate"
