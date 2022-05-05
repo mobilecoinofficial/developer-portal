@@ -15,7 +15,7 @@
 				"url": "/overview/read-the-whitepapers/mobilecoin"
 			},
 		{
-			"label": "guides",
+			"label": "learn",
 			"url": "/overview",
 			"submenu": [
 
@@ -46,9 +46,14 @@
   			 ]
 		},
 		{
-			"label": "developers",
+			"label": "build",
 			"url": "/guides",
 			"submenu": [
+			{
+			"label": "careers",
+			"url": "https://boards.greenhouse.io/mobilecoin",
+			"newTab": true
+			},
 			{
 				"label": "Full Service API",
 				"url": "/guides/full-service-api"
@@ -88,14 +93,10 @@
   			 ]
 		},
 		{
-			"label": "community",
+			"label": "connect",
 			"url": "/community"
-		},
-		{
-			"label": "jobs",
-			"url": "https://boards.greenhouse.io/mobilecoin",
-			"newTab": true
 		}
+		
 	],
 	"foot": [
 	    {
