@@ -1,5 +1,5 @@
 ---
-title: "Buy MOB with Mixin App"
+title: "Buy MOB with Mixin Wallet"
 ---
 Buying MobileCoin is as easy as following this guide on how to use MixSwap and the Mixin mobile app. MixSwap is an aggregator for 3 decentralized exchanges that allow you to buy MobileCoin by "swapping" Bitcoin, USDT, and other currencies for MobileCoin. To swap with MixSwap, you need to use Mixin. Mixin is a mobile app with a built-in crypto wallet. Like Signal, Mixin supports messaging your contacts with end-to-end encryption and is built on the Signal protocol. 
 
