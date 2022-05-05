@@ -10,10 +10,6 @@
 			"label": "apps",
 			"url": "/ecosystem"
 		},
-			{
-				"label": "whitepapers",
-				"url": "/overview/read-the-whitepapers/mobilecoin"
-			},
 		{
 			"label": "learn",
 			"url": "/overview",
@@ -27,6 +23,11 @@
 				"label": "How to Buy",
 				"url": "/overview/how-to-buy-mobilecoin/in-a-web-browser"
 			},
+				
+		{
+			"label": "whitepaper",
+			"url": "/overview/read-the-whitepapers/mobilecoin"
+		},
 			{
 				"label": "How to Use",
 				"url": "/overview/how-to-use-mobilecoin/activate"
@@ -50,12 +51,12 @@
 			"url": "/guides",
 			"submenu": [
 			{
-			"label": "careers",
+			"label": "Careers",
 			"url": "https://boards.greenhouse.io/mobilecoin",
 			"newTab": true
 			},
 			{
-				"label": "Full Service API",
+				"label": "JSON RPC API",
 				"url": "/guides/full-service-api"
 			},
 			{
