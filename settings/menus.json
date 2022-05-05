@@ -73,10 +73,9 @@
 			{
 				"label": "Improvement Proposals",
 				"url": "/overview/governance/proposals"
-			},
+			}
   			 ]
 		},
-		
 		{
 			"label": "community",
 			"url": "/community"
@@ -107,7 +106,8 @@
 			},	
 			{
 				"label": "Get Help",
-				"url": "http://mobilecoin.chat"
+				"url": "http://mobilecoin.chat",
+				"newTab": true
 			}
   			 ]
 		}
