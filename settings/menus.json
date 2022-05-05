@@ -7,64 +7,20 @@
 	},
 	"main": [
 		{
-			"label": "apps",
-			"url": "/ecosystem"
-		},
-		{
-			"label": "learn",
-			"url": "/overview",
-			"submenu": [
-
-			{
-				"label": "Explain like I'm 5",
-				"url": "/overview/explain-like-i'm-five/start"
-			},
-		{
-			"label": "Whitepapers",
-			"url": "/overview/read-the-whitepapers/mobilecoin"
-		},
-			{
-				"label": "How to Buy",
-				"url": "/overview/how-to-buy-mobilecoin/in-a-web-browser"
-			},
-				
-			{
-				"label": "How to Use",
-				"url": "/overview/how-to-use-mobilecoin/activate"
-			},
-			{
-				"label": "How it Works",
-				"url": "/overview/network/network"
-			},
-			{
-				"label": "Defense In Depth",
-				"url": "/overview/security/intro"
-			},
-			{
-				"label": "Carbon Negative",
-				"url": "/overview/network/energy"
-			}
-  			 ]
-		},
-		{
-			"label": "build",
+			"label": "developers",
 			"url": "/guides",
 			"submenu": [
+			
 			{
-			"label": "Careers",
-			"url": "https://boards.greenhouse.io/mobilecoin",
-			"newTab": true
-			},
-			{
-				"label": "JSON RPC API",
+				"label": "Payments API",
 				"url": "/guides/full-service-api"
 			},
 			{
-				"label": "Electron Wallet",
+				"label": "Example Wallet",
 				"url": "/guides/ios-app-sdk"
 			},
 			{
-				"label": "Python CLI",
+				"label": "Command Line",
 				"url": "/guides/python_cli"
 			},
 			{
@@ -84,18 +40,76 @@
 				"url": "/overview/governance/bugs"
 			},
 			{
+				"label": "See available positions",
+				"url": "https://boards.greenhouse.io/mobilecoin",
+				"newTab": true
+			}
+  			 ]
+		},
+		
+			"label": "network",
+			"url": "/overview",
+			"submenu": [
+			{
+				"label": "Whitepapers",
+				"url": "/overview/read-the-whitepapers/mobilecoin"
+			},
+			{
+				"label": "Network Overview",
+				"url": "/overview/network/network"
+			},
+			{
+				"label": "Defense In Depth",
+				"url": "/overview/security/intro"
+			},
+			{
+				"label": "Carbon Negative",
+				"url": "/overview/network/energy"
+			},
+			{
 				"label": "Roadmap",
 				"url": "/overview/governance/roadmap"
 			},
 			{
 				"label": "Improvement Proposals",
 				"url": "/overview/governance/proposals"
-			}
+			},
   			 ]
 		},
+		
 		{
-			"label": "connect",
+			"label": "community",
 			"url": "/community"
+		},
+		{
+			"label": "ecosystem",
+			"url": "/ecosystem"
+		},
+		{
+			"label": "get started",
+			"url": "/overview",
+			"submenu": [
+			{
+				"label": "Explain like I'm 5",
+				"url": "/overview/explain-like-i'm-five/start"
+			},
+			{
+				"label": "How to Buy MOB",
+				"url": "/overview/how-to-buy-mobilecoin/in-a-web-browser"
+			},	
+			{
+				"label": "How to Use MOB",
+				"url": "/overview/how-to-use-mobilecoin/activate"
+			},
+			{
+				"label": "Frequently Asked Questions",
+				"url": "/overview/faq"
+			},	
+			{
+				"label": "Get Help",
+				"url": "http://mobilecoin.chat"
+			}
+  			 ]
 		}
 		
 	],
@@ -112,7 +126,7 @@
 		},
 		{
 			"label": "faq",
-			"url": "https://developers.mobilecoin.com/overview/what-is-mobilecoin"
+			"url": "https://developers.mobilecoin.com/overview/faq"
 		},
 		{
 			"label": "privacy stance",
