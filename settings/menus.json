@@ -10,6 +10,10 @@
 			"label": "apps",
 			"url": "/ecosystem"
 		},
+			{
+				"label": "whitepapers",
+				"url": "/overview/read-the-whitepapers/mobilecoin"
+			},
 		{
 			"label": "guides",
 			"url": "/overview",
@@ -30,10 +34,6 @@
 			{
 				"label": "How it Works",
 				"url": "/overview/network/network"
-			},
-			{
-				"label": "Whitepapers",
-				"url": "/overview/read-the-whitepapers/mobilecoin"
 			},
 			{
 				"label": "Defense In Depth",
