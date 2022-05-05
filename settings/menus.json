@@ -46,7 +46,7 @@
 			}
   			 ]
 		},
-		
+		{
 			"label": "network",
 			"url": "/overview",
 			"submenu": [
