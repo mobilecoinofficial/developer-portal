@@ -7,21 +7,74 @@
 	},
 	"main": [
 		{
-			"label": "developers",
+			"label": "Use MobileCoin",
+			"url": "/overview/how-to-use-mobilecoin/activate",
+			"submenu": [	
+			{
+				"label": "Get your Wallet",
+				"url": "/overview/how-to-use-mobilecoin/activate"
+			},
+			{
+				"label": "How to buy MobileCoin",
+				"url": "/overview/how-to-buy-mobilecoin/fennec"
+			},
+			{
+				"label": "See more apps with MOB",
+				"url": "/ecosystem"
+			}
+				
+  			 ]
+		},
+		{
+			"label": "Learn",
+			"url": "/overview",
+			"submenu": [
+			{
+				"label": "Explain like I'm 5",
+				"url": "/overview/explain-like-i'm-five/start"
+			},
+			{
+				"label": "Whitepapers",
+				"url": "/overview/read-the-whitepapers/mobilecoin"
+			},
+			{
+				"label": "Defense In Depth",
+				"url": "/overview/security/intro"
+			},
+			{
+				"label": "Network Overview",
+				"url": "/overview/network/network"
+			},
+			{
+				"label": "Sustainability",
+				"url": "/overview/network/energy"
+			},
+			{
+				"label": "Foundation Roadmap",
+				"url": "/overview/governance/roadmap"
+			},
+			{
+				"label": "MobileCoin Improvement Proposals",
+				"url": "/overview/governance/proposals"
+			},
+			{
+				"label": "Frequently Asked Questions",
+				"url": "/overview/faq"
+			}	
+  			 ]
+		},
+		{
+			"label": "Developers",
 			"url": "/guides",
 			"submenu": [
-			
+			{
+				"label": "Join our Discord",
+				"url": "http://mobilecoin.chat",
+				"newTab": true
+			},
 			{
 				"label": "Payments API",
 				"url": "/guides/full-service-api"
-			},
-			{
-				"label": "Example Wallet",
-				"url": "/guides/ios-app-sdk"
-			},
-			{
-				"label": "Command Line",
-				"url": "/guides/python_cli"
 			},
 			{
 				"label": "iOS SDK",
@@ -32,8 +85,16 @@
 				"url": "/guides/android-app-sdk"
 			},
 			{
-				"label": "Signal Bots",
+				"label": "Signal Bot SDK",
 				"url": "/guides/signal-sdk/signal"
+			},
+			{
+				"label": "Desktop Wallet",
+				"url": "/guides/ios-app-sdk"
+			},
+			{
+				"label": "Command Line",
+				"url": "/guides/python_cli"
 			},
 			{
 				"label": "Bug Bounties",
@@ -47,65 +108,13 @@
   			 ]
 		},
 		{
-			"label": "docs",
-			"url": "/overview",
-			"submenu": [
-			{
-				"label": "Explain like I'm 5",
-				"url": "/overview/explain-like-i'm-five/start"
-			},
-			{
-				"label": "How to Buy MOB",
-				"url": "/overview/how-to-buy-mobilecoin/fennec"
-			},	
-			{
-				"label": "How to Use MOB",
-				"url": "/overview/how-to-use-mobilecoin/activate"
-			},
-			{
-				"label": "Frequently Asked Questions",
-				"url": "/overview/faq"
-			},	
-			{
-				"label": "Get Help",
-				"url": "http://mobilecoin.chat",
-				"newTab": true
-			},
-			{
-				"label": "Whitepapers",
-				"url": "/overview/read-the-whitepapers/mobilecoin"
-			},
-			{
-				"label": "Network Overview",
-				"url": "/overview/network/network"
-			},
-			{
-				"label": "Defense In Depth",
-				"url": "/overview/security/intro"
-			},
-			{
-				"label": "Carbon Negative",
-				"url": "/overview/network/energy"
-			},
-			{
-				"label": "Roadmap",
-				"url": "/overview/governance/roadmap"
-			},
-			{
-				"label": "Improvement Proposals",
-				"url": "/overview/governance/proposals"
-			}
-  			 ]
-		},
-		{
-			"label": "community",
+			"label": "Community",
 			"url": "/community"
 		},
 		{
-			"label": "apps",
+			"label": "Apps",
 			"url": "/ecosystem"
 		}
-		
 	],
 	"foot": [
 	    {
