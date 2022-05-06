@@ -47,9 +47,30 @@
   			 ]
 		},
 		{
-			"label": "network",
+			"label": "docs",
 			"url": "/overview",
 			"submenu": [
+			{
+				"label": "Explain like I'm 5",
+				"url": "/overview/explain-like-i'm-five/start"
+			},
+			{
+				"label": "How to Buy MOB",
+				"url": "/overview/how-to-buy-mobilecoin/in-a-web-browser"
+			},	
+			{
+				"label": "How to Use MOB",
+				"url": "/overview/how-to-use-mobilecoin/activate"
+			},
+			{
+				"label": "Frequently Asked Questions",
+				"url": "/overview/faq"
+			},	
+			{
+				"label": "Get Help",
+				"url": "http://mobilecoin.chat",
+				"newTab": true
+			},
 			{
 				"label": "Whitepapers",
 				"url": "/overview/read-the-whitepapers/mobilecoin"
@@ -83,33 +104,6 @@
 		{
 			"label": "ecosystem",
 			"url": "/ecosystem"
-		},
-		{
-			"label": "get started",
-			"url": "/overview",
-			"submenu": [
-			{
-				"label": "Explain like I'm 5",
-				"url": "/overview/explain-like-i'm-five/start"
-			},
-			{
-				"label": "How to Buy MOB",
-				"url": "/overview/how-to-buy-mobilecoin/in-a-web-browser"
-			},	
-			{
-				"label": "How to Use MOB",
-				"url": "/overview/how-to-use-mobilecoin/activate"
-			},
-			{
-				"label": "Frequently Asked Questions",
-				"url": "/overview/faq"
-			},	
-			{
-				"label": "Get Help",
-				"url": "http://mobilecoin.chat",
-				"newTab": true
-			}
-  			 ]
 		}
 		
 	],
