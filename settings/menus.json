@@ -9,17 +9,17 @@
 		{
 			"label": "Use MobileCoin",
 			"url": "/overview/how-to-use-mobilecoin/activate",
-			"submenu": [	
+			"submenu": [
 			{
 				"label": "Get your Wallet",
 				"url": "/overview/how-to-use-mobilecoin/activate"
 			},
 			{
-				"label": "How to buy MobileCoin",
+				"label": "Get MOB",
 				"url": "/overview/how-to-buy-mobilecoin/fennec"
 			},
 			{
-				"label": "See more apps with MOB",
+				"label": "See the ecosystem",
 				"url": "/ecosystem"
 			}
 				
@@ -50,16 +50,20 @@
 				"url": "/overview/network/energy"
 			},
 			{
-				"label": "Foundation Roadmap",
+				"label": "Validators",
+				"url": "/overview/network/validators"
+			},
+			{
+				"label": "Roadmap",
 				"url": "/overview/governance/roadmap"
 			},
 			{
-				"label": "MobileCoin Improvement Proposals",
+				"label": "Improvement Proposals",
 				"url": "/overview/governance/proposals"
 			},
 			{
-				"label": "Frequently Asked Questions",
-				"url": "/overview/faq"
+				"label": "Ask Us Anything",
+				"url": "/community"
 			}	
   			 ]
 		},
