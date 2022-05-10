@@ -3,8 +3,11 @@ title: Get your Wallet
 ---
 #### **Get the Signal App**
 Make sure you have the latest Signal app on your phone. MobileCoin powers the crypto wallet in the Signal app for iOS and Android. 
-[<img alt="alt_text" width="200px" src="/images/apple.webp" />](https://signal.org/install/)
-[<img alt="alt_text" width="200px" src="/images/google.webp" />](https://signal.org/install/)
+
+<a href="https://signal.org/install/">
+ <img src="/native_images/appstore.svg" width="135px" /><img src="/native_images/playstore.png" width="135px" />
+ </a>
+ 
 
 * * * * *
 
