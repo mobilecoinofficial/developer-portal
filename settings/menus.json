@@ -21,6 +21,10 @@
 			{
 				"label": "See all the apps",
 				"url": "/ecosystem"
+			},
+			{
+				"label": "Ask for help",
+				"url": "/community"
 			}
 				
   			 ]
@@ -38,7 +42,7 @@
 				"url": "/overview/read-the-whitepapers/mobilecoin"
 			},
 			{
-				"label": "Defense In Depth",
+				"label": "Defense in Depth",
 				"url": "/overview/security/intro"
 			},
 			{
