@@ -34,7 +34,6 @@
 				"label": "Run a watcher",
 				"url": "/overview/network/watchers"
 			}
-				
   			 ]
 		},
 		{
@@ -110,10 +109,6 @@
 				"url": "/guides/signal-sdk/signal"
 			},
 			{
-				"label": "Desktop Wallet",
-				"url": "/guides/ios-app-sdk"
-			},
-			{
 				"label": "Command Line",
 				"url": "/guides/python_cli"
 			},
@@ -122,7 +117,7 @@
 				"url": "/overview/governance/bugs"
 			},
 			{
-				"label": "Jobs",
+				"label": "Work @ MobileCoin",
 				"url": "https://boards.greenhouse.io/mobilecoin",
 				"newTab": true
 			}
