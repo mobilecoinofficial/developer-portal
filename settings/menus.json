@@ -23,16 +23,21 @@
 				"url": "/ecosystem"
 			},
 			{
-				"label": "Ask for help",
-				"url": "/community"
+				"label": "Get Support",
+				"url": "/#community"
 			}
 				
   			 ]
 		},
 		{
 			"label": "Learn",
-			"url": "/overview",
+			"url": "/#learn",
 			"submenu": [
+				
+			{
+				"label": "Intro to MobileCoin",
+				"url": "/#intro"
+			},
 			{
 				"label": "Explain like I'm 5",
 				"url": "/overview/explain-like-i'm-five/start"
@@ -73,7 +78,7 @@
 		},
 		{
 			"label": "Developers",
-			"url": "/guides",
+			"url": "/#developers",
 			"submenu": [
 			{
 				"label": "Join our Discord",
@@ -117,7 +122,7 @@
 		},
 		{
 			"label": "Community",
-			"url": "/community"
+			"url": "/#community"
 		}
 	],
 	"foot": [
