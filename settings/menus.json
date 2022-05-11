@@ -66,20 +66,12 @@
 				"url": "/overview/network/energy"
 			},
 			{
-				"label": "Validators",
-				"url": "/overview/network/validators"
-			},
-			{
 				"label": "Roadmap",
 				"url": "/overview/governance/roadmap"
 			},
 			{
-				"label": "Improvement Proposals",
-				"url": "/overview/governance/proposals"
-			},
-			{
 				"label": "Ask Us Anything",
-				"url": "/community"
+				"url": "/#community"
 			}	
   			 ]
 		},
@@ -115,6 +107,10 @@
 			{
 				"label": "Bug Bounties",
 				"url": "/overview/governance/bugs"
+			},
+			{
+				"label": "Improvement Proposals",
+				"url": "/overview/governance/proposals"
 			},
 			{
 				"label": "Work @ MobileCoin",
