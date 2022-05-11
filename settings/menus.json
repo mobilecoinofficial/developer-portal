@@ -8,23 +8,31 @@
 	"main": [
 		{
 			"label": "Use MobileCoin",
-			"url": "/overview/how-to-use-mobilecoin/activate",
+			"url": "/#ecosystem",
 			"submenu": [
 			{
 				"label": "Get your Wallet",
 				"url": "/overview/how-to-use-mobilecoin/activate"
 			},
 			{
-				"label": "Get MobileCoin",
+				"label": "Get $MOB",
 				"url": "/overview/how-to-buy-mobilecoin/fennec"
 			},
 			{
-				"label": "See all the apps",
+				"label": "More awesome apps",
 				"url": "/ecosystem"
 			},
 			{
-				"label": "Get Support",
+				"label": "Get support",
 				"url": "/#community"
+			},
+			{
+				"label": "Run a validator",
+				"url": "/overview/network/validators"
+			},
+			{
+				"label": "Run a watcher",
+				"url": "/overview/network/watchers"
 			}
 				
   			 ]
