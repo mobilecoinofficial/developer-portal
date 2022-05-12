@@ -113,7 +113,7 @@
 			"submenu": [
 			{
 				"label": "Online communities",
-				"url": "/community",
+				"url": "/community"
 			},
 			{
 				"label": "Events",
