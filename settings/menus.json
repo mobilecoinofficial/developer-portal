@@ -14,24 +14,21 @@
 				"url": "/overview/how-to-use-mobilecoin/activate"
 			},
 			{
-				"label": "Get $MOB",
+				"label": "Get MOB",
 				"url": "/overview/how-to-buy-mobilecoin/fennec"
 			},
 			{
-				"label": "More awesome apps",
+				"label": "See all the apps",
 				"url": "/ecosystem"
 			},
 			{
 				"label": "Get support",
-				"url": "/#community"
+				"url": "https://intercom.help/mobilecoin/en/",
+				"newTab": true
 			},
 			{
 				"label": "Run a validator",
 				"url": "/overview/network/validators"
-			},
-			{
-				"label": "Run a watcher",
-				"url": "/overview/network/watchers"
 			}
   			 ]
 		},
@@ -77,11 +74,6 @@
 			"label": "Developers",
 			"submenu": [
 			{
-				"label": "Join our Discord",
-				"url": "http://mobilecoin.chat",
-				"newTab": true
-			},
-			{
 				"label": "Payments API",
 				"url": "/guides/full-service-api"
 			},
@@ -110,7 +102,7 @@
 				"url": "/overview/governance/proposals"
 			},
 			{
-				"label": "Work @ MobileCoin",
+				"label": "Jobs at MobileCoin",
 				"url": "https://boards.greenhouse.io/mobilecoin",
 				"newTab": true
 			}
@@ -118,7 +110,25 @@
 		},
 		{
 			"label": "Community",
-			"url": "/#community"
+			"submenu": [
+			{
+				"label": "Online communities",
+				"url": "/community",
+			},
+			{
+				"label": "Events",
+				"url": "/community/#events"
+			},
+			{
+				"label": "Ecosystem",
+				"url": "/ecosystem"
+			},
+			{
+				"label": "MobileCoin Support",
+				"url": "https://intercom.help/mobilecoin/en/",
+				"newTab": true
+			}
+  			 ]
 		}
 	],
 	"foot": [
