@@ -129,6 +129,10 @@
 				"newTab": true
 			}
   			 ]
+		},
+		{
+				"label": "Blog",
+				"url": "/#news"
 		}
 	],
 	"foot": [
