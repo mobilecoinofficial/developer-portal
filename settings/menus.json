@@ -116,6 +116,10 @@
 				"url": "/community/#events"
 			},
 			{
+				"label": "Read the Blog",
+				"url": "/#news"
+			},
+			{
 				"label": "Ecosystem",
 				"url": "/ecosystem"
 			},
@@ -125,10 +129,6 @@
 				"newTab": true
 			}
   			 ]
-		},
-		{
-				"label": "Blog",
-				"url": "/#news"
 		}
 	],
 	"foot": [
