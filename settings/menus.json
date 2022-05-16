@@ -37,10 +37,6 @@
 			"submenu": [
 				
 			{
-				"label": "Intro to MobileCoin",
-				"url": "/#intro"
-			},
-			{
 				"label": "Explain like I'm 5",
 				"url": "/overview/explain-like-i'm-five/start"
 			},
