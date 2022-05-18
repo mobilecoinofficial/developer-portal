@@ -1,13 +1,7 @@
 ---
 title:  Life of a Transaction
 ---
-First, let's look at what a regular cash/debit transaction looks like. Have you ever tried to spend $20 at the corner store and had the cashier put a mark on the bill? That process is designed to verify that your money isn't fake. Throughout the life of a dollar, there are many verification checkpoints. In the United States, the Federal Reserve prints bills with unique serial numbers and hard-to-counterfeit physical properties, including UV-light responsive ink, microscopic markings, and even the special paper that dollars are printed on. 
-
-Once in circulation, money is deposited into banks, where customers can save or spend it. At every step of the way, transaction checkpoints verify that the dollar truly exists. Yet, all of these checkpoints depend on trust. What if the cashier doesn't trust their marker? All of a sudden, your money's no good. What if you sell something on eBay and someone complains to PayPal about your shipment, causing a refund? All of a sudden, your money is gone. In traditional finance, you need to trust the institutions handling your money.
-
-With cryptocurrency, money exists in a publicly verified record as 'Unspent Transaction Outputs,' each with a unique serial number, and hard-to-counterfeit cryptographic properties. All transaction verifications happen in real-time within seconds. 
-
-So how does MobileCoin enable this to happen so quickly between two smartphones? The principles are simple, even if the tech is wildly complex. Let's dive in.
+With cryptocurrency, money exists in a publicly verified record as 'Unspent Transaction Outputs,' each with a unique serial number, and hard-to-counterfeit cryptographic properties. All transaction verifications happen in real-time within seconds. Exactly how does MobileCoin enable this to happen so quickly between two smartphones? The principles are simple, even if the tech is wildly complex. Let's dive in.
 
 The Life of a Transaction
 =========================
