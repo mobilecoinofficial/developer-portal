@@ -14,21 +14,12 @@
 				"url": "/overview/how-to-use-mobilecoin/activate"
 			},
 			{
-				"label": "Get MOB",
+				"label": "Buy MobileCoin",
 				"url": "/overview/how-to-buy-mobilecoin/fennec"
 			},
 			{
 				"label": "See all the apps",
 				"url": "/ecosystem"
-			},
-			{
-				"label": "Get support",
-				"url": "https://intercom.help/mobilecoin/en/",
-				"newTab": true
-			},
-			{
-				"label": "Run a validator",
-				"url": "/overview/network/validators"
 			}
   			 ]
 		},
@@ -116,17 +107,21 @@
 				"url": "/community/#events"
 			},
 			{
-				"label": "Read the Blog",
-				"url": "/#news"
-			},
-			{
 				"label": "Ecosystem",
 				"url": "/ecosystem"
 			},
 			{
-				"label": "MobileCoin Support",
+				"label": "Validators",
+				"url": "/overview/network/validators"
+			},
+			{
+				"label": "Support",
 				"url": "https://intercom.help/mobilecoin/en/",
 				"newTab": true
+			},
+			{
+				"label": "Blog",
+				"url": "/#news"
 			}
   			 ]
 		}
