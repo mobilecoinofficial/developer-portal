@@ -100,15 +100,11 @@
 			"submenu": [
 			{
 				"label": "Online communities",
-				"url": "/community"
+				"url": "/#community"
 			},
 			{
 				"label": "Events",
 				"url": "/community/#events"
-			},
-			{
-				"label": "Ecosystem",
-				"url": "/ecosystem"
 			},
 			{
 				"label": "Validators",
