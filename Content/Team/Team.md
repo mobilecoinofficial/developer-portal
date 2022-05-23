@@ -1,32 +1,16 @@
 #### People you may know
 
--   ![](https://media-exp1.licdn.com/dms/image/C5616AQG8Zu8y_uGttw/profile-displaybackgroundimage-shrink_200_800/0/1595360521858?e=1658966400&v=beta&t=kOtmF0_ut_-AuNdvCVC77gYxAd3q2gdcX4agGXyJlDo)
-
     [![Sara Drakeley's profile picture](https://media-exp1.licdn.com/dms/image/C5603AQEp17HSJhGABA/profile-displayphoto-shrink_200_200/0/1589592680577?e=1658966400&v=beta&t=RKKeg01ScrioDY5VG-hMNkF9fVjbANbTWi6qdNYRtrw)](https://www.linkedin.com/in/sara-drakeley/)
 
-    [
-
-    Sara Drakeley H.
-
-    ](https://www.linkedin.com/in/sara-drakeley/)
-
-    2nd degree connection- 2nd
+    [Sara Drakeley](https://www.linkedin.com/in/sara-drakeley/)
 
     CTO at MobileCoin
 
     ![Jenny's profile picture](https://media-exp1.licdn.com/dms/image/C4D03AQGLbdRnKkX4Zw/profile-displayphoto-shrink_200_200/0/1564079735428?e=1658966400&v=beta&t=YMoree7VKDfrEgK_1QPsqeNgtkB672sy-zzcN-hhpJ0) 40 shared connections
 
--   ![](https://media-exp1.licdn.com/dms/image/C5616AQGfGu1JAwW9vg/profile-displaybackgroundimage-shrink_200_800/0/1607883705692?e=1658966400&v=beta&t=PDp40hRKQQbrcadq8Y7YoFjOGg95cFVdU3yCo5crMuE)
-
     [![Anastasia's profile picture](https://media-exp1.licdn.com/dms/image/C5603AQGIflD5tcxTpQ/profile-displayphoto-shrink_200_200/0/1607883548795?e=1658966400&v=beta&t=FFX_x_VcoS0tc0rTLQHRKcQSbYa-jxqYYetZqRt_7lA)](https://www.linkedin.com/in/anastasiahanan/)
 
-    [
-
-    Anastasia Hanan, M.S., M.B.A (she/her)
-
-    ](https://www.linkedin.com/in/anastasiahanan/)
-
-    2nd degree connection- 2nd
+    [Anastasia Hanan](https://www.linkedin.com/in/anastasiahanan/)
 
     Senior User Experience Researcher
 
