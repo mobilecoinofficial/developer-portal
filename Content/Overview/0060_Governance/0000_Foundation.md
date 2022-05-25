@@ -28,7 +28,3 @@ Committees
 -   ![](https://mobilecoin.foundation/wp-content/themes/mobilecoin-foundation/src/img/person_icon.png)Tiffiniy Cheng
 -   ![](https://mobilecoin.foundation/wp-content/themes/mobilecoin-foundation/src/img/person_icon.png)Faisal Saeed AlMutar
 
-Foundation Partners
--------------------
-[![The Long Now Foundation](https://mobilecoin.foundation/wp-content/uploads/2021/07/The_Long_Now_logo.png)](https://longnow.org/)[![DreamHost](https://mobilecoin.foundation/wp-content/uploads/2021/07/Dreamhost_Logo.png)](https://www.dreamhost.com/)[![BlockDaemon](https://mobilecoin.foundation/wp-content/uploads/2021/07/blockdaemon_logo.png)](https://blockdaemon.com/)[![Ideas Beyond Borders](https://mobilecoin.foundation/wp-content/uploads/2021/07/Ideas_beyond_borders_logo.png)](https://www.ideasbeyondborders.org/)[![Community Arts Stabilization Trust](https://mobilecoin.foundation/wp-content/uploads/2021/07/CAST_logo.png)](https://cast-sf.org/)[![Fight for the Future](https://mobilecoin.foundation/wp-content/uploads/2021/07/FFTF_logo.png)](https://www.fightforthefuture.org/)
-
