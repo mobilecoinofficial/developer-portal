@@ -80,14 +80,6 @@
 			{
 				"label": "Circulating Supply",
 				"url": "/overview/network/supply/"
-			},
-			{
-				"label": "FAQ",
-				"url": "/overview/faq/"
-			},
-			{
-				"label": "Ask Us Anything",
-				"url": "/#community"
 			}
   			 ]
 		},
