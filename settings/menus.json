@@ -11,7 +11,7 @@
 			"url": "/overview/how-to-use-mobilecoin/activate",
 			"submenu": [
 			{
-				"label": "Get your Wallet",
+				"label": "Pay with Signal",
 				"url": "/overview/how-to-use-mobilecoin/activate"
 			},
 			{
@@ -19,8 +19,25 @@
 				"url": "/overview/how-to-buy-mobilecoin/fennec"
 			},
 			{
-				"label": "See all the apps",
-				"url": "/ecosystem"
+				"label": "MobileCoin wallets",
+				"url": "/ecosystem/#wallets"
+			},
+			{
+				"label": "Decentralized exchanges",
+				"url": "/ecosystem/#swaps"
+			},
+			{
+				"label": "Trading platforms",
+				"url": "/ecosystem/#trading"
+			},
+			{
+				"label": "Create art with Imogen",
+				"url": "/ecosystem/imogen"
+			},
+			{
+				"label": "Get support",
+				"url": "https://intercom.help/mobilecoin/en/",
+				"newTab": true
 			}
   			 ]
 		},
@@ -28,14 +45,17 @@
 			"label": "Learn",
 			"url": "/#learn",
 			"submenu": [
-				
 			{
 				"label": "Explain like I'm 5",
 				"url": "/overview/explain-like-i'm-five/start"
 			},
 			{
-				"label": "Whitepapers",
+				"label": "MobileCoin Whitepaper",
 				"url": "/overview/read-the-whitepapers/mobilecoin"
+			},
+			{
+				"label": "Mechanics of MobileCoin",
+				"url": "/overview/read-the-whitepapers/mechanics"
 			},
 			{
 				"label": "Defense in Depth",
@@ -46,27 +66,51 @@
 				"url": "/overview/network/network"
 			},
 			{
-				"label": "Sustainability",
+				"label": "Validators",
+				"url": "/overview/network/validators"
+			},
+			{
+				"label": "Watchers",
+				"url": "/overview/network/watchers"
+			},
+			{
+				"label": "Byzantine Agreement",
+				"url": "/network/byzantine-agreement/"
+			},
+			{
+				"label": "Energy Usage",
 				"url": "/overview/network/energy"
+			},
+			{
+				"label": "Circulating Supply",
+				"url": "/overview/network/supply/"
+			},
+			{
+				"label": "Governance",
+				"url": "/overview/governance/foundation/"
+			},
+			{
+				"label": "Proposal Process",
+				"url": "/overview/governance/proposals/"
 			},
 			{
 				"label": "Roadmap",
 				"url": "/overview/governance/roadmap"
 			},
 			{
+				"label": "FAQ",
+				"url": "/overview/faq/"
+			},
+			{
 				"label": "Ask Us Anything",
 				"url": "/#community"
-			}	
+			}
   			 ]
 		},
 		{
 			"label": "Developers",
 			"url": "/#developers",
 			"submenu": [
-			{
-				"label": "Payments API",
-				"url": "/guides/full-service-api"
-			},
 			{
 				"label": "iOS SDK",
 				"url": "/guides/ios-app-sdk"
@@ -80,8 +124,16 @@
 				"url": "/guides/signal-sdk/signal"
 			},
 			{
-				"label": "Command Line",
+				"label": "Payments API",
+				"url": "/guides/full-service-api"
+			},
+			{
+				"label": "Python CLI",
 				"url": "/guides/python_cli"
+			},
+			{
+				"label": "Electron Wallet",
+				"url": "/guides/wallet/"
 			},
 			{
 				"label": "Bug Bounties",
@@ -92,7 +144,7 @@
 				"url": "/overview/governance/proposals"
 			},
 			{
-				"label": "Jobs at MobileCoin",
+				"label": "Careers at MobileCoin",
 				"url": "https://boards.greenhouse.io/mobilecoin",
 				"newTab": true
 			}
@@ -103,25 +155,28 @@
 			"url": "/#community",
 			"submenu": [
 			{
-				"label": "Online communities",
+				"label": "Join the community",
 				"url": "/#community"
 			},
 			{
-				"label": "Events",
-				"url": "/community/#events"
+				"label": "Upcoming events",
+				"url": "/#events"
 			},
 			{
-				"label": "Validators",
+				"label": "Podcasts on privacy",
+				"url": "/media/podcasts"
+			},
+			{
+				"label": "Meet MobileCoin",
+				"url": "https://developers.mobilecoin.com/media/videos/#meet-mobilecoin"
+			},
+			{
+				"label": "Run a validator",
 				"url": "/overview/network/validators"
 			},
 			{
-				"label": "Support",
-				"url": "https://intercom.help/mobilecoin/en/",
-				"newTab": true
-			},
-			{
 				"label": "Blog",
-				"url": "/#news"
+				"url": "https://mobilecoin.com/news"
 			}
   			 ]
 		}
