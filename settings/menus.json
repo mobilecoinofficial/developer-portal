@@ -82,18 +82,6 @@
 				"url": "/overview/network/supply/"
 			},
 			{
-				"label": "Governance",
-				"url": "/overview/governance/foundation/"
-			},
-			{
-				"label": "Proposal Process",
-				"url": "/overview/governance/proposals/"
-			},
-			{
-				"label": "Roadmap",
-				"url": "/overview/governance/roadmap"
-			},
-			{
 				"label": "FAQ",
 				"url": "/overview/faq/"
 			},
@@ -132,20 +120,35 @@
 				"url": "/guides/wallet/"
 			},
 			{
-				"label": "Bug Bounties",
-				"url": "/overview/governance/bugs"
-			},
-			{
-				"label": "Improvement Proposals",
-				"url": "/overview/governance/proposals"
-			},
-			{
 				"label": "Careers at MobileCoin",
 				"url": "https://boards.greenhouse.io/mobilecoin",
 				"newTab": true
 			}
   			 ]
 		},
+		{
+			"label": "Roadmap",
+			"url": "/overview/governance/roadmap",
+			"submenu": [
+			{
+				"label": "Foundation Roadmap",
+				"url": "/overview/governance/roadmap"
+			},
+			{
+				"label": "Improvement Proposals",
+				"url": "/overview/governance/proposals/"
+			},
+			{
+				"label": "About the Foundation",
+				"url": "/overview/governance/foundation/"
+			},
+			{
+				"label": "Technical Committee",
+				"url": "/overview/governance/proposals/"
+			}
+  			 ]
+		},
+		
 		{
 			"label": "Community",
 			"url": "/#community",
