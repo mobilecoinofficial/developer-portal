@@ -19,16 +19,12 @@
 				"url": "/overview/how-to-buy-mobilecoin/fennec"
 			},
 			{
-				"label": "MobileCoin wallets",
+				"label": "Wallets",
 				"url": "/ecosystem/#wallets"
 			},
 			{
-				"label": "Decentralized exchanges",
+				"label": "Exchanges",
 				"url": "/ecosystem/#swaps"
-			},
-			{
-				"label": "Trading platforms",
-				"url": "/ecosystem/#trading"
 			},
 			{
 				"label": "Create art with Imogen",
