@@ -124,11 +124,11 @@
 			"submenu": [
 			{
 				"label": "Foundation Roadmap",
-				"url": "/overview/governance/roadmap"
+				"url": "/overview/governance/roadmap/"
 			},
 			{
 				"label": "Improvement Proposals",
-				"url": "/overview/governance/proposals/"
+				"url": "/overview/governance/process/"
 			},
 			{
 				"label": "About the Foundation",
@@ -136,7 +136,7 @@
 			},
 			{
 				"label": "Technical Committee",
-				"url": "/overview/governance/proposals/"
+				"url": "/overview/governance/committee/"
 			}
   			 ]
 		},
