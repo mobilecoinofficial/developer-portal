@@ -1,8 +1,6 @@
-terms of service
-================
-
-MOBILECOIN TERMS OF SERVICE
-===========================
+---
+title: Terms of Service
+---
 
 Last Updated May 24, 2022
 
