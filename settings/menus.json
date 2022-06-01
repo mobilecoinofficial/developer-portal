@@ -147,11 +147,11 @@
 			"submenu": [
 			{
 				"label": "Join the community",
-				"url": "/#community"
+				"url": "/community"
 			},
 			{
 				"label": "Upcoming events",
-				"url": "/#events"
+				"url": "/community/#events"
 			},
 			{
 				"label": "Podcasts on privacy",
