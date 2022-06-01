@@ -167,7 +167,7 @@
 			},
 			{
 				"label": "News & Blogs",
-				"url": "https://mobilecoin.com/blog"
+				"url": "/blog"
 			}
   			 ]
 		}
@@ -175,7 +175,7 @@
 	"foot": [
 	    {
 			"label": "terms of service",
-			"url": "https://mobilecoin.netlify.app/terms-of-service",
+			"url": "/terms-of-service",
 			"newTab": true
 		},
 		{
