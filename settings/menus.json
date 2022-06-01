@@ -113,8 +113,7 @@
 			},
 			{
 				"label": "Careers at MobileCoin",
-				"url": "https://developers.mobilecoin.com/jobs",
-				"newTab": true
+				"url": "/jobs"
 			}
   			 ]
 		},
@@ -146,27 +145,28 @@
 			"url": "/#community",
 			"submenu": [
 			{
-				"label": "Join the community",
+				"label": "Join the Community",
 				"url": "/community"
 			},
 			{
-				"label": "Upcoming events",
+				"label": "Upcoming Events",
 				"url": "/community/#events"
 			},
 			{
-				"label": "Podcasts on privacy",
+				"label": "Weekly Livestreams",
+				"url": "/media/videos/#meet-mobilecoin"
+			},
+			{
+				"label": "Privacy Podcasts",
 				"url": "/media/podcasts"
 			},
 			{
-				"label": "Meet MobileCoin",
-				"url": "https://developers.mobilecoin.com/media/videos/#meet-mobilecoin"
+				"label": "MobileCoin Radio",
+				"url": "http://mobilecoinradio.com",
+				"newTab": true
 			},
 			{
-				"label": "Run a validator",
-				"url": "/overview/network/validators"
-			},
-			{
-				"label": "Blog",
+				"label": "News & Blogs",
 				"url": "https://mobilecoin.com/blog"
 			}
   			 ]
