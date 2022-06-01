@@ -1,9 +1,9 @@
 ---
 title: Press
 ---
-<div class="flex-grow css-1n0re61"><div class="colorbg css-1n0re61"><div class="css-zobf92"><div class=" css-1y58z8w"><div class="css-18a4l4g"><h1 class="text-center"></h1><div><h2 style="text-align: center;">GET IN TOUCH</h2>
-<h3 style="text-align: center;"><a href="mailto:mobilecoin@uprisemgmt.com">mobilecoin@uprisemgmt.com</a></h3>
-<h3 style="text-align: center;"><a href="https://mobilecoinwp.wpengine.com/wp-content/uploads/2021/11/MobileCoin-PressKit-2021.zip">Press Kit</a></h3>
+<div class="flex-grow css-1n0re61"><div class="colorbg css-1n0re61"><div class="css-zobf92"><div class=" css-1y58z8w"><div class="css-18a4l4g"><h1 ></h1><div><h2>GET IN TOUCH</h2>
+<h3><a href="mailto:mobilecoin@uprisemgmt.com">mobilecoin@uprisemgmt.com</a></h3>
+<h3><a href="https://mobilecoinwp.wpengine.com/wp-content/uploads/2021/11/MobileCoin-PressKit-2021.zip">Press Kit</a></h3>
 </div></div></div></div></div><div class="lightbg css-1n0re61"><div class="css-zobf92"><div class=" css-1y58z8w"><div class="css-18a4l4g"><h1 class="text-center"></h1><br><div class="css-uzb1jv"><div class="css-wx7gyx"><div class="css-s27ulu"><div style="background-image:url(https://mobilecoinwp.wpengine.com/wp-content/uploads/2022/01/wired.jpg)" class="css-yeim8a"></div></div><div><p>1/7/2022</p>
 <h2>Wired</h2>
 <p><a href="https://www.wired.com/story/signal-mobilecoin-cryptocurrency-payments/" target="_blank" rel="noreferrer noopener">Signal’s Cryptocurrency Feature Has Gone Worldwide</a></p>
