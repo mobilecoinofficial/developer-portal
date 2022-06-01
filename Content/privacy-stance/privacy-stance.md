@@ -1,6 +1,7 @@
---
+---
 title: Privacy Policy
---
+---
+
 privacy is a choice we deserve
 ------------------------------
 
