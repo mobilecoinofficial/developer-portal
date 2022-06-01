@@ -175,32 +175,27 @@
 	"foot": [
 	    {
 			"label": "terms of service",
-			"url": "/terms-of-service",
-			"newTab": true
+			"url": "/terms-of-service"
 		},
 		{
 			"label": "values and ethos",
-			"url": "https://mobilecoin.netlify.app/values-and-ethos",
-			"newTab": true
+			"url": "https://mobilecoin.netlify.app/values-and-ethos"
 		},
 		{
 			"label": "faq",
-			"url": "https://developers.mobilecoin.com/overview/faq"
+			"url": "/overview/faq"
 		},
 		{
 			"label": "privacy stance",
-			"url": "https://mobilecoin.netlify.app/privacy-stance",
-			"newTab": true
+			"url": "https://mobilecoin.netlify.app/privacy-stance"
 		},
 		{
 			"label": "jobs",
-			"url": "https://developers.mobilecoin.com/jobs",
-			"newTab": true
+			"url": "/jobs"
 		},
 		{
 			"label": "press",
-			"url": "https://mobilecoin.netlify.app/press",
-			"newTab": true
+			"url": "https://mobilecoin.netlify.app/press"
 		}
 	],
 	"social": [
