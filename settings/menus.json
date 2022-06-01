@@ -167,7 +167,7 @@
 			},
 			{
 				"label": "Blog",
-				"url": "https://mobilecoin.com/news"
+				"url": "https://mobilecoin.com/blog"
 			}
   			 ]
 		}
@@ -175,12 +175,12 @@
 	"foot": [
 	    {
 			"label": "terms of use",
-			"url": "https://mobilecoin.com/terms-of-use",
+			"url": "https://mobilecoin.netlify.app/terms-of-use",
 			"newTab": true
 		},
 		{
 			"label": "values and ethos",
-			"url": "https://mobilecoin.com/values-and-ethos",
+			"url": "https://mobilecoin.netlify.app/values-and-ethos",
 			"newTab": true
 		},
 		{
@@ -189,7 +189,7 @@
 		},
 		{
 			"label": "privacy stance",
-			"url": "https://mobilecoin.com/privacy-stance",
+			"url": "https://mobilecoin.netlify.app/privacy-stance",
 			"newTab": true
 		},
 		{
@@ -199,7 +199,7 @@
 		},
 		{
 			"label": "press",
-			"url": "https://mobilecoin.com/press",
+			"url": "https://mobilecoin.netlify.app/press",
 			"newTab": true
 		}
 	],
