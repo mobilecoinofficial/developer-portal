@@ -1,3 +1,7 @@
+--
+title: Press
+--
+
 <div class="css-uzb1jv"><div class="css-wx7gyx"><div class="css-s27ulu"><div style="background-image:url(https://mobilecoinwp.wpengine.com/wp-content/uploads/2022/01/wired.jpg)" class="css-yeim8a"></div></div><div><p>1/7/2022</p>
 <h2>Wired</h2>
 <p><a href="https://www.wired.com/story/signal-mobilecoin-cryptocurrency-payments/" target="_blank" rel="noreferrer noopener">Signal’s Cryptocurrency Feature Has Gone Worldwide</a></p>
