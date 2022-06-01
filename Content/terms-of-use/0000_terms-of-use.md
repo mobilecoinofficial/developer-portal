@@ -1,9 +1,6 @@
-terms of service
-================
-
-MOBILECOIN TERMS OF SERVICE
-===========================
-
+---
+title: Terms of Service
+---
 Last Updated May 24, 2022
 
 [Click here for a PDF of our Terms of Service.](https://mobilecoinwp.wpengine.com/wp-content/uploads/2022/05/MobileCoin-Terms-of-Service-May-2022-1.pdf)
