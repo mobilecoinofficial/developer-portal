@@ -1,6 +1,6 @@
---
+---
 title: Press
---
+---
 <div class="flex-grow css-1n0re61"><div class="colorbg css-1n0re61"><div class="css-zobf92"><div class=" css-1y58z8w"><div class="css-18a4l4g"><h1 class="text-center"></h1><div><h2 style="text-align: center;">GET IN TOUCH</h2>
 <h3 style="text-align: center;"><a href="mailto:mobilecoin@uprisemgmt.com">mobilecoin@uprisemgmt.com</a></h3>
 <h3 style="text-align: center;"><a href="https://mobilecoinwp.wpengine.com/wp-content/uploads/2021/11/MobileCoin-PressKit-2021.zip">Press Kit</a></h3>
