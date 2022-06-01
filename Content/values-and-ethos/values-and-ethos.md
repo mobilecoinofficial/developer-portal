@@ -1,6 +1,6 @@
---
+---
 title: Values and Ethos
---
+---
 
 ![A banner of linked, colorful MobileCoins](https://mobilecoinwp.wpengine.com/wp-content/uploads/2021/08/multicolored_banner_transparent.png)
 
