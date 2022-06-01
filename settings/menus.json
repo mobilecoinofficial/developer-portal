@@ -70,7 +70,7 @@
 				"url": "/overview/network/watchers"
 			},
 			{
-				"label": "Byzantine Agreement",
+				"label": "Consensus Protocol",
 				"url": "/overview/network/byzantine-agreement/"
 			},
 			{
