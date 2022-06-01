@@ -179,7 +179,7 @@
 		},
 		{
 			"label": "values and ethos",
-			"url": "https://mobilecoin.netlify.app/values-and-ethos"
+			"url": "/values-and-ethos"
 		},
 		{
 			"label": "faq",
@@ -187,7 +187,7 @@
 		},
 		{
 			"label": "privacy stance",
-			"url": "https://mobilecoin.netlify.app/privacy-stance"
+			"url": "/privacy-stance"
 		},
 		{
 			"label": "jobs",
@@ -195,7 +195,7 @@
 		},
 		{
 			"label": "press",
-			"url": "https://mobilecoin.netlify.app/press"
+			"url": "/press"
 		}
 	],
 	"social": [
