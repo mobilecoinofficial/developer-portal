@@ -1,7 +1,7 @@
 ---
 title: Byzantine Agreement
 ---
-MobileCoin users must agree on the content of the blockchain for it to be useful as a record of accounts. Bad actors
+MobileCoin nodes must agree on the content of the blockchain for it to be useful as a record of accounts. Bad actors
 will have a financial motive to misrepresent the ledger to enable fraud and counterfeiting. In distributed computing,
 the challenge of reaching agreement in a group that cannot exclude malicious agents from participating is called the
 Byzantine Agreement Problem. All cryptocurrency payment networks must include code that solves the Byzantine Agreement
