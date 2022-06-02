@@ -112,16 +112,7 @@
 				"url": "/guides/wallet/"
 			},
 			{
-				"label": "Careers at MobileCoin",
-				"url": "/jobs"
-			}
-  			 ]
-		},
-		{
-			"label": "Roadmap",
-			"submenu": [
-			{
-				"label": "Foundation Roadmap",
+				"label": "Roadmap",
 				"url": "/overview/governance/roadmap/"
 			},
 			{
@@ -129,16 +120,11 @@
 				"url": "/overview/governance/process/"
 			},
 			{
-				"label": "About the Foundation",
-				"url": "/overview/governance/foundation/"
-			},
-			{
-				"label": "Technical Committee",
-				"url": "/overview/governance/committee/"
+				"label": "Careers at MobileCoin",
+				"url": "/jobs"
 			}
   			 ]
 		},
-		
 		{
 			"label": "Community",
 			"submenu": [
@@ -166,6 +152,10 @@
 			{
 				"label": "News & Blogs",
 				"url": "/blog"
+			},
+			{
+				"label": "MobileCoin Foundation",
+				"url": "/overview/governance/foundation/"
 			},
 			{
 				"label": "Press",
