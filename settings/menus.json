@@ -11,29 +11,28 @@
 			"url": "/overview/how-to-use-mobilecoin/activate",
 			"submenu": [
 			{
-				"label": "Pay with Signal",
+				"label": "Use Signal Wallet",
 				"url": "/overview/how-to-use-mobilecoin/activate"
 			},
 			{
-				"label": "Buy MobileCoin",
+				"label": "More Wallets",
+				"url": "https://mobilecoin.com/ecosystem/#wallets"
+			},
+			{
+				"label": "Buy MOB",
 				"url": "/overview/how-to-buy-mobilecoin/fennec"
 			},
 			{
-				"label": "Wallets",
-				"url": "/ecosystem"
+				"label": "Swap MOB",
+				"url": "https://mobilecoin.com/ecosystem/#swaps"
 			},
 			{
-				"label": "Exchanges",
-				"url": "/ecosystem"
+				"label": "Trade MOB",
+				"url": "https://mobilecoin.com/ecosystem/#trading"
 			},
 			{
 				"label": "Create art with Imogen",
 				"url": "/ecosystem/imogen"
-			},
-			{
-				"label": "Get support",
-				"url": "https://intercom.help/mobilecoin/en/",
-				"newTab": true
 			}
   			 ]
 		},
@@ -147,6 +146,11 @@
 			{
 				"label": "Join the Community",
 				"url": "/community"
+			},
+			{
+				"label": "Get Support",
+				"url": "https://intercom.help/mobilecoin/en/",
+				"newTab": true
 			},
 			{
 				"label": "Upcoming Events",
