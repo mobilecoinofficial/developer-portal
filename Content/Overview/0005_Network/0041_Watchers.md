@@ -32,6 +32,8 @@ tx_source_url = "https://s3-us-west-1.amazonaws.com/mobilecoin.chain/node2.test.
 consensus_client_url = "mc://node2.test.mobilecoin.com/"
 ```
 
+Run the watcher:
+
 ```source-shell
 SGX_MODE=HW IAS_MODE=PROD MC_LOG=debug,hyper=error,want=error,reqwest=error,mio=error,rustls=error\
     cargo run -p mc-watcher --bin mc-watcher --\
