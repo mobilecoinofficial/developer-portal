@@ -72,6 +72,22 @@
 			"label": "Developers",
 			"submenu": [
 			{
+				"label": "Roadmap",
+				"url": "/overview/governance/roadmap/"
+			},
+			{
+				"label": "Improvement Proposals",
+				"url": "/overview/governance/process/"
+			},	
+			{
+				"label": "Grant Program",
+				"url": "/blog/mobilecoin-launches-grants-program"
+			},
+			{
+				"label": "Bounty Program",
+				"url": "/blog/mobilecoin-launches-bounties-on-gitcoin"
+			},
+			{
 				"label": "iOS SDK",
 				"url": "/guides/ios-app-sdk"
 			},
@@ -95,14 +111,7 @@
 				"label": "Electron Wallet",
 				"url": "/guides/wallet/"
 			},
-			{
-				"label": "Roadmap",
-				"url": "/overview/governance/roadmap/"
-			},
-			{
-				"label": "Improvement Proposals",
-				"url": "/overview/governance/process/"
-			},
+			
 			{
 				"label": "Careers at MobileCoin",
 				"url": "/jobs"
