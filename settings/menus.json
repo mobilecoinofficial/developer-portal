@@ -18,20 +18,24 @@
 				"url": "/overview/how-to-buy-mobilecoin/fennec"
 			},
 			{
+				"label": "Explore the Ecosystem",
+				"url": "https://mobilecoin.com/ecosystem/#"
+			},
+			{
 				"label": "Wallets",
-				"url": "https://mobilecoin.com/ecosystem"
+				"url": "https://mobilecoin.com/ecosystem/#"
 			},
 			{
 				"label": "Decentralized Exchanges",
-				"url": "https://mobilecoin.com/ecosystem"
+				"url": "https://mobilecoin.com/ecosystem/#category-swaps"
 			},
 			{
 				"label": "Trading Platforms",
-				"url": "https://mobilecoin.com/ecosystem"
+				"url": "https://mobilecoin.com/ecosystem/#category-trading"
 			},
 			{
-				"label": "Create art with Imogen",
-				"url": "/ecosystem/imogen"
+				"label": "Signal Bots",
+				"url": "https://mobilecoin.com/ecosystem/#category-wallets"
 			}
   			 ]
 		},
