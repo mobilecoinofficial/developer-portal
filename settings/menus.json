@@ -10,24 +10,24 @@
 			"label": "Use MobileCoin",
 			"submenu": [
 			{
-				"label": "Get the Signal Wallet",
+				"label": "Pay with Signal",
 				"url": "/overview/how-to-use-mobilecoin/activate"
 			},
 			{
-				"label": "More Wallets",
-				"url": "https://mobilecoin.com/ecosystem/#wallets"
-			},
-			{
-				"label": "Buy MOB",
+				"label": "Get MOB",
 				"url": "/overview/how-to-buy-mobilecoin/fennec"
 			},
 			{
-				"label": "Swap MOB",
-				"url": "https://mobilecoin.com/ecosystem/#swaps"
+				"label": "Wallets",
+				"url": "https://mobilecoin.com/ecosystem"
 			},
 			{
-				"label": "Trade MOB",
-				"url": "https://mobilecoin.com/ecosystem/#trading"
+				"label": "Decentralized Exchanges",
+				"url": "https://mobilecoin.com/ecosystem"
+			},
+			{
+				"label": "Trading Platforms",
+				"url": "https://mobilecoin.com/ecosystem"
 			},
 			{
 				"label": "Create art with Imogen",
