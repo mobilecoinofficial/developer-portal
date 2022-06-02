@@ -10,32 +10,16 @@
 			"label": "Use MobileCoin",
 			"submenu": [
 			{
-				"label": "Pay with Signal",
+				"label": "Get Signal Wallet",
 				"url": "/overview/how-to-use-mobilecoin/activate"
 			},
 			{
-				"label": "Get MOB",
+				"label": "Get MobileCoin",
 				"url": "/overview/how-to-buy-mobilecoin/fennec"
 			},
 			{
 				"label": "Explore the Ecosystem",
 				"url": "https://mobilecoin.com/ecosystem/#"
-			},
-			{
-				"label": "Wallets",
-				"url": "https://mobilecoin.com/ecosystem/#"
-			},
-			{
-				"label": "Decentralized Exchanges",
-				"url": "https://mobilecoin.com/ecosystem/#category-swaps"
-			},
-			{
-				"label": "Trading Platforms",
-				"url": "https://mobilecoin.com/ecosystem/#category-trading"
-			},
-			{
-				"label": "Signal Bots",
-				"url": "https://mobilecoin.com/ecosystem/#category-wallets"
 			}
   			 ]
 		},
@@ -150,12 +134,17 @@
 				"newTab": true
 			},
 			{
-				"label": "News & Blogs",
-				"url": "/blog"
+				"label": "MobileCoin Art",
+				"url": "http://mobilecoin.art",
+				"newTab": true
 			},
 			{
 				"label": "MobileCoin Foundation",
 				"url": "/overview/governance/foundation/"
+			},
+			{
+				"label": "News & Blogs",
+				"url": "/blog"
 			},
 			{
 				"label": "Press",
