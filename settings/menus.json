@@ -126,10 +126,6 @@
 				"url": "/#community"
 			},
 			{
-				"label": "Upcoming Events",
-				"url": "/community/#events"
-			},
-			{
 				"label": "Weekly Livestreams",
 				"url": "/media/videos/#meet-mobilecoin"
 			},
@@ -152,10 +148,6 @@
 				"url": "/overview/governance/foundation/"
 			},
 			{
-				"label": "News & Blogs",
-				"url": "/blog"
-			},
-			{
 				"label": "Press",
 				"url": "/press"
 			},
@@ -165,6 +157,14 @@
 				"newTab": true
 			}
   			 ]
+		}
+		{
+				"label": "News",
+				"url": "/blog"
+		},
+		{
+				"label": "Events",
+				"url": "/community"
 		}
 	],
 	"foot": [
