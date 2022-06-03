@@ -4,9 +4,10 @@ title: Privacy Policy
 
 Effective as of 08/17/2021.
 
-[Prior Versions](https://mobilecoin.netlify.app/privacy-policy)
-
 [Click here for a PDF of this Privacy Policy.](https://mobilecoinwp.wpengine.com/wp-content/uploads/2021/08/MCI_Privacy_policy.pdf)
+
+## Prior Versions
+[Click here for a PDF of the Privacy Policy 08/17/2021.](https://mobilecoinwp.wpengine.com/wp-content/uploads/2021/08/MCI_Privacy_policy.pdf)
 
 This Privacy Policy describes how Mobilecoin Inc, MobileCoin US, LLC and our corporate subsidiaries (collectively, "MCI" "we", "us", or "our") may collect, utilize, or share personal information upon visiting mobilecoin.com or our other websites or services that link to this Privacy Policy (collectively, the "Services"), contact us, receive our communications, or attend our events.
 
