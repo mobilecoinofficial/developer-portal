@@ -28,7 +28,7 @@ The internet is a place for connection and exploration. We'd love to connect wit
 
 The key that binds all of these things together is choice. You are choosing what you share. We want to amplify that.
 
-For more details on MobileCoin's full privacy and cookie policy, [click here](https://mobilecoin.netlify.app/privacy-policy).
+For more details on MobileCoin's full privacy and cookie policy, [click here](https://mobilecoin.com/privacy-stance/privacy-policy/).
 
 MobileCoin: privacy protecting technology for the digital age.
 ==============================================================
