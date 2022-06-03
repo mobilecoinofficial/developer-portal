@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy
+title: Privacy Stance
 ---
 
 privacy is a choice we deserve
