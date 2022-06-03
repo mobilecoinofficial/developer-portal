@@ -1,5 +1,5 @@
 ---
-title: privacy policy
+title: Privacy Policy
 ---
 
 Effective as of 08/17/2021.
