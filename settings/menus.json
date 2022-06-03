@@ -110,50 +110,48 @@
 			{
 				"label": "Electron Wallet",
 				"url": "/guides/wallet/"
-			},
-			
-			{
-				"label": "Careers at MobileCoin",
-				"url": "/jobs"
 			}
   			 ]
 		},
 		{
 			"label": "Community",
 			"submenu": [
-			
 			{
-				"label": "Upcoming Events",
-				"url": "/community"
-			},
-			{
-				"label": "Weekly Livestreams",
-				"url": "/media/videos/#meet-mobilecoin"
-			},
-			{
-				"label": "Privacy Podcasts",
-				"url": "/media/podcasts"
-			},
-			{
-				"label": "Online communities",
+				"label": "Join our Community",
 				"url": "/#community"
 			},
 			{
-				"label": "MobileCoin Radio",
+				"label": "Come to our Events",
+				"url": "/community"
+			},
+			{
+				"label": "Listen to our Podcast",
+				"url": "/media/podcasts"
+			},
+			{
+				"label": "Watch our Livestreams",
+				"url": "/media/videos/#meet-mobilecoin"
+			},
+			{
+				"label": "Read the News",
+				"url": "/blog"
+			},
+			{
+				"label": "Listen to the Radio",
 				"url": "http://mobilecoinradio.com",
 				"newTab": true
 			},
 			{
-				"label": "MobileCoin Art",
+				"label": "Supporting the Arts",
 				"url": "http://mobilecoin.art",
 				"newTab": true
 			},
 			{
-				"label": "MobileCoin Foundation",
+				"label": "The Foundation",
 				"url": "/overview/governance/foundation/"
 			},
 			{
-				"label": "MobileCoin Support",
+				"label": "Get Support",
 				"url": "https://intercom.help/mobilecoin/en/",
 				"newTab": true
 			},
@@ -164,8 +162,8 @@
   			 ]
 		},
 		{
-				"label": "News",
-				"url": "/blog"
+			"label": "Jobs",
+			"url": "/jobs"
 		}
 	],
 	"foot": [
