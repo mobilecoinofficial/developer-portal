@@ -1,7 +1,12 @@
 ---
 title: Cookie Policy 
 ---
-Effective as of 08/17/2021.
+Effective as of 06/02/2022.
+
+[Click here for a PDF of this Cookie Policy.](https://mobilecoinwp.wpengine.com/wp-content/uploads/2021/08/MCI_Privacy_policy.pdf)
+
+## Prior Versions
+[Click here for a PDF of the Cookie Policy effective 08/17/2021.](https://mobilecoinwp.wpengine.com/wp-content/uploads/2021/08/MCI_Privacy_policy.pdf)
 
 This Cookie Policy explains how MobileCoin, Inc. and our corporate subsidiaries and affiliates (collectively, “MobileCoin“ “we”, “us” or “our”) uses cookies and similar technologies in connection with this website and any other website that we own or control and which posts or links to this Cookie Policy (collectively, the “Sites”).
 
