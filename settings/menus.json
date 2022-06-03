@@ -121,9 +121,10 @@
 		{
 			"label": "Community",
 			"submenu": [
+			
 			{
-				"label": "Online communities",
-				"url": "/#community"
+				"label": "Upcoming Events",
+				"url": "/community"
 			},
 			{
 				"label": "Weekly Livestreams",
@@ -132,6 +133,10 @@
 			{
 				"label": "Privacy Podcasts",
 				"url": "/media/podcasts"
+			},
+			{
+				"label": "Online communities",
+				"url": "/#community"
 			},
 			{
 				"label": "MobileCoin Radio",
@@ -148,23 +153,19 @@
 				"url": "/overview/governance/foundation/"
 			},
 			{
-				"label": "Press",
-				"url": "/press"
-			},
-			{
-				"label": "Support",
+				"label": "MobileCoin Support",
 				"url": "https://intercom.help/mobilecoin/en/",
 				"newTab": true
+			},
+			{
+				"label": "Press",
+				"url": "/press"
 			}
   			 ]
 		},
 		{
 				"label": "News",
 				"url": "/blog"
-		},
-		{
-				"label": "Events",
-				"url": "/community"
 		}
 	],
 	"foot": [
