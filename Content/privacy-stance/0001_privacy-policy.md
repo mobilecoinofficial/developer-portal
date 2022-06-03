@@ -2,7 +2,7 @@
 title: Privacy Policy
 ---
 
-Effective as of 08/17/2021.
+Effective as of 06/02/2022.
 
 [Click here for a PDF of this Privacy Policy.](https://mobilecoinwp.wpengine.com/wp-content/uploads/2021/08/MCI_Privacy_policy.pdf)
 
