@@ -41,124 +41,31 @@ These technologies are essential for the Website in order to provide the service
 
 Below we provide examples of the types of strictly necessary cookies our Services currently use:
 
-|
+| Provider | Data Collected | Description |
+|---|----|----|
+| Squarespace | The Website uses cookies to help run the Website effectively so visitors can navigate and use key features. | Reports on operations of systems and software, such as test reporting and service availability. |
 
-Provider
-
- |
-
-Data Collected
-
- |
-
-Description
-
- |
-|
-
-Squarespace
-
- |
-
-The Website uses cookies to help run the Website effectively so visitors can navigate and use key features.
-
- |
-
-Reports on operations of systems and software, such as test reporting and service availability.
-
- |
-
-Performance Measurement and Functionality Cookies
-
-Performance measurement cookies, which are sometimes called analytics cookies, collect information about your use of the Website and enable us to improve the way our Services operate. For example, performance cookies alert us to the most frequently viewed content, allow us to see the overall patterns of usage on the Website, and help us detect any difficulties you may have with the Website. Functionality cookie technologies enable certain features that are not strictly necessary to use the Website.
+## Performance Measurement and Functionality Cookies
+Performance measurement cookies, which are sometimes called analytics cookies, collect information about your use of the Website and enable us to improve the way our Services operate. For example, performance cookies alert us to the most frequently viewed content, allow us to see the overall patterns of usage on the Website, and help us detect any difficulties you may have with the Website. Functionality cookie technologies enable certain features that are not strictly necessary to use the Website. 
 
 Below we provide examples of the types of Performance Measurement and Functionality  cookies our Services currently use:
 
-|Provider
+| Provider | Data Collected | Description |
+|---|----|----|
+| Adobe | The Website uses cookies with unique identifiers to collect and store information about usage of the Website, such as the number of Website visitors and other site activity. | Generates analytics regarding the performance and usage of the Website. |
+| Google Analytics | These cookies are used to collect information about how visitors use our website. We use the information to compile reports and to help us improve our Website and applications.  | The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. |
+| Instabug | These cookies are used to collect information about how visitors use our Website. We use the information to compile reports and to help us improve our Website and applications.  | Reports on operations of systems and software, such as functional issues with the service. |
 
- |
 
-Data Collected
-
- |
-
-Description
-
- |
-|
-
-Adobe
-
- |
-
-The Website uses cookies with unique identifiers to collect and store information about usage of the Website, such as the number of Website visitors and other site activity.
-
- |
-
-Generates analytics regarding the performance and usage of the Website. 
-
- |
-|
-
-Google Analytics
-
- |
-
-These cookies are used to collect information about how visitors use our website. We use the information to compile reports and to help us improve our Website and applications. 
-
- |
-
-The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
-
- |
-|
-
-Instabug
-
- |
-
-These cookies are used to collect information about how visitors use our Website. We use the information to compile reports and to help us improve our Website and applications. 
-
- |
-
-Reports on operations of systems and software, such as functional issues with the service.
-
- |
-
-Advertising Cookies 
-
-Advertising Cookies
+## Advertising Cookies 
 
 Advertising cookies (or targeting cookies) collect information about the browsing habits associated with your browser or device and are used to make advertising more relevant to you and your interests. They are also used by services provided by third parties on this Website, such as 'Like' or 'Share' buttons, in addition to providing the requested functionality. Third parties provide these services in return for recognizing that your browser has visited a certain website or explored a particular feature. These third parties put down advertising cookies when you visit our Services, when you use their services, and when you navigate away from our Services.
 
 Below we provide examples of the types of Advertising cookies our Services currently use:
 
-|
-
-Provider
-
- |
-
-Data Collected
-
- |
-
-Description
-
- |
-|
-
-Tik Tok
-
- |
-
-The Website uses cookies to collect and store information about marketing and advertising activities on the Website. 
-
- |
-
-Generates aggregated reports regarding marketing activity to Tik Tok to serve relevant advertising and marketing campaigns to users. 
-
- |
+| Provider | Data Collected | Description |
+|---|----|----|
+| Tik Tok | The Website uses cookies to collect and store information about marketing and advertising activities on the Website.  | Generates aggregated reports regarding marketing activity to Tik Tok to serve relevant advertising and marketing campaigns to users. |
 
 Our emails may contain a single, campaign-unique "web beacon pixel" to tell us whether our emails are opened and verify any clicks through to links within the email. We may use this information for purposes, including determining which of our emails are more interesting to you and whether users who do not open our emails wish to continue receiving them. The pixel will be deleted when you delete the email. If you do not wish the pixel to be downloaded to your browser or device, you should select to receive emails from us in plain text rather than HTML.
 
