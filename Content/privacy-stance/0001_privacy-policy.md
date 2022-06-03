@@ -179,8 +179,7 @@ Changes to this Policy
 MobileCoin may modify this Policy. Please look at the Effective Date at the top of this Privacy Policy to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Services.  We encourage you to periodically review this Privacy Notice in order to keep apprised of any changes.
 
 ## PDF Download
-
-[Click here for a PDF of this Privacy Policy.](https://github.com/mobilecoinofficial/developer-portal/raw/main/info/Cookie%20Policy%20-%20Web%20Only.pdf)
+[Click here for a PDF of this Privacy Policy.](https://github.com/mobilecoinofficial/developer-portal/raw/main/info/MoibleCoin%20Web-only%20%20Privacy%20Policy.pdf)
 
 ## Prior Versions
-[Click here for a PDF of the Privacy Policy 08/17/2021.](https://mobilecoinwp.wpengine.com/wp-content/uploads/2021/08/MCI_Privacy_policy.pdf)
+[Click here for a PDF of the Prior Privacy Policy effective 08/17/2021.](https://github.com/mobilecoinofficial/developer-portal/raw/main/info/MCI_Privacy_policy_2021.pdf)
