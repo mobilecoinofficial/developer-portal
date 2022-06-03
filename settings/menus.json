@@ -27,7 +27,7 @@
 			"label": "Learn",
 			"submenu": [
 			{
-				"label": "Video Tutorials",
+				"label": "How to Videos",
 				"url": "/media/videos"
 			},
 			{
@@ -39,19 +39,19 @@
 				"url": "/overview/read-the-whitepapers/mobilecoin"
 			},
 			{
-				"label": "Mechanics",
+				"label": "Mechanics of MobileCoin",
 				"url": "/overview/read-the-whitepapers/mechanics"
 			},
 			{
-				"label": "Security",
+				"label": "Defense in Depth",
 				"url": "/overview/security/intro"
 			},
 			{
-				"label": "Network",
-				"url": "/overview/network/network"
+				"label": "Network Validators",
+				"url": "/overview/network/validators"
 			},
 			{
-				"label": "Consensus",
+				"label": "Consensus Protocol",
 				"url": "/overview/network/byzantine-agreement/"
 			},
 			{
@@ -106,46 +106,38 @@
 				"url": "/community"
 			},
 			{
-				"label": "Podcasts",
+				"label": "Privacy Podcasts",
 				"url": "/media/podcasts"
 			},
 			{
-				"label": "Livestreams",
+				"label": "Weekly Livestreams",
 				"url": "/media/videos/#meet-mobilecoin"
 			},
 			{
-				"label": "Validator Nodes",
-				"url": "/overview/network/validators"
-			},
-			{
-				"label": "Watcher Nodes",
-				"url": "/overview/network/watchers"
-			},
-			{
-				"label": "News",
+				"label": "News Updates",
 				"url": "/blog"
 			},
 			{
-				"label": "Radio",
+				"label": "Radio Show",
 				"url": "http://mobilecoinradio.com",
 				"newTab": true
 			},
 			{
-				"label": "Art",
+				"label": "Art Residency",
 				"url": "http://mobilecoin.art",
 				"newTab": true
 			},
 			{
-				"label": "Foundation",
+				"label": "The Foundation",
 				"url": "/overview/governance/foundation/"
 			},
 			{
-				"label": "Support",
+				"label": "Tech Support",
 				"url": "https://intercom.help/mobilecoin/en/",
 				"newTab": true
 			},
 			{
-				"label": "Press",
+				"label": "Press Coverage",
 				"url": "/press"
 			}
   			 ]
