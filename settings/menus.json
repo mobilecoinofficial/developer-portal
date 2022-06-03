@@ -71,14 +71,7 @@
 		{
 			"label": "Developers",
 			"submenu": [
-			{
-				"label": "Roadmap",
-				"url": "/overview/governance/roadmap/"
-			},
-			{
-				"label": "Improvement Proposals",
-				"url": "/overview/governance/process/"
-			},	
+				
 			{
 				"label": "Grant Program",
 				"url": "/blog/mobilecoin-launches-grants-program"
@@ -88,28 +81,28 @@
 				"url": "/blog/mobilecoin-launches-bounties-on-gitcoin"
 			},
 			{
-				"label": "iOS SDK",
-				"url": "/guides/ios-app-sdk"
+				"label": "Roadmap",
+				"url": "/overview/governance/roadmap/"
 			},
 			{
-				"label": "Android SDK",
-				"url": "/guides/android-app-sdk"
+				"label": "Improvement Proposals",
+				"url": "/overview/governance/process/"
 			},
 			{
-				"label": "Signal Bot SDK",
+				"label": "APIs and SDKs",
+				"url": "/#developers"
+			},
+			{
+				"label": "Example Wallet",
+				"url": "/guides/wallet/"
+			},	
+			{
+				"label": "Build Signal Bots",
 				"url": "/guides/signal-sdk/signal"
-			},
-			{
-				"label": "Payments API",
-				"url": "/guides/full-service-api"
 			},
 			{
 				"label": "Python CLI",
 				"url": "/guides/python_cli"
-			},
-			{
-				"label": "Electron Wallet",
-				"url": "/guides/wallet/"
 			}
   			 ]
 		},
@@ -162,7 +155,7 @@
   			 ]
 		},
 		{
-			"label": "Jobs",
+			"label": "Careers",
 			"url": "/jobs"
 		}
 	],
