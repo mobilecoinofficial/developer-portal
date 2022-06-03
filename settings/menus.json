@@ -69,11 +69,11 @@
 			"submenu": [
 				
 			{
-				"label": "Grant Program",
+				"label": "Grants",
 				"url": "/blog/mobilecoin-launches-grants-program"
 			},
 			{
-				"label": "Bounty Program",
+				"label": "Bounties",
 				"url": "/blog/mobilecoin-launches-bounties-on-gitcoin"
 			},
 			{
@@ -81,20 +81,12 @@
 				"url": "/overview/governance/roadmap/"
 			},
 			{
-				"label": "Improvement Proposals",
+				"label": "Proposals",
 				"url": "/overview/governance/process/"
 			},
 			{
 				"label": "APIs and SDKs",
 				"url": "/#developers"
-			},
-			{
-				"label": "Example Wallet",
-				"url": "/guides/wallet/"
-			},	
-			{
-				"label": "Build Signal Bots",
-				"url": "/guides/signal-sdk/signal"
 			},
 			{
 				"label": "Python CLI",
