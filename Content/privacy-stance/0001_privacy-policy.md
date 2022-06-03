@@ -180,7 +180,7 @@ MobileCoin may modify this Policy. Please look at the Effective Date at the top 
 
 ## PDF Download
 
-[Click here for a PDF of this Privacy Policy.](https://mobilecoinwp.wpengine.com/wp-content/uploads/2021/08/MCI_Privacy_policy.pdf)
+[Click here for a PDF of this Privacy Policy.](https://github.com/mobilecoinofficial/developer-portal/raw/main/info/Cookie%20Policy%20-%20Web%20Only.pdf)
 
 ## Prior Versions
 [Click here for a PDF of the Privacy Policy 08/17/2021.](https://mobilecoinwp.wpengine.com/wp-content/uploads/2021/08/MCI_Privacy_policy.pdf)
