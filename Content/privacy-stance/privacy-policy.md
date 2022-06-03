@@ -55,7 +55,7 @@ Access or update your information. If you have registered for an account with u
 
 Opt out of marketing communications.  You may opt out of marketing emails by following the unsubscribe instructions at the bottom of the email. You may continue to receive service-related and other non-marketing emails.
 
-Cookies & browser web storage.  For information on how to disable cookies and similar technologies used in the Services, see our Cookie Policy below.
+Cookies & browser web storage.  For information on how to disable cookies and similar technologies used in the Services, see our [Cookie Policy](https://mobilecoin.com/privacy-stance/cookie-policy/).
 
 Do Not Track.  Some Internet browsers may be configured to send "Do Not Track" signals to the online services that you visit. To find out more about "Do Not Track," please visit [www.allaboutdnt.com](http://www.allaboutdnt.com/).
 
@@ -86,7 +86,7 @@ Cookies and Other Information Collected by Automated Means  
 
 We, our service providers, and our business partners may automatically log information about you, your computer or mobile device, and activity occurring on or through the Services. The information that may be collected automatically includes your computer or mobile device operating system type and version number, manufacturer and model; device identifier; browser type; screen resolution; IP address; the website you visited before browsing to our website; general location information such as city, state or geographic area; and information about your use of and actions on the Services, such as pages or screens you viewed, how long you spent on a page or screen, navigation paths between pages or screens, information about your activity on a page or screen, access times, and length of access. Our service providers and business partners may collect this type of information over time and across third-party websites and mobile applications.
 
-See our Cookie Policy below for more information.
+See our [Cookie Policy](https://mobilecoin.com/privacy-stance/cookie-policy/) for more information.
 
 Other Sites, Mobile Applications, and Services
 ==============================================
@@ -125,41 +125,3 @@ Attn: Legal -- Privacy
 275 8th Street Floor 3
 
 San Francisco CA 94107
-
-Cookie Policy 
-==============
-
-Effective as of 08/17/2021.
-
-This Cookie Policy explains how MobileCoin, Inc. and our corporate subsidiaries and affiliates (collectively, "MobileCoin" "we", "us" or "our") uses cookies and similar technologies in connection with this website and any other website that we own or control and which posts or links to this Cookie Policy (collectively, the "Sites").
-
-What are cookies?
------------------
-
-Cookies are small data files that are placed on your computer or mobile device when you visit a website.  Cookies serve different purposes, like helping us understand how a site is being used, letting you navigate between pages efficiently, remembering your preferences and generally improving your browsing experience.
-
-Our Sites may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer or mobile device until you delete them).
-
-We use two broad categories of cookies: (1) first party cookies, served directly by us to your computer or mobile device, which we use to recognize your computer or mobile device when it revisits our Sites; and (2) third -party cookies, which are served by service providers or business partners on our Sites, and can be used by these parties to recognize your computer or mobile device when it visits other websites. Third party cookies can be used for a variety of purposes, including site analytics, advertising and social media features.
-
-What types of cookies and similar technologies does MobileCoin use on the Sites?
---------------------------------------------------------------------------------
-
-The only types of cookies that we use are *Essential* cookies, served by MobileCoin Inc. These cookies are necessary to allow the technical operation of our Services (e.g., they enable you to move around on a website and to use its features). You can control these cookies per the rights in the "Your Choices" section below.
-
-Your choices
-------------
-
-Most browsers allow you to remove or reject cookies.  To do this, follow the instructions in your browser settings.  Many browsers accept cookies by default until you change your settings.  Please note that if you set your browser to disable cookies, the Sites may not work properly.
-
-For more information about cookies, including how to see what cookies have been set on your computer or mobile device and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).  If you do not accept our cookies, you may experience some inconvenience in your use of our Sites.
-
-Changes
--------
-
-Information about the cookies we use may be updated from time to time, so please check back on a regular basis for any changes.
-
-Questions
----------
-
-If you have any questions about this Cookie Policy, please contact us at <legal@mobilecoin.com>.
