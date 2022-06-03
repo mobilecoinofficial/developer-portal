@@ -27,39 +27,35 @@
 			"label": "Learn",
 			"submenu": [
 			{
+				"label": "Video Tutorials",
+				"url": "/media/videos"
+			},
+			{
 				"label": "Explain like I'm 5",
 				"url": "/overview/explain-like-i'm-five/start"
 			},
 			{
-				"label": "MobileCoin Whitepaper",
+				"label": "Whitepaper",
 				"url": "/overview/read-the-whitepapers/mobilecoin"
 			},
 			{
-				"label": "Mechanics of MobileCoin",
+				"label": "Mechanics",
 				"url": "/overview/read-the-whitepapers/mechanics"
 			},
 			{
-				"label": "Defense in Depth",
+				"label": "Security",
 				"url": "/overview/security/intro"
 			},
 			{
-				"label": "Network Overview",
+				"label": "Network",
 				"url": "/overview/network/network"
 			},
 			{
-				"label": "Validators",
-				"url": "/overview/network/validators"
-			},
-			{
-				"label": "Watchers",
-				"url": "/overview/network/watchers"
-			},
-			{
-				"label": "Consensus Protocol",
+				"label": "Consensus",
 				"url": "/overview/network/byzantine-agreement/"
 			},
 			{
-				"label": "Energy Usage",
+				"label": "Sustainability",
 				"url": "/overview/network/energy"
 			},
 			{
@@ -110,41 +106,49 @@
 			"label": "Community",
 			"submenu": [
 			{
-				"label": "Join our Community",
+				"label": "Online communities",
 				"url": "/#community"
 			},
 			{
-				"label": "Come to our Events",
+				"label": "Upcoming Events",
 				"url": "/community"
 			},
 			{
-				"label": "Listen to our Podcast",
+				"label": "Podcasts",
 				"url": "/media/podcasts"
 			},
 			{
-				"label": "Watch our Livestreams",
+				"label": "Livestreams",
 				"url": "/media/videos/#meet-mobilecoin"
 			},
 			{
-				"label": "Read the News",
+				"label": "Validator Nodes",
+				"url": "/overview/network/validators"
+			},
+			{
+				"label": "Watcher Nodes",
+				"url": "/overview/network/watchers"
+			},
+			{
+				"label": "News",
 				"url": "/blog"
 			},
 			{
-				"label": "Listen to the Radio",
+				"label": "Radio",
 				"url": "http://mobilecoinradio.com",
 				"newTab": true
 			},
 			{
-				"label": "Supporting the Arts",
+				"label": "Art",
 				"url": "http://mobilecoin.art",
 				"newTab": true
 			},
 			{
-				"label": "The Foundation",
+				"label": "Foundation",
 				"url": "/overview/governance/foundation/"
 			},
 			{
-				"label": "Get Support",
+				"label": "Support",
 				"url": "https://intercom.help/mobilecoin/en/",
 				"newTab": true
 			},
