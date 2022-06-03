@@ -18,8 +18,16 @@
 				"url": "/overview/how-to-buy-mobilecoin/fennec"
 			},
 			{
-				"label": "Explore the Ecosystem",
-				"url": "https://mobilecoin.com/ecosystem/#"
+				"label": "Wallets",
+				"url": "/ecosystem"
+			},
+			{
+				"label": "Exchanges",
+				"url": "/ecosystem"
+			},
+			{
+				"label": "More Apps",
+				"url": "/ecosystem"
 			}
   			 ]
 		},
