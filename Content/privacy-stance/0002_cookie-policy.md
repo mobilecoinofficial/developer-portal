@@ -80,7 +80,7 @@ We may perform IP lookups to determine which domain you are coming from (e.g. go
 6.1 Please note that this Cookies Policy does not apply to, and we are not responsible for, the privacy practices of third party websites which may be linked to this Website.
 
 ## PDF Download 
-[Click here for a PDF of this Cookie Policy.](https://github.com/mobilecoinofficial/developer-portal/raw/main/info/Cookie%20Policy%20-%20Web%20Only.pdf)
+[Click here for a PDF of this Cookie Policy.](https://github.com/mobilecoinofficial/developer-portal/raw/main/info/MoibleCoin%20Web-only%20%20Privacy%20Policy.pdf)
 
 ## Prior Versions
-[Click here for a PDF of the Cookie Policy effective 08/17/2021.](https://mobilecoinwp.wpengine.com/wp-content/uploads/2021/08/MCI_Privacy_policy.pdf)
+[Click here for a PDF of the Prior Cookie Policy effective 08/17/2021.](https://github.com/mobilecoinofficial/developer-portal/raw/main/info/MCI_Privacy_policy_2021.pdf)
