@@ -74,33 +74,7 @@
 		},
 		{
 			"label": "Developers",
-			"submenu": [
-				
-			{
-				"label": "Grants",
-				"url": "/blog/mobilecoin-launches-grants-program"
-			},
-			{
-				"label": "Bounties",
-				"url": "/blog/mobilecoin-launches-bounties-on-gitcoin"
-			},
-			{
-				"label": "Roadmap",
-				"url": "/overview/governance/roadmap/"
-			},
-			{
-				"label": "Proposals",
-				"url": "/overview/governance/process/"
-			},
-			{
-				"label": "APIs and SDKs",
-				"url": "/#developers"
-			},
-			{
-				"label": "Python CLI",
-				"url": "/guides/python_cli"
-			}
-  			 ]
+			"url": "/#developers"
 		},
 		{
 			"label": "Community",
