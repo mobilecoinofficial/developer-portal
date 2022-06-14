@@ -1,6 +1,5 @@
 ---
-title:  MobileCoin Blockchain
-hide_title: true
+title:  What is Blockchain?
 ---
 
 [What is MobileCoin's Blockchain?]: #what-is-blockchain
