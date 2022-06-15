@@ -1,5 +1,5 @@
 ---
-title: Explain Like I'm 5 
+title: Explain Like I'm Five
 ---
 
 ![](https://raw.githubusercontent.com/mobilecoinofficial/developer-portal/main/images/digitalcash.png)
