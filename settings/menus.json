@@ -10,19 +10,15 @@
 			"label": "Use MobileCoin",
 			"submenu": [
 			{
-				"label": "Get Signal Wallet",
+				"label": "Get Signal",
 				"url": "/overview/how-to-use-mobilecoin/activate"
 			},
 			{
-				"label": "Get MobileCoin",
+				"label": "Buy MobileCoin",
 				"url": "/overview/how-to-buy-mobilecoin/fennec"
 			},
 			{
-				"label": "Wallets",
-				"url": "/ecosystem"
-			},
-			{
-				"label": "Exchanges",
+				"label": "Wallets & Exchanges",
 				"url": "/ecosystem"
 			},
 			{
@@ -33,44 +29,7 @@
 		},
 		{
 			"label": "Learn",
-			"submenu": [
-			{
-				"label": "How to Videos",
-				"url": "/media/videos"
-			},
-			{
-				"label": "Explain like I'm 5",
-				"url": "/overview/explain-like-i'm-five/start"
-			},
-			{
-				"label": "Whitepaper",
-				"url": "/overview/read-the-whitepapers/mobilecoin"
-			},
-			{
-				"label": "Mechanics of MobileCoin",
-				"url": "/overview/read-the-whitepapers/mechanics"
-			},
-			{
-				"label": "Defense in Depth",
-				"url": "/overview/security/intro"
-			},
-			{
-				"label": "Network Validators",
-				"url": "/overview/network/validators"
-			},
-			{
-				"label": "Consensus Protocol",
-				"url": "/overview/network/byzantine-agreement/"
-			},
-			{
-				"label": "Sustainability",
-				"url": "/overview/network/energy"
-			},
-			{
-				"label": "Circulating Supply",
-				"url": "/overview/network/supply/"
-			}
-  			 ]
+			"url": "/#explain"
 		},
 		{
 			"label": "Developers",
@@ -78,51 +37,7 @@
 		},
 		{
 			"label": "Community",
-			"submenu": [
-			{
-				"label": "Online communities",
-				"url": "/#community"
-			},
-			{
-				"label": "Upcoming Events",
-				"url": "/community"
-			},
-			{
-				"label": "Privacy Podcasts",
-				"url": "/media/podcasts"
-			},
-			{
-				"label": "Weekly Livestreams",
-				"url": "/media/videos/#meet-mobilecoin"
-			},
-			{
-				"label": "News Updates",
-				"url": "/blog"
-			},
-			{
-				"label": "Radio Show",
-				"url": "http://mobilecoinradio.com",
-				"newTab": true
-			},
-			{
-				"label": "Art Residency",
-				"url": "http://mobilecoin.art",
-				"newTab": true
-			},
-			{
-				"label": "The Foundation",
-				"url": "/overview/governance/foundation/"
-			},
-			{
-				"label": "Tech Support",
-				"url": "https://intercom.help/mobilecoin/en/",
-				"newTab": true
-			},
-			{
-				"label": "Press Coverage",
-				"url": "/press"
-			}
-  			 ]
+			"url": "/#community"
 		},
 		{
 			"label": "Careers",
