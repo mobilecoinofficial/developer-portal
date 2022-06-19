@@ -10,16 +10,20 @@
 			"label": "Use MobileCoin",
 			"submenu": [
 			{
-				"label": "Popular Apps",
-				"url": "/#ecosystem"
-			},
-			{
 				"label": "Get your Wallet",
 				"url": "/overview/how-to-use-mobilecoin/activate"
 			},
 			{
 				"label": "Get MobileCoin",
 				"url": "/overview/how-to-buy-mobilecoin/fennec"
+			},
+			{
+				"label": "Popular Apps",
+				"url": "/#ecosystem"
+			},
+			{
+				"label": "See the Ecosystem",
+				"url": "/ecosystem"
 			}
   			 ]
 		},
