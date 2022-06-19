@@ -20,7 +20,7 @@
 			{
 				"label": "Get MobileCoin",
 				"url": "/overview/how-to-buy-mobilecoin/fennec"
-			},
+			}
   			 ]
 		},
 		{
@@ -98,6 +98,7 @@
 				"label": "Upcoming Events",
 				"url": "/#events"
 			}
+				]
 		},
 		{
 			"label": "Careers",
