@@ -10,34 +10,94 @@
 			"label": "Use MobileCoin",
 			"submenu": [
 			{
-				"label": "Get Signal",
+				"label": "Popular Apps",
+				"url": "/#ecosystem"
+			},
+			{
+				"label": "Get your Wallet",
 				"url": "/overview/how-to-use-mobilecoin/activate"
 			},
 			{
-				"label": "Buy MobileCoin",
+				"label": "Get MobileCoin",
 				"url": "/overview/how-to-buy-mobilecoin/fennec"
 			},
-			{
-				"label": "Wallets & Exchanges",
-				"url": "/ecosystem"
-			},
-			{
-				"label": "More Apps",
-				"url": "/ecosystem"
-			}
   			 ]
 		},
 		{
 			"label": "Learn",
-			"url": "/#explain"
+			"url": "/#explain",
+			"submenu": [
+			{
+				"label": "Protect your payments",
+				"url": "/#features"
+			},
+			{
+				"label": "Explain Like I'm 5",
+				"url": "/#explain"
+			},
+			{
+				"label": "Whitepapers",
+				"url": "/#whitepapers"
+			},
+			{
+				"label": "How To Videos",
+				"url": "/media/videos"
+			}
+  			 ]
 		},
 		{
 			"label": "Developers",
-			"url": "/#developers"
+			"url": "/#developers",
+			"submenu": [
+			{
+				"label": "Research & Development",
+				"url": "/#developers"
+			},
+			{
+				"label": "Documentation",
+				"url": "/#docs"
+			},
+			{
+				"label": "Discord Server",
+				"url": "https://discord.com/invite/mobilecoin",
+				"newTab": true
+			},
+			{
+				"label": "Official GitHub",
+				"url": "https://github.com/mobilecoinofficial/",
+				"newTab": true
+			},
+			{
+				"label": "Foundation GitHub",
+				"url": "https://github.com/mobilecoinfoundation/",
+				"newTab": true
+			}
+  			 ]
 		},
 		{
 			"label": "Community",
-			"url": "/#community"
+			"url": "/#community",
+			"submenu": [
+			{
+				"label": "Online Communities",
+				"url": "/#community"
+			},
+			{
+				"label": "News",
+				"url": "/#blog"
+			},
+			{
+				"label": "Podcasts",
+				"url": "/#podcasts"
+			},
+			{
+				"label": "Live AMAs",
+				"url": "/#videos"
+			},
+			{
+				"label": "Upcoming Events",
+				"url": "/#events"
+			}
 		},
 		{
 			"label": "Careers",
