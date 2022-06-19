@@ -87,16 +87,16 @@
 				"url": "/#blog"
 			},
 			{
+				"label": "Events",
+				"url": "/#events"
+			},
+			{
 				"label": "Podcasts",
 				"url": "/#podcasts"
 			},
 			{
-				"label": "Live AMAs",
+				"label": "Livestreams",
 				"url": "/#videos"
-			},
-			{
-				"label": "Upcoming Events",
-				"url": "/#events"
 			}
 				]
 		},
