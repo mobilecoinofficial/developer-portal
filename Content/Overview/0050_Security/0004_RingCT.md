@@ -9,4 +9,6 @@ RingCT protects the amount exchanged in each transaction using cryptography. Rat
 
 Only the receiver of the transaction can reveal the encrypted monetary value and spend the new txos that are written to the ledger. The recipient’s cryptographic control over spending ensures that all transactions in MobileCoin are irreversible, similar to cash transactions in the real world.
 
-Please see [this document](https://github.com/mobilecoinfoundation/bulletproofs/blob/main/README.md) for more details.
+# [Download the Whitepaper](https://raw.githubusercontent.com/mobilecoinofficial/developer-portal/master/info/ringct.pdf)
+
+[widget type='pdfViewer' pdf='//raw.githubusercontent.com/mobilecoinofficial/developer-portal/master/info/ringct.pdf']
