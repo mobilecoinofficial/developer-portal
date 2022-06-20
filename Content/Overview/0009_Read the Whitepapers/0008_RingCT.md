@@ -5,6 +5,7 @@ CryptoNote ledgers are significantly more secure than Bitcoin, but they still le
 
 RingCT protects the amount exchanged in each transaction using cryptography. Rather than publish the value that is exchanged, RingCT transactions include a mathematical proof that the transaction is balanced, meaning that the recipient didn’t receive more money than the sender spent. 
 
+
 # [Download the Whitepaper](https://raw.githubusercontent.com/mobilecoinofficial/developer-portal/master/info/ringct.pdf)
 
 [widget type='pdfViewer' pdf='//raw.githubusercontent.com/mobilecoinofficial/developer-portal/master/info/ringct.pdf']
