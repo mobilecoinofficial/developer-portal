@@ -17,4 +17,3 @@ Please see [this GitHub](https://github.com/mobilecoinfoundation/bulletproofs/) 
 
 # [Download the Whitepaper](https://github.com/mobilecoinofficial/developer-portal/blob/main/info/bulletproofs.pdf)
 
-[widget type='pdfViewer' pdf='//raw.githubusercontent.com/mobilecoinofficial/developer-portal/master/info/bulletproofs.pdf']
