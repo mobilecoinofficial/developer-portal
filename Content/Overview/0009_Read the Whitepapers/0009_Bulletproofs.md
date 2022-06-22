@@ -1,0 +1,20 @@
+---
+title: "Bulletproofs"
+description: "The fastest Bulletproofs implementation ever, featuring single and aggregated range proofs, strongly-typed multiparty computation, and a programmable constraint system API for proving arbitrary statements (under development)."
+---
+
+Ring CT is implemented using bulletproofs for improved performance. MobileCoin uses [Bulletproofs](https://github.com/dalek-cryptography/bulletproofs) in client transaction construction to obscure the transaction input and output amounts, while proving in zero-knowledge that the ledger will remain balanced. 
+
+Bulletproofs is an efficient (fast) algorithmic approach introduced by Bünz in 2017 that has greatly improved performance. It is now possible to use transactions with protected amounts without reducing the throughput of the payments network. 
+
+Mobilecoin uses the [Dalek](https://github.com/dalek-cryptography/bulletproofs) library which is the fastest [Bulletproofs][bp_website] implementation ever, featuring single and aggregated range proofs, strongly-typed multiparty computation, and a programmable constraint system API for proving arbitrary statements. 
+
+The Dalek library implements Bulletproofs using [Ristretto][ristretto], using the `ristretto255` implementation in
+[`curve25519-dalek`][curve25519_dalek]. When using the parallel formulas in the curve25519-dalek AVX2 backend, it can verify 64-bit rangeproofs approximately twice as fast as the original libsecp256k1-based Bulletproofs implementation.
+
+Please see [this GitHub](https://github.com/mobilecoinfoundation/bulletproofs/) for more details.
+
+
+# [Download the Whitepaper](https://github.com/mobilecoinofficial/developer-portal/blob/main/info/bulletproofs.pdf)
+
+[widget type='pdfViewer' pdf='//raw.githubusercontent.com/mobilecoinofficial/developer-portal/master/info/bulletproofs.pdf']
