@@ -12,4 +12,8 @@ Mobilecoin uses the [Dalek](https://github.com/dalek-cryptography/bulletproofs) 
 The Dalek library implements Bulletproofs using [Ristretto][ristretto], using the `ristretto255` implementation in
 [`curve25519-dalek`][curve25519_dalek]. When using the parallel formulas in the curve25519-dalek AVX2 backend, it can verify 64-bit rangeproofs approximately twice as fast as the original libsecp256k1-based Bulletproofs implementation.
 
-Please see [this document](https://github.com/mobilecoinfoundation/bulletproofs/blob/main/README.md) for more details.
+Please see [this GitHub](https://github.com/mobilecoinfoundation/bulletproofs/) for more details.
+
+# [Download the Whitepaper](https://github.com/mobilecoinofficial/developer-portal/blob/main/info/bulletproofs.pdf)
+
+[widget type='pdfViewer' pdf='//raw.githubusercontent.com/mobilecoinofficial/developer-portal/master/info/bulletproofs.pdf']
