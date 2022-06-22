@@ -15,5 +15,3 @@ The Dalek library implements Bulletproofs using [Ristretto][ristretto], using th
 Please see [this GitHub](https://github.com/mobilecoinfoundation/bulletproofs/) for more details.
 
 
-# [Download the Whitepaper](https://github.com/mobilecoinofficial/developer-portal/blob/main/info/bulletproofs.pdf)
-
