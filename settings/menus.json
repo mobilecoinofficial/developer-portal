@@ -69,6 +69,10 @@
 				"label": "Discord Server",
 				"url": "https://discord.com/invite/mobilecoin",
 				"newTab": true
+			},
+			{
+				"label": "App Ecosystem",
+				"url": "/ecosystem"
 			}
   			 ]
 		},
