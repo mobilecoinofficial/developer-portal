@@ -54,6 +54,10 @@
 			"url": "/#developers",
 			"submenu": [
 			{
+				"label": "Getting Started",
+				"url": "/community"
+			},
+			{
 				"label": "Research & Development",
 				"url": "/#developers"
 			},
@@ -64,16 +68,6 @@
 			{
 				"label": "Discord Server",
 				"url": "https://discord.com/invite/mobilecoin",
-				"newTab": true
-			},
-			{
-				"label": "Official GitHub",
-				"url": "https://github.com/mobilecoinofficial/",
-				"newTab": true
-			},
-			{
-				"label": "Foundation GitHub",
-				"url": "https://github.com/mobilecoinfoundation/",
 				"newTab": true
 			}
   			 ]
@@ -105,7 +99,7 @@
 				]
 		},
 		{
-			"label": "Careers",
+			"label": "Jobs",
 			"url": "/jobs"
 		}
 	],
