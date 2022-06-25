@@ -51,30 +51,7 @@
 		},
 		{
 			"label": "Developers",
-			"url": "/#developers",
-			"submenu": [
-			{
-				"label": "Getting Started",
-				"url": "/community"
-			},
-			{
-				"label": "Research & Development",
-				"url": "/#developers"
-			},
-			{
-				"label": "Documentation",
-				"url": "/#docs"
-			},
-			{
-				"label": "Discord Server",
-				"url": "https://discord.com/invite/mobilecoin",
-				"newTab": true
-			},
-			{
-				"label": "App Ecosystem",
-				"url": "/ecosystem"
-			}
-  			 ]
+			"url": "/community"
 		},
 		{
 			"label": "Community",
