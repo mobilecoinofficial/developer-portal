@@ -2,6 +2,7 @@
 title: "Getting Started"
 ---
 
+Welcome to the Developer resources for MobileCoin. 
                 <IconList appCardStyle title="Research & Development" numberOfColumns={4} id="developers" className="mt-[100px] mb-[20px]" icons={[
                     {
                         url: "/blog/mobilecoin-launches-grants-program",
@@ -50,15 +51,6 @@ title: "Getting Started"
                         icon: <FontAwesomeIcon icon={faGithub} />,
                         title: "Foundation GitHub",
                         desc: "Free open-source software managed by a technical committee."
-                    }
-                ]} />
-
-                <IconList appCardStyle title="Documentation" numberOfColumns={4} id="docs" className="mt-[100px] mb-[20px]" icons={[
-                    {
-                        url: "/guides/contributing/getting-started",
-                        icon: <FontAwesomeIcon icon={faPython} />,
-                        title: "Getting Started",
-                        desc: "All of the developer resources in one place."
                     },
                     {
                         url: "/guides/full-service-api",
