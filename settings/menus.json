@@ -51,33 +51,11 @@
 		},
 		{
 			"label": "Developers",
-			"url": "/community"
+			"url": "/developers"
 		},
 		{
 			"label": "Community",
-			"url": "/#community",
-			"submenu": [
-			{
-				"label": "Online Communities",
-				"url": "/#community"
-			},
-			{
-				"label": "News",
-				"url": "/#blog"
-			},
-			{
-				"label": "Events",
-				"url": "/#events"
-			},
-			{
-				"label": "Podcasts",
-				"url": "/#podcasts"
-			},
-			{
-				"label": "Livestreams",
-				"url": "/#videos"
-			}
-				]
+			"url": "/community",
 		},
 		{
 			"label": "Jobs",
