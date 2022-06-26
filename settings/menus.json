@@ -8,6 +8,7 @@
 	"main": [
 		{
 			"label": "Use MobileCoin",
+			"url": "/ecosystem"
 			"submenu": [
 			{
 				"label": "Get your Wallet",
@@ -15,10 +16,10 @@
 			},
 			{
 				"label": "Get MobileCoin",
-				"url": "/overview/how-to-buy-mobilecoin/fennec"
+				"url": "/ecosystem#buy-mobilecoin-in-the-us"
 			},
 			{
-				"label": "See the Marketplace",
+				"label": "App Marketplace",
 				"url": "/ecosystem"
 			}
   			 ]
