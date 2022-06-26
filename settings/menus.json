@@ -10,6 +10,10 @@
 			"label": "Use MobileCoin",
 			"submenu": [
 			{
+				"label": "Signal Payments",
+				"url": "/ecosystem/signal-messenger/"
+			},
+			{
 				"label": "MobileCoin wallets",
 				"url": "/ecosystem"
 			},
