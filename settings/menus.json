@@ -8,7 +8,7 @@
 	"main": [
 		{
 			"label": "Use MobileCoin",
-			"url": "/ecosystem"
+			"url": "/ecosystem",
 			"submenu": [
 			{
 				"label": "Get Signal Payments",
