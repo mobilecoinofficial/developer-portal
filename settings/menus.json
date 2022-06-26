@@ -8,19 +8,14 @@
 	"main": [
 		{
 			"label": "Use MobileCoin",
-			"url": "/ecosystem",
 			"submenu": [
 			{
-				"label": "Get Signal Payments",
-				"url": "/ecosystem/signal-messenger"
+				"label": "MobileCoin wallets",
+				"url": "/ecosystem"
 			},
 			{
 				"label": "Buy MobileCoin",
 				"url": "/ecosystem#buy-mobilecoin-in-the-us"
-			},
-			{
-				"label": "App Marketplace",
-				"url": "/ecosystem"
 			},
 			{
 				"label": "How To Videos",
@@ -30,7 +25,6 @@
 		},
 		{
 			"label": "Learn",
-			"url": "/#explain",
 			"submenu": [
 			{
 				"label": "Explain Like I'm 5",
