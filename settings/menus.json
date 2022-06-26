@@ -11,7 +11,7 @@
 			"url": "/ecosystem"
 			"submenu": [
 			{
-				"label": "Get your Wallet",
+				"label": "Get Signal Payments",
 				"url": "/ecosystem/signal-messenger"
 			},
 			{
@@ -21,6 +21,10 @@
 			{
 				"label": "App Marketplace",
 				"url": "/ecosystem"
+			},
+			{
+				"label": "How To Videos",
+				"url": "/media/videos"
 			}
   			 ]
 		},
@@ -28,10 +32,6 @@
 			"label": "Learn",
 			"url": "/#explain",
 			"submenu": [
-			{
-				"label": "Protect your payments",
-				"url": "/#features"
-			},
 			{
 				"label": "Explain Like I'm 5",
 				"url": "/#explain"
@@ -41,8 +41,20 @@
 				"url": "/#whitepapers"
 			},
 			{
-				"label": "How To Videos",
-				"url": "/media/videos"
+				"label": "Network Overview",
+				"url": "/overview/network/network/"
+			},
+			{
+				"label": "Defense in Depth",
+				"url": "/overview/security/intro//"
+			},
+			{
+				"label": "Governance",
+				"url": "/overview/governance/foundation/"
+			}
+			{
+				"label": "FAQ",
+				"url": "/overview/faq/"
 			}
   			 ]
 		},
