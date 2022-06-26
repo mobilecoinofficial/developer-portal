@@ -12,10 +12,10 @@
 			"submenu": [
 			{
 				"label": "Get your Wallet",
-				"url": "/overview/how-to-use-mobilecoin/activate"
+				"url": "/ecosystem/signal-messenger"
 			},
 			{
-				"label": "Get MobileCoin",
+				"label": "Buy MobileCoin",
 				"url": "/ecosystem#buy-mobilecoin-in-the-us"
 			},
 			{
