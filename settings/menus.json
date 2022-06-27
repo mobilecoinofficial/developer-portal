@@ -98,12 +98,12 @@
 				"url": "/community/#events"
 			},
 			{
-				"label": "Podcasts",
+				"label": "Privacy Podcasts",
 				"url": "/media/podcasts"
 			},
 			{
-				"label": "Livestreams",
-				"url": "/media/videos"
+				"label": "Weekly Livestreams",
+				"url": "/media/videos/#meet-mobilecoin"
 			},
 			{
 				"label": "Crypto Renaissance",
