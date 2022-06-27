@@ -62,7 +62,24 @@
 		},
 		{
 			"label": "Developers",
-			"url": "/developers"
+			"submenu": [
+			{
+				"label": "Developers' home",
+				"url": "/developers"
+			},
+			{
+				"label": "Documentation",
+				"url": "/guides"
+			},
+			{
+				"label": "Grants",
+				"url": "/blog/mobilecoin-launches-grants-program"
+			},
+			{
+				"label": "Bounties",
+				"url": "/bounties"
+			}
+				]
 		},
 		{
 			"label": "Community",
