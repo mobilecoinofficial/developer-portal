@@ -33,7 +33,12 @@
 		},
 		{
 			"label": "Learn",
+			"url": "/#features",
 			"submenu": [
+			{
+				"label": "About MobileCoin",
+				"url": "/#features"
+			},
 			{
 				"label": "Explain Like I'm 5",
 				"url": "/#explain"
@@ -53,10 +58,6 @@
 			{
 				"label": "Governance",
 				"url": "/overview/governance/foundation/"
-			},
-			{
-				"label": "FAQ",
-				"url": "/overview/faq/"
 			}
   			 ]
 		},
