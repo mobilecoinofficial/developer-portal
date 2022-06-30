@@ -1,5 +1,5 @@
 ---
-title: Make Bitcoin Better
+title: Bitter to Better
 hide_title: true
 ---
 # Bitter to Better — How to Make Bitcoin a Better Currency
