@@ -10,16 +10,16 @@
 			"label": "Use MobileCoin",
 			"submenu": [
 			{
-				"label": "Signal Payments",
-				"url": "/ecosystem/signal-messenger/"
-			},
-			{
 				"label": "MobileCoin wallets",
 				"url": "/ecosystem"
 			},
 			{
-				"label": "Buy MobileCoin",
-				"url": "/ecosystem#trading-in-the-us"
+				"label": "How to Use MobileCoin",
+				"url": "/overview/how-to-use-mobilecoin/activate/"
+			},
+			{
+				"label": "How to Buy MobileCoin",
+				"url": "/overview/how-to-use-mobilecoin/fennec/"
 			},
 			{
 				"label": "How To Videos",
