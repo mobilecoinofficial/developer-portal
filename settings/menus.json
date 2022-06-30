@@ -23,7 +23,7 @@
 			},
 			{
 				"label": "How To Videos",
-				"url": "/media/videos"
+				"url": "/media/videos/#how-to-use-mobilecoin"
 			}
   			 ]
 		},
@@ -44,12 +44,12 @@
 				"url": "/#whitepapers"
 			},
 			{
-				"label": "Network Overview",
+				"label": "Network",
 				"url": "/overview/network/network/"
 			},
 			{
-				"label": "Defense in Depth",
-				"url": "/overview/security/intro//"
+				"label": "Security",
+				"url": "/overview/security/intro/"
 			},
 			{
 				"label": "Governance",
