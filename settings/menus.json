@@ -29,11 +29,10 @@
 		},
 		{
 			"label": "Learn",
-			"url": "/#features",
 			"submenu": [
 			{
 				"label": "About MobileCoin",
-				"url": "/#features"
+				"url": "/#principles"
 			},
 			{
 				"label": "Explain Like I'm 5",
@@ -44,11 +43,11 @@
 				"url": "/#whitepapers"
 			},
 			{
-				"label": "Network",
+				"label": "Network Overview",
 				"url": "/overview/network/network/"
 			},
 			{
-				"label": "Security",
+				"label": "Defense in Depth",
 				"url": "/overview/security/intro/"
 			},
 			{
