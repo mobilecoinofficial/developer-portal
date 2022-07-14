@@ -68,6 +68,10 @@
 				"url": "/guides/full-service-api/"
 			},
 			{
+				"label": "Improvement Proposals",
+				"url": "/proposals/"
+			},
+			{
 				"label": "Grants",
 				"url": "/blog/mobilecoin-launches-grants-program"
 			},
@@ -107,8 +111,8 @@
 				]
 		},
 		{
-			"label": "Jobs",
-			"url": "/jobs"
+			"label": "Team",
+			"url": "/team"
 		}
 	],
 	"foot": [
