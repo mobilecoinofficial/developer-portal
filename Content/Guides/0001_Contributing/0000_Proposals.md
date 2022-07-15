@@ -15,7 +15,7 @@ The "MCIP" (MobileCoin Improvement Proposal) process is intended to provide a co
 and controlled path for new features to enter the ecosystem, so that all
 stakeholders can be confident about the direction the protocol is evolving in.
 
-# [MCIP Repository]
+# [Improvement Proposals](https://mobilecoin.com/proposals)
 
 ## Table of Contents
 [Table of Contents]: #table-of-contents
