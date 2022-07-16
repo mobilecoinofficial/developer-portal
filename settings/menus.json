@@ -8,6 +8,7 @@
 	"main": [
 		{
 			"label": "Use MobileCoin",
+			"url": "/ecosystem",
 			"submenu": [
 			{
 				"label": "MobileCoin wallets",
@@ -29,6 +30,7 @@
 		},
 		{
 			"label": "Learn",
+			"url": "/#principles",
 			"submenu": [
 			{
 				"label": "About MobileCoin",
@@ -58,6 +60,7 @@
 		},
 		{
 			"label": "Developers",
+			"url": "/developers",
 			"submenu": [
 			{
 				"label": "Developers' home",
@@ -83,6 +86,7 @@
 		},
 		{
 			"label": "Community",
+			"url": "/community",
 			"submenu": [
 			{
 				"label": "Join our Community",
