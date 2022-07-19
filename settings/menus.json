@@ -109,6 +109,10 @@
 				"url": "/media/podcasts"
 			},
 			{
+				"label": "MobileCoin Radio",
+				"url": "/media/videos/#mobilecoin-radio-live"
+			},
+			{
 				"label": "Weekly Livestreams",
 				"url": "/media/videos/#good-morning-mobilecoin"
 			},
