@@ -33,16 +33,16 @@
 			"url": "/#principles",
 			"submenu": [
 			{
-				"label": "About MobileCoin",
-				"url": "/#principles"
+				"label": "Principles",
+				"url": "https://mobilecoin.com/#principles"
 			},
 			{
 				"label": "Explain Like I'm 5",
-				"url": "/#explain"
+				"url": "https://mobilecoin.com/#explain"
 			},
 			{
 				"label": "Whitepapers",
-				"url": "/#whitepapers"
+				"url": "https://mobilecoin.com/#whitepapers"
 			},
 			{
 				"label": "Network Overview",
@@ -53,8 +53,12 @@
 				"url": "/overview/security/intro/"
 			},
 			{
-				"label": "Governance",
+				"label": "Foundation",
 				"url": "/overview/governance/foundation/"
+			},
+			{
+				"label": "Crypto Renaissance",
+				"url": "/media/videos#crypto-renaissance"
 			}
   			 ]
 		},
@@ -67,7 +71,7 @@
 				"url": "/developers"
 			},
 			{
-				"label": "Documentation",
+				"label": "Read the Docs",
 				"url": "/guides/full-service-api/"
 			},
 			{
@@ -75,7 +79,7 @@
 				"url": "/proposals/"
 			},
 			{
-				"label": "Grants",
+				"label": "Apply for Grants",
 				"url": "/guides/contributing/grants/"
 			},
 			{
@@ -93,7 +97,7 @@
 				"url": "/community"
 			},
 			{
-				"label": "Latest News",
+				"label": "Latest Updates",
 				"url": "/blog"
 			},
 			{
@@ -109,8 +113,8 @@
 				"url": "/media/videos/#meet-mobilecoin"
 			},
 			{
-				"label": "Crypto Renaissance",
-				"url": "/media/videos#crypto-renaissance"
+				"label": "Support Forums",
+				"url": "http://mobilecoin.community"
 			}
 				]
 		},
