@@ -1,4 +1,4 @@
-Welcome to the MobileCoin developer documentation! This repository contains the content for the [MobileCoin developer portal](https://developers.mobilecoin.com). If you are looking for the portal, please go there. If you intend to submit a change to the developer docs, please read the below structural guidelines.
+Welcome to the MobileCoin documentation repo! This repository contains most of the content for the [MobileCoin website](https://mobilecoin.com). If you intend to submit a change to the documentation, please read the below structural guidelines.
 
 # Site Structure
 
