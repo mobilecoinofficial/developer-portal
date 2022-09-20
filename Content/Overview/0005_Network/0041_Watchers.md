@@ -10,7 +10,7 @@ in systems that require the timestamp from each node per block.
 
 ### Blockchain Explorer
 
-The Watcher provides the backend for the [Blockchain Explorer](https://block-explorer.0--0.net/) (Beta), which serves 
+The Watcher provides the backend for the [Blockchain Explorer](https://block-explorer.mobilecoin.foundation/), which serves 
 the block signatures, timestamps, TXO data, and key_images per block.
 
 ### Show Me the Code
